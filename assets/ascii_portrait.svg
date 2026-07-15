@@ -1,0 +1,3966 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 485 797" width="485" height="797">
+  <rect width="100%" height="100%" fill="#1a1b26" rx="8" />
+  <style>
+    .ascii-text {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+  </style>
+  <text x="15" y="20" class="ascii-text" xml:space="preserve">
+    <tspan x="15" dy="13">
+<tspan fill="#f5f5f5">%</tspan>
+<tspan fill="#f5f5f5">%</tspan>
+<tspan fill="#f5f5f5">%</tspan>
+<tspan fill="#f4f4f4">%</tspan>
+<tspan fill="#f3f3f3">%</tspan>
+<tspan fill="#f1f1f1">%</tspan>
+<tspan fill="#f0f0f0">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#eeeeee">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#ededed">%</tspan>
+<tspan fill="#ececec">%</tspan>
+<tspan fill="#ededed">%</tspan>
+<tspan fill="#eeeeee">%</tspan>
+<tspan fill="#ededed">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#e7e7e7">%</tspan>
+<tspan fill="#dfdfdf">#</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e4e4e4">%</tspan>
+<tspan fill="#e4e4e4">%</tspan>
+<tspan fill="#e4e4e4">%</tspan>
+<tspan fill="#e5e5e5">%</tspan>
+<tspan fill="#e4e4e4">%</tspan>
+<tspan fill="#e3e3e3">%</tspan>
+<tspan fill="#e3e3e3">%</tspan>
+<tspan fill="#e3e3e3">%</tspan>
+<tspan fill="#e4e4e4">%</tspan>
+<tspan fill="#e3e3e2">#</tspan>
+<tspan fill="#e4e4e3">%</tspan>
+<tspan fill="#e1e2e0">#</tspan>
+<tspan fill="#e6e6e6">%</tspan>
+<tspan fill="#e6e6e6">%</tspan>
+<tspan fill="#e6e6e6">%</tspan>
+<tspan fill="#e4e4e5">%</tspan>
+<tspan fill="#e3e3e2">#</tspan>
+<tspan fill="#e2e2e0">#</tspan>
+<tspan fill="#e3e3e0">#</tspan>
+<tspan fill="#e5e5e2">%</tspan>
+<tspan fill="#e7e5e2">%</tspan>
+<tspan fill="#e6e4e2">%</tspan>
+<tspan fill="#e4e4e1">%</tspan>
+<tspan fill="#e5e4e1">%</tspan>
+<tspan fill="#e5e4e1">%</tspan>
+<tspan fill="#e4e3e1">%</tspan>
+<tspan fill="#e4e4e1">%</tspan>
+<tspan fill="#e6e5e2">%</tspan>
+<tspan fill="#e6e5e2">%</tspan>
+<tspan fill="#e5e4e2">%</tspan>
+<tspan fill="#e7e7e3">%</tspan>
+<tspan fill="#ebeae7">%</tspan>
+<tspan fill="#e9e7e5">%</tspan>
+<tspan fill="#ebebe8">%</tspan>
+<tspan fill="#eeeeeb">%</tspan>
+<tspan fill="#f0f0ed">%</tspan>
+<tspan fill="#f4f4f2">%</tspan>
+<tspan fill="#f4f4f2">%</tspan>
+<tspan fill="#f4f4f1">%</tspan>
+<tspan fill="#f7f7f4">%</tspan>
+<tspan fill="#fbfbf8">%</tspan>
+<tspan fill="#fdfdfb">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#f0f0f0">%</tspan>
+<tspan fill="#f0f0f0">%</tspan>
+<tspan fill="#f1f1f1">%</tspan>
+<tspan fill="#f1f1f1">%</tspan>
+<tspan fill="#f1f1f1">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#ededed">%</tspan>
+<tspan fill="#ececec">%</tspan>
+<tspan fill="#ececec">%</tspan>
+<tspan fill="#ebebeb">%</tspan>
+<tspan fill="#ebebeb">%</tspan>
+<tspan fill="#ececec">%</tspan>
+<tspan fill="#ebebeb">%</tspan>
+<tspan fill="#e9e9e9">%</tspan>
+<tspan fill="#e8e8e8">%</tspan>
+<tspan fill="#e9e9e9">%</tspan>
+<tspan fill="#ebebeb">%</tspan>
+<tspan fill="#ececec">%</tspan>
+<tspan fill="#ebebeb">%</tspan>
+<tspan fill="#e6e6e6">%</tspan>
+<tspan fill="#dedede">#</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e5e5e5">%</tspan>
+<tspan fill="#e5e5e5">%</tspan>
+<tspan fill="#e4e4e4">%</tspan>
+<tspan fill="#e4e4e4">%</tspan>
+<tspan fill="#e3e3e3">%</tspan>
+<tspan fill="#e3e3e3">%</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e3e3e2">#</tspan>
+<tspan fill="#e3e3e2">#</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e0e0df">#</tspan>
+<tspan fill="#e2e2e1">#</tspan>
+<tspan fill="#e3e3e4">%</tspan>
+<tspan fill="#e4e4e3">%</tspan>
+<tspan fill="#e3e3e3">%</tspan>
+<tspan fill="#e4e4e4">%</tspan>
+<tspan fill="#e4e4e4">%</tspan>
+<tspan fill="#e2e2e0">#</tspan>
+<tspan fill="#e2e2e0">#</tspan>
+<tspan fill="#e4e3e1">%</tspan>
+<tspan fill="#e5e5e2">%</tspan>
+<tspan fill="#e5e5e3">%</tspan>
+<tspan fill="#e5e5e2">%</tspan>
+<tspan fill="#e4e4e2">%</tspan>
+<tspan fill="#e5e5e2">%</tspan>
+<tspan fill="#e6e6e3">%</tspan>
+<tspan fill="#e4e4e1">%</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e4e4e2">%</tspan>
+<tspan fill="#e7e8e4">%</tspan>
+<tspan fill="#e8e9e6">%</tspan>
+<tspan fill="#e9e9e6">%</tspan>
+<tspan fill="#e9e9e6">%</tspan>
+<tspan fill="#eae8e5">%</tspan>
+<tspan fill="#ebeae7">%</tspan>
+<tspan fill="#edecea">%</tspan>
+<tspan fill="#eeeeeb">%</tspan>
+<tspan fill="#efefec">%</tspan>
+<tspan fill="#f4f4f2">%</tspan>
+<tspan fill="#f3f3f0">%</tspan>
+<tspan fill="#f3f3f0">%</tspan>
+<tspan fill="#f7f7f5">%</tspan>
+<tspan fill="#fafaf7">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#f3f3f3">%</tspan>
+<tspan fill="#f4f4f4">%</tspan>
+<tspan fill="#f1f1f1">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#ededed">%</tspan>
+<tspan fill="#ededed">%</tspan>
+<tspan fill="#ebebeb">%</tspan>
+<tspan fill="#ebebeb">%</tspan>
+<tspan fill="#ececec">%</tspan>
+<tspan fill="#f1f1f1">%</tspan>
+<tspan fill="#f6f6f6">%</tspan>
+<tspan fill="#f9fafa">%</tspan>
+<tspan fill="#f5f6f5">%</tspan>
+<tspan fill="#f0f0f0">%</tspan>
+<tspan fill="#eeeeee">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#ececec">%</tspan>
+<tspan fill="#e6e6e6">%</tspan>
+<tspan fill="#e3e3e3">%</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e5e5e5">%</tspan>
+<tspan fill="#e5e5e5">%</tspan>
+<tspan fill="#e4e3e3">%</tspan>
+<tspan fill="#e3e2e0">#</tspan>
+<tspan fill="#e3e3e1">#</tspan>
+<tspan fill="#e3e3e2">#</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e1e1e2">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e2e2e1">#</tspan>
+<tspan fill="#e4e4e3">%</tspan>
+<tspan fill="#e4e4e1">%</tspan>
+<tspan fill="#e3e3e1">#</tspan>
+<tspan fill="#e4e4e2">%</tspan>
+<tspan fill="#e6e6e3">%</tspan>
+<tspan fill="#e7e7e4">%</tspan>
+<tspan fill="#e4e3e1">%</tspan>
+<tspan fill="#e2e1df">#</tspan>
+<tspan fill="#e5e5e2">%</tspan>
+<tspan fill="#e9e9e6">%</tspan>
+<tspan fill="#e9e8e5">%</tspan>
+<tspan fill="#e8e7e3">%</tspan>
+<tspan fill="#e8e7e4">%</tspan>
+<tspan fill="#eae8e5">%</tspan>
+<tspan fill="#edecea">%</tspan>
+<tspan fill="#efefec">%</tspan>
+<tspan fill="#f2f2ef">%</tspan>
+<tspan fill="#f7f7f4">%</tspan>
+<tspan fill="#f8f8f5">%</tspan>
+<tspan fill="#f5f5f3">%</tspan>
+<tspan fill="#f7f7f4">%</tspan>
+<tspan fill="#f6f6f3">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#e8e8e7">%</tspan>
+<tspan fill="#e8e8e8">%</tspan>
+<tspan fill="#ececec">%</tspan>
+<tspan fill="#efefef">%</tspan>
+<tspan fill="#eeeeee">%</tspan>
+<tspan fill="#f0f0f0">%</tspan>
+<tspan fill="#f2f2f2">%</tspan>
+<tspan fill="#f7f6f6">%</tspan>
+<tspan fill="#fdfdfd">%</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#fafaf9">%</tspan>
+<tspan fill="#f3f2f1">%</tspan>
+<tspan fill="#f0efed">%</tspan>
+<tspan fill="#f2f1ef">%</tspan>
+<tspan fill="#f2f1f0">%</tspan>
+<tspan fill="#f2f1f1">%</tspan>
+<tspan fill="#f0f0f0">%</tspan>
+<tspan fill="#eeeeee">%</tspan>
+<tspan fill="#ededed">%</tspan>
+<tspan fill="#eeeeee">%</tspan>
+<tspan fill="#ededed">%</tspan>
+<tspan fill="#eeeeee">%</tspan>
+<tspan fill="#ededeb">%</tspan>
+<tspan fill="#ecebe9">%</tspan>
+<tspan fill="#e8e8e5">%</tspan>
+<tspan fill="#e4e3e0">#</tspan>
+<tspan fill="#e1e1e0">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e1e0e0">#</tspan>
+<tspan fill="#e1e0df">#</tspan>
+<tspan fill="#e1e1e0">#</tspan>
+<tspan fill="#e0e1e0">#</tspan>
+<tspan fill="#e0e0de">#</tspan>
+<tspan fill="#dfdfdd">#</tspan>
+<tspan fill="#e1e1e0">#</tspan>
+<tspan fill="#e0e0df">#</tspan>
+<tspan fill="#e0e0de">#</tspan>
+<tspan fill="#e1e1df">#</tspan>
+<tspan fill="#e1e1e0">#</tspan>
+<tspan fill="#e1e1e1">#</tspan>
+<tspan fill="#e2e2e2">#</tspan>
+<tspan fill="#e3e3e3">%</tspan>
+<tspan fill="#e2e2e3">#</tspan>
+<tspan fill="#e4e2e2">#</tspan>
+<tspan fill="#e5e4e1">%</tspan>
+<tspan fill="#e5e4e1">%</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e5e4e1">%</tspan>
+<tspan fill="#e6e5e2">%</tspan>
+<tspan fill="#e4e3e0">#</tspan>
+<tspan fill="#e4e2e0">#</tspan>
+<tspan fill="#e1e0de">#</tspan>
+<tspan fill="#e2e1df">#</tspan>
+<tspan fill="#e7e5e3">%</tspan>
+<tspan fill="#eae8e5">%</tspan>
+<tspan fill="#e7e5e2">%</tspan>
+<tspan fill="#e9e7e4">%</tspan>
+<tspan fill="#ebeae7">%</tspan>
+<tspan fill="#ededea">%</tspan>
+<tspan fill="#f1f1ef">%</tspan>
+<tspan fill="#f8f8f5">%</tspan>
+<tspan fill="#f9f9f6">%</tspan>
+<tspan fill="#f7f7f4">%</tspan>
+<tspan fill="#f9f9f6">%</tspan>
+<tspan fill="#fbfbf8">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#fdfefd">%</tspan>
+<tspan fill="#f0f0ef">%</tspan>
+<tspan fill="#ebe9eb">%</tspan>
+<tspan fill="#eaebeb">%</tspan>
+<tspan fill="#eef0f0">%</tspan>
+<tspan fill="#f0f1f2">%</tspan>
+<tspan fill="#eff0f1">%</tspan>
+<tspan fill="#eeeff0">%</tspan>
+<tspan fill="#ededee">%</tspan>
+<tspan fill="#efefee">%</tspan>
+<tspan fill="#f3f3f1">%</tspan>
+<tspan fill="#f5f5f3">%</tspan>
+<tspan fill="#f4f3f1">%</tspan>
+<tspan fill="#f3f2ef">%</tspan>
+<tspan fill="#f3f1ef">%</tspan>
+<tspan fill="#f5f4f1">%</tspan>
+<tspan fill="#f2f2ef">%</tspan>
+<tspan fill="#edede9">%</tspan>
+<tspan fill="#e4e3e0">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e2e1df">#</tspan>
+<tspan fill="#e2e1df">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e3e2df">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e4e4e2">%</tspan>
+<tspan fill="#e3e3e1">#</tspan>
+<tspan fill="#e4e3e1">%</tspan>
+<tspan fill="#e6e5e2">%</tspan>
+<tspan fill="#e7e5e2">%</tspan>
+<tspan fill="#e6e4e2">%</tspan>
+<tspan fill="#e3e2df">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e2e0de">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e3e2df">#</tspan>
+<tspan fill="#e5e4e1">%</tspan>
+<tspan fill="#e8e7e3">%</tspan>
+<tspan fill="#eae8e5">%</tspan>
+<tspan fill="#e9e8e4">%</tspan>
+<tspan fill="#ecebe8">%</tspan>
+<tspan fill="#f0f0ed">%</tspan>
+<tspan fill="#f5f5f2">%</tspan>
+<tspan fill="#f7f7f4">%</tspan>
+<tspan fill="#fbfbf8">%</tspan>
+<tspan fill="#fefefb">%</tspan>
+<tspan fill="#fffffd">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#c8bfba">*</tspan>
+<tspan fill="#cfc6c0">#</tspan>
+<tspan fill="#d0c6be">#</tspan>
+<tspan fill="#d3c7be">#</tspan>
+<tspan fill="#d5cac0">#</tspan>
+<tspan fill="#d7cbc0">#</tspan>
+<tspan fill="#dacdc3">#</tspan>
+<tspan fill="#dcd0c7">#</tspan>
+<tspan fill="#dcd1c8">#</tspan>
+<tspan fill="#ded3cc">#</tspan>
+<tspan fill="#e6ded6">#</tspan>
+<tspan fill="#ebe5dd">%</tspan>
+<tspan fill="#ede5de">%</tspan>
+<tspan fill="#f1eae4">%</tspan>
+<tspan fill="#f4efeb">%</tspan>
+<tspan fill="#f5f2ee">%</tspan>
+<tspan fill="#f8f2ed">%</tspan>
+<tspan fill="#faf3ed">%</tspan>
+<tspan fill="#fbf5f0">%</tspan>
+<tspan fill="#f9f3ee">%</tspan>
+<tspan fill="#f6efe9">%</tspan>
+<tspan fill="#f3ede6">%</tspan>
+<tspan fill="#f2eeeb">%</tspan>
+<tspan fill="#edebea">%</tspan>
+<tspan fill="#edebe8">%</tspan>
+<tspan fill="#e9e8e5">%</tspan>
+<tspan fill="#e4e3e0">#</tspan>
+<tspan fill="#e1dfdd">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#e1dfdd">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e1dfdd">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e3e1df">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e3e1df">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e4e3e0">#</tspan>
+<tspan fill="#e5e3e1">%</tspan>
+<tspan fill="#e5e3e1">%</tspan>
+<tspan fill="#e2e1df">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e1dfdc">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#e3e2df">#</tspan>
+<tspan fill="#e5e3e1">%</tspan>
+<tspan fill="#e3e2df">#</tspan>
+<tspan fill="#e6e4e1">%</tspan>
+<tspan fill="#e7e5e2">%</tspan>
+<tspan fill="#e8e6e3">%</tspan>
+<tspan fill="#ebeae7">%</tspan>
+<tspan fill="#f0f0ee">%</tspan>
+<tspan fill="#f5f5f2">%</tspan>
+<tspan fill="#f7f7f4">%</tspan>
+<tspan fill="#f8f8f5">%</tspan>
+<tspan fill="#fbfbf9">%</tspan>
+<tspan fill="#fefefc">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#3d160c">.</tspan>
+<tspan fill="#40190e">.</tspan>
+<tspan fill="#431d10">.</tspan>
+<tspan fill="#482015">.</tspan>
+<tspan fill="#492218">.</tspan>
+<tspan fill="#4d271d">.</tspan>
+<tspan fill="#532f25">.</tspan>
+<tspan fill="#56352a">:</tspan>
+<tspan fill="#5c3a2e">:</tspan>
+<tspan fill="#5e3d31">:</tspan>
+<tspan fill="#634337">:</tspan>
+<tspan fill="#6a4c41">:</tspan>
+<tspan fill="#6c4e45">-</tspan>
+<tspan fill="#6f5248">-</tspan>
+<tspan fill="#735a52">-</tspan>
+<tspan fill="#a4938a">+</tspan>
+<tspan fill="#e1dcd8">#</tspan>
+<tspan fill="#e5e4e2">%</tspan>
+<tspan fill="#e0dfdc">#</tspan>
+<tspan fill="#dfdeda">#</tspan>
+<tspan fill="#dededa">#</tspan>
+<tspan fill="#dfdeda">#</tspan>
+<tspan fill="#dfdedb">#</tspan>
+<tspan fill="#e0dedb">#</tspan>
+<tspan fill="#e0dfdc">#</tspan>
+<tspan fill="#e0dedb">#</tspan>
+<tspan fill="#dfdedb">#</tspan>
+<tspan fill="#e0dfdc">#</tspan>
+<tspan fill="#e1e0de">#</tspan>
+<tspan fill="#e1e0de">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e1e0de">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#e3e3e0">#</tspan>
+<tspan fill="#e5e5e2">%</tspan>
+<tspan fill="#e5e4e1">%</tspan>
+<tspan fill="#e6e4e2">%</tspan>
+<tspan fill="#e5e4e1">%</tspan>
+<tspan fill="#e6e5e2">%</tspan>
+<tspan fill="#e8e6e3">%</tspan>
+<tspan fill="#ebeae7">%</tspan>
+<tspan fill="#efefec">%</tspan>
+<tspan fill="#f4f4f1">%</tspan>
+<tspan fill="#f6f6f3">%</tspan>
+<tspan fill="#f8f8f5">%</tspan>
+<tspan fill="#fcfcfa">%</tspan>
+<tspan fill="#fefefc">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4a1a11">.</tspan>
+<tspan fill="#48170f">.</tspan>
+<tspan fill="#481910">.</tspan>
+<tspan fill="#44140b">.</tspan>
+<tspan fill="#45140b">.</tspan>
+<tspan fill="#43130a">.</tspan>
+<tspan fill="#411108">.</tspan>
+<tspan fill="#411107">.</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#896961">-</tspan>
+<tspan fill="#d6ccc7">#</tspan>
+<tspan fill="#e1ddda">#</tspan>
+<tspan fill="#e2e0dd">#</tspan>
+<tspan fill="#dddcd9">#</tspan>
+<tspan fill="#dcdcd8">#</tspan>
+<tspan fill="#deddda">#</tspan>
+<tspan fill="#dfdeda">#</tspan>
+<tspan fill="#dfdedb">#</tspan>
+<tspan fill="#dfddda">#</tspan>
+<tspan fill="#dfddda">#</tspan>
+<tspan fill="#ddddd9">#</tspan>
+<tspan fill="#dedfdb">#</tspan>
+<tspan fill="#dededb">#</tspan>
+<tspan fill="#dfdfdc">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e0dfdc">#</tspan>
+<tspan fill="#dededb">#</tspan>
+<tspan fill="#dfdfdc">#</tspan>
+<tspan fill="#dfdfdd">#</tspan>
+<tspan fill="#e0e1de">#</tspan>
+<tspan fill="#dfdfdd">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e1dfdd">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#e1e0de">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e3e3e0">#</tspan>
+<tspan fill="#e4e4e2">%</tspan>
+<tspan fill="#e5e5e3">%</tspan>
+<tspan fill="#e5e5e2">%</tspan>
+<tspan fill="#e6e6e3">%</tspan>
+<tspan fill="#e3e3e0">#</tspan>
+<tspan fill="#e4e4e2">%</tspan>
+<tspan fill="#e4e4e1">%</tspan>
+<tspan fill="#e7e7e4">%</tspan>
+<tspan fill="#ecece9">%</tspan>
+<tspan fill="#f1f1ee">%</tspan>
+<tspan fill="#f4f4f2">%</tspan>
+<tspan fill="#f8f8f5">%</tspan>
+<tspan fill="#fafaf7">%</tspan>
+<tspan fill="#fbfbf8">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4a170e">.</tspan>
+<tspan fill="#4d180f">.</tspan>
+<tspan fill="#4f190f">.</tspan>
+<tspan fill="#511a0f">.</tspan>
+<tspan fill="#52190f">.</tspan>
+<tspan fill="#53190e">.</tspan>
+<tspan fill="#541a0f">.</tspan>
+<tspan fill="#541a0f">.</tspan>
+<tspan fill="#551b0f">.</tspan>
+<tspan fill="#551c11">.</tspan>
+<tspan fill="#551c11">.</tspan>
+<tspan fill="#561d11">.</tspan>
+<tspan fill="#561c12">.</tspan>
+<tspan fill="#571d13">.</tspan>
+<tspan fill="#581d14">.</tspan>
+<tspan fill="#581d14">.</tspan>
+<tspan fill="#561d14">.</tspan>
+<tspan fill="#582016">.</tspan>
+<tspan fill="#522016">.</tspan>
+<tspan fill="#51211a">.</tspan>
+<tspan fill="#4f241c">.</tspan>
+<tspan fill="#461d15">.</tspan>
+<tspan fill="#4f2119">.</tspan>
+<tspan fill="#a0847c">=</tspan>
+<tspan fill="#dbd1cc">#</tspan>
+<tspan fill="#dbd3ce">#</tspan>
+<tspan fill="#dbd6d1">#</tspan>
+<tspan fill="#dedcd9">#</tspan>
+<tspan fill="#dcdad7">#</tspan>
+<tspan fill="#dcdad7">#</tspan>
+<tspan fill="#dddcd9">#</tspan>
+<tspan fill="#dddcd9">#</tspan>
+<tspan fill="#dfddda">#</tspan>
+<tspan fill="#deddd9">#</tspan>
+<tspan fill="#deddda">#</tspan>
+<tspan fill="#e0dfdc">#</tspan>
+<tspan fill="#e0dfdc">#</tspan>
+<tspan fill="#deddda">#</tspan>
+<tspan fill="#dededa">#</tspan>
+<tspan fill="#dfdfdc">#</tspan>
+<tspan fill="#dededb">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e0dfdd">#</tspan>
+<tspan fill="#e0dfdd">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#dfdedc">#</tspan>
+<tspan fill="#dfdedb">#</tspan>
+<tspan fill="#e0dedb">#</tspan>
+<tspan fill="#e0dfdc">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e3e3e0">#</tspan>
+<tspan fill="#e3e3e1">#</tspan>
+<tspan fill="#e3e3e1">#</tspan>
+<tspan fill="#e3e3e1">#</tspan>
+<tspan fill="#e6e6e3">%</tspan>
+<tspan fill="#e6e6e3">%</tspan>
+<tspan fill="#e7e7e4">%</tspan>
+<tspan fill="#e7e7e4">%</tspan>
+<tspan fill="#ebebe8">%</tspan>
+<tspan fill="#ecece9">%</tspan>
+<tspan fill="#f0f0ed">%</tspan>
+<tspan fill="#f3f3f1">%</tspan>
+<tspan fill="#f5f5f2">%</tspan>
+<tspan fill="#f9f9f6">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#4c1910">.</tspan>
+<tspan fill="#592318">.</tspan>
+<tspan fill="#4f1f16">.</tspan>
+<tspan fill="#45180f">.</tspan>
+<tspan fill="#633225">:</tspan>
+<tspan fill="#ab8e85">+</tspan>
+<tspan fill="#e2dbd4">#</tspan>
+<tspan fill="#dcd5cf">#</tspan>
+<tspan fill="#d2cbc5">#</tspan>
+<tspan fill="#d5cfc9">#</tspan>
+<tspan fill="#dfdad7">#</tspan>
+<tspan fill="#e1dddb">#</tspan>
+<tspan fill="#e0dad8">#</tspan>
+<tspan fill="#dfdcd8">#</tspan>
+<tspan fill="#dddbd8">#</tspan>
+<tspan fill="#dddcd6">#</tspan>
+<tspan fill="#dfddd8">#</tspan>
+<tspan fill="#dfded9">#</tspan>
+<tspan fill="#deddd8">#</tspan>
+<tspan fill="#dddcd8">#</tspan>
+<tspan fill="#dddbd8">#</tspan>
+<tspan fill="#dddcda">#</tspan>
+<tspan fill="#deddda">#</tspan>
+<tspan fill="#dfdedb">#</tspan>
+<tspan fill="#e1dfdd">#</tspan>
+<tspan fill="#e1dfdd">#</tspan>
+<tspan fill="#e0dfdc">#</tspan>
+<tspan fill="#dfdcd9">#</tspan>
+<tspan fill="#deddd9">#</tspan>
+<tspan fill="#dfdedb">#</tspan>
+<tspan fill="#dfdfdc">#</tspan>
+<tspan fill="#ddddda">#</tspan>
+<tspan fill="#dfdfdc">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+<tspan fill="#e1e1df">#</tspan>
+<tspan fill="#e4e4e1">%</tspan>
+<tspan fill="#e5e5e2">%</tspan>
+<tspan fill="#e6e6e4">%</tspan>
+<tspan fill="#e5e5e3">%</tspan>
+<tspan fill="#e8e8e5">%</tspan>
+<tspan fill="#e9e9e6">%</tspan>
+<tspan fill="#ededea">%</tspan>
+<tspan fill="#f0f0ed">%</tspan>
+<tspan fill="#f5f5f2">%</tspan>
+<tspan fill="#f9f9f6">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#4a1811">.</tspan>
+<tspan fill="#5a2217">.</tspan>
+<tspan fill="#4c1b11">.</tspan>
+<tspan fill="#4c1c13">.</tspan>
+<tspan fill="#835042">-</tspan>
+<tspan fill="#ae9188">+</tspan>
+<tspan fill="#e9e2dc">%</tspan>
+<tspan fill="#d7d0ca">#</tspan>
+<tspan fill="#d3cbc6">#</tspan>
+<tspan fill="#cfc8c1">#</tspan>
+<tspan fill="#d0c9c4">#</tspan>
+<tspan fill="#dbd4d0">#</tspan>
+<tspan fill="#e0ddd8">#</tspan>
+<tspan fill="#dddbd7">#</tspan>
+<tspan fill="#dad8d4">#</tspan>
+<tspan fill="#dbd9d5">#</tspan>
+<tspan fill="#dbd9d4">#</tspan>
+<tspan fill="#dbd9d3">#</tspan>
+<tspan fill="#dbd9d5">#</tspan>
+<tspan fill="#dcdad7">#</tspan>
+<tspan fill="#dbdad7">#</tspan>
+<tspan fill="#dbd9d6">#</tspan>
+<tspan fill="#dbd9d6">#</tspan>
+<tspan fill="#dbd9d7">#</tspan>
+<tspan fill="#dddbd8">#</tspan>
+<tspan fill="#deddd9">#</tspan>
+<tspan fill="#deddd9">#</tspan>
+<tspan fill="#dddcd9">#</tspan>
+<tspan fill="#dededb">#</tspan>
+<tspan fill="#dededb">#</tspan>
+<tspan fill="#dfdfdc">#</tspan>
+<tspan fill="#dededb">#</tspan>
+<tspan fill="#dfdfdc">#</tspan>
+<tspan fill="#e2e1df">#</tspan>
+<tspan fill="#e2e0de">#</tspan>
+<tspan fill="#e1e0de">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e4e3e0">#</tspan>
+<tspan fill="#e4e4e1">%</tspan>
+<tspan fill="#e5e4e1">%</tspan>
+<tspan fill="#e8e8e5">%</tspan>
+<tspan fill="#ededeb">%</tspan>
+<tspan fill="#efefec">%</tspan>
+<tspan fill="#f2f2ef">%</tspan>
+<tspan fill="#f4f4f1">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#501a11">.</tspan>
+<tspan fill="#561f13">.</tspan>
+<tspan fill="#46150a">.</tspan>
+<tspan fill="#59281e">.</tspan>
+<tspan fill="#875247">-</tspan>
+<tspan fill="#b09791">+</tspan>
+<tspan fill="#ede5e1">%</tspan>
+<tspan fill="#d8cfca">#</tspan>
+<tspan fill="#d3c9c4">#</tspan>
+<tspan fill="#d3cbc5">#</tspan>
+<tspan fill="#d0c9c3">#</tspan>
+<tspan fill="#cec7c1">#</tspan>
+<tspan fill="#d7d2cd">#</tspan>
+<tspan fill="#dddcd9">#</tspan>
+<tspan fill="#d9d8d5">#</tspan>
+<tspan fill="#d8d7d5">#</tspan>
+<tspan fill="#d9d7d3">#</tspan>
+<tspan fill="#dcdbd6">#</tspan>
+<tspan fill="#dddbd9">#</tspan>
+<tspan fill="#dddbd8">#</tspan>
+<tspan fill="#dbd9d6">#</tspan>
+<tspan fill="#dad9d6">#</tspan>
+<tspan fill="#dbd9d6">#</tspan>
+<tspan fill="#dcdbd7">#</tspan>
+<tspan fill="#dbdad6">#</tspan>
+<tspan fill="#dbdad7">#</tspan>
+<tspan fill="#ddddda">#</tspan>
+<tspan fill="#deddda">#</tspan>
+<tspan fill="#dcdbd8">#</tspan>
+<tspan fill="#dcdcd8">#</tspan>
+<tspan fill="#dededa">#</tspan>
+<tspan fill="#dfdedb">#</tspan>
+<tspan fill="#e1dfdd">#</tspan>
+<tspan fill="#e2e0dd">#</tspan>
+<tspan fill="#e1e0dd">#</tspan>
+<tspan fill="#e0dfdc">#</tspan>
+<tspan fill="#e0dfdc">#</tspan>
+<tspan fill="#e0dedb">#</tspan>
+<tspan fill="#e0dedb">#</tspan>
+<tspan fill="#e2e0dd">#</tspan>
+<tspan fill="#e4e2df">#</tspan>
+<tspan fill="#e3e3e0">#</tspan>
+<tspan fill="#e5e5e2">%</tspan>
+<tspan fill="#e9e9e6">%</tspan>
+<tspan fill="#ebebe7">%</tspan>
+<tspan fill="#ededea">%</tspan>
+<tspan fill="#eeeeeb">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4a0e04">.</tspan>
+<tspan fill="#491005">.</tspan>
+<tspan fill="#4a1106">.</tspan>
+<tspan fill="#491005">.</tspan>
+<tspan fill="#491005">.</tspan>
+<tspan fill="#4c1207">.</tspan>
+<tspan fill="#4b1108">.</tspan>
+<tspan fill="#480f07">.</tspan>
+<tspan fill="#4a1008">.</tspan>
+<tspan fill="#490f07">.</tspan>
+<tspan fill="#480f07">.</tspan>
+<tspan fill="#471107">.</tspan>
+<tspan fill="#461006">.</tspan>
+ 
+<tspan fill="#420f05">.</tspan>
+<tspan fill="#431106">.</tspan>
+ 
+ 
+<tspan fill="#52180e">.</tspan>
+<tspan fill="#54190d">.</tspan>
+<tspan fill="#48150d">.</tspan>
+<tspan fill="#6c3a2e">:</tspan>
+<tspan fill="#854e42">-</tspan>
+<tspan fill="#b49b96">+</tspan>
+<tspan fill="#e5dfda">#</tspan>
+<tspan fill="#daceca">#</tspan>
+<tspan fill="#d6c8c6">#</tspan>
+<tspan fill="#d6c8c5">#</tspan>
+<tspan fill="#d6c9c5">#</tspan>
+<tspan fill="#d3cac4">#</tspan>
+<tspan fill="#cfc7c3">#</tspan>
+<tspan fill="#d7d1cf">#</tspan>
+<tspan fill="#dfdcda">#</tspan>
+<tspan fill="#dddbd9">#</tspan>
+<tspan fill="#e1dfdc">#</tspan>
+<tspan fill="#e5e4e2">%</tspan>
+<tspan fill="#dfdfdc">#</tspan>
+<tspan fill="#dcdbd9">#</tspan>
+<tspan fill="#e4e4e1">%</tspan>
+<tspan fill="#e3e2df">#</tspan>
+<tspan fill="#e1dfdd">#</tspan>
+<tspan fill="#e3e2df">#</tspan>
+<tspan fill="#eceae8">%</tspan>
+<tspan fill="#efeeeb">%</tspan>
+<tspan fill="#e6e5e2">%</tspan>
+<tspan fill="#dddbd8">#</tspan>
+<tspan fill="#dedcd6">#</tspan>
+<tspan fill="#dddcd5">#</tspan>
+<tspan fill="#dcddd6">#</tspan>
+<tspan fill="#dfded9">#</tspan>
+<tspan fill="#dfdedb">#</tspan>
+<tspan fill="#e0dedb">#</tspan>
+<tspan fill="#deddda">#</tspan>
+<tspan fill="#dfdedb">#</tspan>
+<tspan fill="#e2e0dd">#</tspan>
+<tspan fill="#e1dfdc">#</tspan>
+<tspan fill="#e1dfdd">#</tspan>
+<tspan fill="#e2e1df">#</tspan>
+<tspan fill="#e5e4e2">%</tspan>
+<tspan fill="#e4e4e1">%</tspan>
+<tspan fill="#e4e3e1">%</tspan>
+<tspan fill="#e7e7e2">%</tspan>
+<tspan fill="#e9eae3">%</tspan>
+<tspan fill="#ebeae8">%</tspan>
+<tspan fill="#efefec">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#531306">.</tspan>
+<tspan fill="#511306">.</tspan>
+<tspan fill="#511306">.</tspan>
+<tspan fill="#521407">.</tspan>
+<tspan fill="#511306">.</tspan>
+<tspan fill="#521408">.</tspan>
+<tspan fill="#511408">.</tspan>
+<tspan fill="#511308">.</tspan>
+<tspan fill="#521509">.</tspan>
+<tspan fill="#4e1307">.</tspan>
+<tspan fill="#4c1209">.</tspan>
+<tspan fill="#4c1209">.</tspan>
+<tspan fill="#4b1008">.</tspan>
+<tspan fill="#4a0f07">.</tspan>
+<tspan fill="#451005">.</tspan>
+<tspan fill="#451105">.</tspan>
+ 
+ 
+<tspan fill="#56170d">.</tspan>
+<tspan fill="#4f1409">.</tspan>
+<tspan fill="#542118">.</tspan>
+<tspan fill="#753d30">:</tspan>
+<tspan fill="#7c4537">:</tspan>
+<tspan fill="#bcaaa3">*</tspan>
+<tspan fill="#dbcecb">#</tspan>
+<tspan fill="#d6c8c5">#</tspan>
+<tspan fill="#d6c9c6">#</tspan>
+<tspan fill="#d6c8c5">#</tspan>
+<tspan fill="#d4c9c5">#</tspan>
+<tspan fill="#d4ccc7">#</tspan>
+<tspan fill="#dcd6d1">#</tspan>
+<tspan fill="#d4cdc8">#</tspan>
+<tspan fill="#d7d0cb">#</tspan>
+<tspan fill="#e3dfd7">#</tspan>
+<tspan fill="#d2cec4">#</tspan>
+<tspan fill="#b8b6ac">*</tspan>
+<tspan fill="#96978d">+</tspan>
+<tspan fill="#717169">-</tspan>
+<tspan fill="#8a8b86">=</tspan>
+<tspan fill="#a3a59f">+</tspan>
+<tspan fill="#c6c5be">*</tspan>
+<tspan fill="#9b978e">+</tspan>
+<tspan fill="#757066">-</tspan>
+<tspan fill="#989491">+</tspan>
+<tspan fill="#cbc9c4">#</tspan>
+<tspan fill="#f0edea">%</tspan>
+<tspan fill="#dfdeda">#</tspan>
+<tspan fill="#dcdbd6">#</tspan>
+<tspan fill="#dcdcd6">#</tspan>
+<tspan fill="#dddcd6">#</tspan>
+<tspan fill="#dddcd8">#</tspan>
+<tspan fill="#deddd9">#</tspan>
+<tspan fill="#dedcd8">#</tspan>
+<tspan fill="#dfddda">#</tspan>
+<tspan fill="#dfdedb">#</tspan>
+<tspan fill="#deded9">#</tspan>
+<tspan fill="#dfdfda">#</tspan>
+<tspan fill="#e1e1dd">#</tspan>
+<tspan fill="#e3e3de">#</tspan>
+<tspan fill="#e2e3de">#</tspan>
+<tspan fill="#e4e4df">%</tspan>
+<tspan fill="#e6e6e1">%</tspan>
+<tspan fill="#e6e8e1">%</tspan>
+<tspan fill="#e8e9e4">%</tspan>
+<tspan fill="#e8e9e4">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#521206">.</tspan>
+<tspan fill="#531407">.</tspan>
+<tspan fill="#55170a">.</tspan>
+<tspan fill="#55170a">.</tspan>
+<tspan fill="#531508">.</tspan>
+<tspan fill="#521408">.</tspan>
+<tspan fill="#54170a">.</tspan>
+<tspan fill="#521508">.</tspan>
+<tspan fill="#521508">.</tspan>
+<tspan fill="#4e1307">.</tspan>
+<tspan fill="#4c1206">.</tspan>
+<tspan fill="#4e1309">.</tspan>
+<tspan fill="#4d1209">.</tspan>
+<tspan fill="#4a1007">.</tspan>
+<tspan fill="#471107">.</tspan>
+<tspan fill="#461006">.</tspan>
+ 
+ 
+<tspan fill="#58180b">.</tspan>
+<tspan fill="#4e1306">.</tspan>
+<tspan fill="#623327">:</tspan>
+<tspan fill="#7b4033">:</tspan>
+<tspan fill="#784435">:</tspan>
+<tspan fill="#c1b2ac">*</tspan>
+<tspan fill="#dccfcd">#</tspan>
+<tspan fill="#d6c9c5">#</tspan>
+<tspan fill="#d4ccc7">#</tspan>
+<tspan fill="#d4ccc6">#</tspan>
+<tspan fill="#d6cfc9">#</tspan>
+<tspan fill="#d8cfc9">#</tspan>
+<tspan fill="#afa397">+</tspan>
+<tspan fill="#b0a795">+</tspan>
+<tspan fill="#b3ac95">*</tspan>
+<tspan fill="#716d58">-</tspan>
+<tspan fill="#282822">.</tspan>
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#3b3d35">:</tspan>
+<tspan fill="#3e3f38">:</tspan>
+<tspan fill="#24221c">.</tspan>
+ 
+ 
+<tspan fill="#6d6b69">-</tspan>
+<tspan fill="#e8e5e3">%</tspan>
+<tspan fill="#e5e3e0">%</tspan>
+<tspan fill="#d9d8d3">#</tspan>
+<tspan fill="#dcdcd5">#</tspan>
+<tspan fill="#deded7">#</tspan>
+<tspan fill="#dedcd9">#</tspan>
+<tspan fill="#dddbd6">#</tspan>
+<tspan fill="#dddcd7">#</tspan>
+<tspan fill="#dcdcd7">#</tspan>
+<tspan fill="#dcded6">#</tspan>
+<tspan fill="#dedfd6">#</tspan>
+<tspan fill="#dfdfd7">#</tspan>
+<tspan fill="#e1e1da">#</tspan>
+<tspan fill="#e2e1db">#</tspan>
+<tspan fill="#e4e4dd">%</tspan>
+<tspan fill="#e6e8e0">%</tspan>
+<tspan fill="#e4e5de">%</tspan>
+<tspan fill="#e4e5de">%</tspan>
+<tspan fill="#e6e8e0">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#501105">.</tspan>
+<tspan fill="#511206">.</tspan>
+<tspan fill="#541609">.</tspan>
+<tspan fill="#531509">.</tspan>
+<tspan fill="#531508">.</tspan>
+<tspan fill="#511407">.</tspan>
+<tspan fill="#521508">.</tspan>
+<tspan fill="#54170a">.</tspan>
+<tspan fill="#55180b">.</tspan>
+<tspan fill="#511407">.</tspan>
+<tspan fill="#501306">.</tspan>
+<tspan fill="#501206">.</tspan>
+<tspan fill="#4d1004">.</tspan>
+<tspan fill="#490f04">.</tspan>
+<tspan fill="#450f06">.</tspan>
+ 
+ 
+ 
+<tspan fill="#591609">.</tspan>
+<tspan fill="#52160a">.</tspan>
+<tspan fill="#6e4034">:</tspan>
+<tspan fill="#7a3e2d">:</tspan>
+<tspan fill="#7c4a3b">-</tspan>
+<tspan fill="#cbbfba">*</tspan>
+<tspan fill="#dacdca">#</tspan>
+<tspan fill="#d7c9c6">#</tspan>
+<tspan fill="#d7cdc9">#</tspan>
+<tspan fill="#ddd4d0">#</tspan>
+<tspan fill="#d3c9c0">#</tspan>
+<tspan fill="#a19181">+</tspan>
+<tspan fill="#a59881">+</tspan>
+<tspan fill="#8e8573">=</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#484645">:</tspan>
+<tspan fill="#e2e0dd">#</tspan>
+<tspan fill="#eaeae3">%</tspan>
+<tspan fill="#dcdcd6">#</tspan>
+<tspan fill="#dcdbd6">#</tspan>
+<tspan fill="#dddad8">#</tspan>
+<tspan fill="#dbdbd7">#</tspan>
+<tspan fill="#dadbd7">#</tspan>
+<tspan fill="#dadbd6">#</tspan>
+<tspan fill="#dadbd6">#</tspan>
+<tspan fill="#dcdcd8">#</tspan>
+<tspan fill="#deddd9">#</tspan>
+<tspan fill="#e0e0da">#</tspan>
+<tspan fill="#e1e0dc">#</tspan>
+<tspan fill="#e2e1de">#</tspan>
+<tspan fill="#e3e3df">#</tspan>
+<tspan fill="#e3e4de">%</tspan>
+<tspan fill="#e3e4dd">#</tspan>
+<tspan fill="#e5e6df">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4f1004">.</tspan>
+<tspan fill="#511206">.</tspan>
+<tspan fill="#531407">.</tspan>
+<tspan fill="#521306">.</tspan>
+<tspan fill="#501105">.</tspan>
+<tspan fill="#511206">.</tspan>
+<tspan fill="#501205">.</tspan>
+<tspan fill="#511307">.</tspan>
+<tspan fill="#531508">.</tspan>
+<tspan fill="#501205">.</tspan>
+<tspan fill="#501205">.</tspan>
+<tspan fill="#501105">.</tspan>
+<tspan fill="#4e1104">.</tspan>
+<tspan fill="#4b1003">.</tspan>
+<tspan fill="#440e04">.</tspan>
+ 
+ 
+ 
+<tspan fill="#5d170b">.</tspan>
+<tspan fill="#5a1f13">.</tspan>
+<tspan fill="#77473c">:</tspan>
+<tspan fill="#793b29">:</tspan>
+<tspan fill="#805242">-</tspan>
+<tspan fill="#d4cac5">#</tspan>
+<tspan fill="#dacdca">#</tspan>
+<tspan fill="#dfd0cd">#</tspan>
+<tspan fill="#e1d3d1">#</tspan>
+<tspan fill="#b4a397">+</tspan>
+<tspan fill="#87725c">=</tspan>
+<tspan fill="#7b6a52">-</tspan>
+<tspan fill="#564739">:</tspan>
+ 
+ 
+<tspan fill="#6c3210">:</tspan>
+<tspan fill="#9e5222">-</tspan>
+<tspan fill="#b4632f">=</tspan>
+<tspan fill="#bd6b37">=</tspan>
+<tspan fill="#c57541">=</tspan>
+<tspan fill="#c57744">=</tspan>
+<tspan fill="#cf8452">+</tspan>
+<tspan fill="#d58759">+</tspan>
+<tspan fill="#c5784a">=</tspan>
+<tspan fill="#a35e30">-</tspan>
+<tspan fill="#633215">:</tspan>
+ 
+ 
+ 
+<tspan fill="#333231">.</tspan>
+<tspan fill="#bfbebc">*</tspan>
+<tspan fill="#ebeae7">%</tspan>
+<tspan fill="#ecebe8">%</tspan>
+<tspan fill="#dddcd9">#</tspan>
+<tspan fill="#dbdbd7">#</tspan>
+<tspan fill="#dcdcd9">#</tspan>
+<tspan fill="#dbdbd8">#</tspan>
+<tspan fill="#d9d8d6">#</tspan>
+<tspan fill="#dad9d6">#</tspan>
+<tspan fill="#dddcd9">#</tspan>
+<tspan fill="#dfdfdd">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e2e2e0">#</tspan>
+<tspan fill="#e3e3e1">#</tspan>
+<tspan fill="#e3e3e0">#</tspan>
+<tspan fill="#e6e7e1">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4f1004">.</tspan>
+<tspan fill="#4f1004">.</tspan>
+<tspan fill="#521306">.</tspan>
+<tspan fill="#521307">.</tspan>
+<tspan fill="#511205">.</tspan>
+<tspan fill="#521306">.</tspan>
+<tspan fill="#501104">.</tspan>
+<tspan fill="#501104">.</tspan>
+<tspan fill="#511205">.</tspan>
+<tspan fill="#4e1205">.</tspan>
+<tspan fill="#4e1003">.</tspan>
+<tspan fill="#501004">.</tspan>
+<tspan fill="#4d0f03">.</tspan>
+<tspan fill="#4d0f03">.</tspan>
+ 
+ 
+ 
+ 
+<tspan fill="#5f1a0c">.</tspan>
+<tspan fill="#602518">.</tspan>
+<tspan fill="#79493e">-</tspan>
+<tspan fill="#763b29">:</tspan>
+<tspan fill="#7f5246">-</tspan>
+<tspan fill="#e2d9d4">#</tspan>
+<tspan fill="#e3d8d4">#</tspan>
+<tspan fill="#c5bbb5">*</tspan>
+<tspan fill="#ada08f">+</tspan>
+<tspan fill="#a49277">+</tspan>
+<tspan fill="#917c60">=</tspan>
+<tspan fill="#573e28">:</tspan>
+ 
+ 
+<tspan fill="#4a1c03">.</tspan>
+<tspan fill="#9a4410">-</tspan>
+<tspan fill="#ba6025">=</tspan>
+<tspan fill="#df8240">+</tspan>
+<tspan fill="#f59a5b">*</tspan>
+<tspan fill="#faa770">*</tspan>
+<tspan fill="#f8a672">*</tspan>
+<tspan fill="#fbab7a">*</tspan>
+<tspan fill="#f8a574">*</tspan>
+<tspan fill="#ef9663">*</tspan>
+<tspan fill="#f2a06c">*</tspan>
+<tspan fill="#e48c56">+</tspan>
+<tspan fill="#b76636">=</tspan>
+<tspan fill="#532811">.</tspan>
+ 
+ 
+ 
+<tspan fill="#40403f">:</tspan>
+<tspan fill="#8c8c89">=</tspan>
+<tspan fill="#e5e5e3">%</tspan>
+<tspan fill="#dfdfdb">#</tspan>
+<tspan fill="#dbdbd7">#</tspan>
+<tspan fill="#dad9d6">#</tspan>
+<tspan fill="#d8d7d4">#</tspan>
+<tspan fill="#d7d7d4">#</tspan>
+<tspan fill="#dbdad7">#</tspan>
+<tspan fill="#ddddda">#</tspan>
+<tspan fill="#dfdfdd">#</tspan>
+<tspan fill="#dededb">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e0e0de">#</tspan>
+<tspan fill="#e2e2df">#</tspan>
+<tspan fill="#e5e5e2">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#511205">.</tspan>
+<tspan fill="#4f1004">.</tspan>
+<tspan fill="#4f1004">.</tspan>
+<tspan fill="#501105">.</tspan>
+<tspan fill="#501104">.</tspan>
+<tspan fill="#511206">.</tspan>
+<tspan fill="#521306">.</tspan>
+<tspan fill="#501105">.</tspan>
+<tspan fill="#521306">.</tspan>
+<tspan fill="#4e1003">.</tspan>
+<tspan fill="#4f1003">.</tspan>
+<tspan fill="#4f1004">.</tspan>
+<tspan fill="#4c0d01">.</tspan>
+<tspan fill="#4b0e02">.</tspan>
+ 
+ 
+ 
+<tspan fill="#401007">.</tspan>
+<tspan fill="#5f1a0d">.</tspan>
+<tspan fill="#632c1e">:</tspan>
+<tspan fill="#784c3e">-</tspan>
+<tspan fill="#6d2f1e">:</tspan>
+<tspan fill="#865c50">-</tspan>
+<tspan fill="#e8e0da">#</tspan>
+<tspan fill="#a19081">+</tspan>
+<tspan fill="#5b4838">:</tspan>
+<tspan fill="#3c342a">.</tspan>
+<tspan fill="#5b5447">:</tspan>
+<tspan fill="#635a4b">-</tspan>
+<tspan fill="#32291d">.</tspan>
+ 
+<tspan fill="#3d1703">.</tspan>
+<tspan fill="#874414">:</tspan>
+<tspan fill="#874b20">-</tspan>
+<tspan fill="#8e5027">-</tspan>
+<tspan fill="#9e6035">-</tspan>
+<tspan fill="#c48256">+</tspan>
+<tspan fill="#e99f71">*</tspan>
+<tspan fill="#f8aa7a">*</tspan>
+<tspan fill="#faad7e">*</tspan>
+<tspan fill="#faa77a">*</tspan>
+<tspan fill="#f4a06e">*</tspan>
+<tspan fill="#f8a676">*</tspan>
+<tspan fill="#ee9c68">*</tspan>
+<tspan fill="#e28c58">+</tspan>
+<tspan fill="#cd7949">=</tspan>
+<tspan fill="#94512e">-</tspan>
+ 
+ 
+ 
+ 
+<tspan fill="#50504e">:</tspan>
+<tspan fill="#e9eae7">%</tspan>
+<tspan fill="#ddddd9">#</tspan>
+<tspan fill="#d7d7d4">#</tspan>
+<tspan fill="#d5d6d3">#</tspan>
+<tspan fill="#d6d6d4">#</tspan>
+<tspan fill="#d9d9d6">#</tspan>
+<tspan fill="#dcdcd9">#</tspan>
+<tspan fill="#ddddda">#</tspan>
+<tspan fill="#dadad7">#</tspan>
+<tspan fill="#ddddda">#</tspan>
+<tspan fill="#dededb">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+<tspan fill="#e3e3e0">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4f1104">.</tspan>
+<tspan fill="#4f1003">.</tspan>
+<tspan fill="#4e0f02">.</tspan>
+<tspan fill="#4e0f03">.</tspan>
+<tspan fill="#501004">.</tspan>
+<tspan fill="#501104">.</tspan>
+<tspan fill="#511205">.</tspan>
+<tspan fill="#511205">.</tspan>
+<tspan fill="#511205">.</tspan>
+<tspan fill="#4f1003">.</tspan>
+<tspan fill="#4e0f02">.</tspan>
+<tspan fill="#4e0f02">.</tspan>
+<tspan fill="#4c0d01">.</tspan>
+<tspan fill="#4a0c01">.</tspan>
+ 
+ 
+ 
+<tspan fill="#4c160a">.</tspan>
+<tspan fill="#5f1a0a">.</tspan>
+<tspan fill="#693323">:</tspan>
+<tspan fill="#794d3f">-</tspan>
+<tspan fill="#662716">.</tspan>
+<tspan fill="#937166">=</tspan>
+<tspan fill="#dcd3ce">#</tspan>
+<tspan fill="#3d2a1e">.</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#7b472b">:</tspan>
+<tspan fill="#6d4b37">:</tspan>
+<tspan fill="#5d3c2b">:</tspan>
+<tspan fill="#5a3a2b">:</tspan>
+<tspan fill="#493023">.</tspan>
+<tspan fill="#41291c">.</tspan>
+<tspan fill="#604131">:</tspan>
+<tspan fill="#be8059">+</tspan>
+<tspan fill="#eca275">*</tspan>
+<tspan fill="#e99c70">*</tspan>
+<tspan fill="#ab6c49">=</tspan>
+<tspan fill="#85533a">-</tspan>
+<tspan fill="#714c37">:</tspan>
+<tspan fill="#5b3e2c">:</tspan>
+<tspan fill="#68452f">:</tspan>
+<tspan fill="#a26441">=</tspan>
+<tspan fill="#7a4224">:</tspan>
+ 
+ 
+ 
+ 
+<tspan fill="#767675">=</tspan>
+<tspan fill="#ededea">%</tspan>
+<tspan fill="#d9d9d6">#</tspan>
+<tspan fill="#d7d7d4">#</tspan>
+<tspan fill="#d7d7d4">#</tspan>
+<tspan fill="#d9d9d6">#</tspan>
+<tspan fill="#ddddd9">#</tspan>
+<tspan fill="#ddddda">#</tspan>
+<tspan fill="#ddddd9">#</tspan>
+<tspan fill="#dfdfdb">#</tspan>
+<tspan fill="#dededb">#</tspan>
+<tspan fill="#dfdfdc">#</tspan>
+<tspan fill="#e1e1df">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4f1004">.</tspan>
+<tspan fill="#4e0f03">.</tspan>
+<tspan fill="#501104">.</tspan>
+<tspan fill="#4e0f03">.</tspan>
+<tspan fill="#4f1004">.</tspan>
+<tspan fill="#4f0f03">.</tspan>
+<tspan fill="#4f1003">.</tspan>
+<tspan fill="#4f1003">.</tspan>
+<tspan fill="#501104">.</tspan>
+<tspan fill="#4f1004">.</tspan>
+<tspan fill="#4d0f02">.</tspan>
+<tspan fill="#4d0e02">.</tspan>
+<tspan fill="#4a0c01">.</tspan>
+ 
+ 
+ 
+ 
+<tspan fill="#56190b">.</tspan>
+<tspan fill="#5f1a0a">.</tspan>
+<tspan fill="#6f3b2b">:</tspan>
+<tspan fill="#75493a">:</tspan>
+<tspan fill="#632311">.</tspan>
+<tspan fill="#9b7d75">=</tspan>
+<tspan fill="#f2ece9">%</tspan>
+<tspan fill="#544c48">:</tspan>
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#512009">.</tspan>
+<tspan fill="#723d22">:</tspan>
+<tspan fill="#65321d">:</tspan>
+<tspan fill="#5f2812">.</tspan>
+<tspan fill="#5a2d1a">.</tspan>
+<tspan fill="#593422">:</tspan>
+<tspan fill="#592919">.</tspan>
+<tspan fill="#612a15">.</tspan>
+<tspan fill="#864827">-</tspan>
+<tspan fill="#c67b50">=</tspan>
+<tspan fill="#c17c54">=</tspan>
+<tspan fill="#814c2d">-</tspan>
+<tspan fill="#51230d">.</tspan>
+<tspan fill="#603928">:</tspan>
+<tspan fill="#7a5141">-</tspan>
+<tspan fill="#714b33">:</tspan>
+<tspan fill="#523526">:</tspan>
+<tspan fill="#7b533c">-</tspan>
+ 
+ 
+ 
+<tspan fill="#6d6c69">-</tspan>
+<tspan fill="#4b4a48">:</tspan>
+<tspan fill="#dcdbd8">#</tspan>
+<tspan fill="#ddddd9">#</tspan>
+<tspan fill="#d8d8d5">#</tspan>
+<tspan fill="#d7d7d5">#</tspan>
+<tspan fill="#d7d7d5">#</tspan>
+<tspan fill="#dadad7">#</tspan>
+<tspan fill="#dbdbd8">#</tspan>
+<tspan fill="#dbdbd8">#</tspan>
+<tspan fill="#dcdcd9">#</tspan>
+<tspan fill="#dcdcd9">#</tspan>
+<tspan fill="#ddddd9">#</tspan>
+<tspan fill="#e1e1de">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4d0e03">.</tspan>
+<tspan fill="#4d0f03">.</tspan>
+<tspan fill="#511206">.</tspan>
+<tspan fill="#4f1004">.</tspan>
+<tspan fill="#4e0f02">.</tspan>
+<tspan fill="#501102">.</tspan>
+<tspan fill="#511203">.</tspan>
+<tspan fill="#501102">.</tspan>
+<tspan fill="#511204">.</tspan>
+<tspan fill="#4f1002">.</tspan>
+<tspan fill="#4f1002">.</tspan>
+<tspan fill="#4d0d02">.</tspan>
+<tspan fill="#4b0c01">.</tspan>
+ 
+ 
+ 
+ 
+<tspan fill="#5b1a08">.</tspan>
+<tspan fill="#5f190a">.</tspan>
+<tspan fill="#6e3c2b">:</tspan>
+<tspan fill="#714234">:</tspan>
+<tspan fill="#5f1f0e">.</tspan>
+<tspan fill="#a3887f">+</tspan>
+<tspan fill="#fffdf9">%</tspan>
+<tspan fill="#bcb4af">*</tspan>
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#93522b">-</tspan>
+<tspan fill="#a0603d">-</tspan>
+<tspan fill="#9f603f">-</tspan>
+<tspan fill="#915538">-</tspan>
+<tspan fill="#8c5234">-</tspan>
+<tspan fill="#905636">-</tspan>
+<tspan fill="#a46544">=</tspan>
+<tspan fill="#985739">-</tspan>
+<tspan fill="#9c5230">-</tspan>
+<tspan fill="#ed8d63">+</tspan>
+<tspan fill="#d77d5a">+</tspan>
+<tspan fill="#9f6346">-</tspan>
+<tspan fill="#794229">:</tspan>
+<tspan fill="#4d2516">.</tspan>
+<tspan fill="#542816">.</tspan>
+<tspan fill="#7d3c21">:</tspan>
+<tspan fill="#915436">-</tspan>
+<tspan fill="#664333">:</tspan>
+ 
+ 
+ 
+ 
+<tspan fill="#9f9f9a">+</tspan>
+<tspan fill="#e4e4e1">%</tspan>
+<tspan fill="#d8d8d5">#</tspan>
+<tspan fill="#d6d6d3">#</tspan>
+<tspan fill="#d3d3d1">#</tspan>
+<tspan fill="#d5d5d2">#</tspan>
+<tspan fill="#d6d6d4">#</tspan>
+<tspan fill="#d6d6d5">#</tspan>
+<tspan fill="#d7d7d5">#</tspan>
+<tspan fill="#d7d7d5">#</tspan>
+<tspan fill="#dadad7">#</tspan>
+<tspan fill="#dadad7">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4c0d01">.</tspan>
+<tspan fill="#4d0f02">.</tspan>
+<tspan fill="#4f1003">.</tspan>
+<tspan fill="#4e0f02">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4e1001">.</tspan>
+<tspan fill="#511203">.</tspan>
+<tspan fill="#4f1002">.</tspan>
+<tspan fill="#501103">.</tspan>
+<tspan fill="#4e0f02">.</tspan>
+<tspan fill="#4d0c01">.</tspan>
+<tspan fill="#4e0b01">.</tspan>
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#621a0b">.</tspan>
+<tspan fill="#5e180a">.</tspan>
+<tspan fill="#704030">:</tspan>
+<tspan fill="#6d3a2c">:</tspan>
+<tspan fill="#5a1a0c">.</tspan>
+<tspan fill="#a0877f">=</tspan>
+<tspan fill="#e3dfd7">#</tspan>
+<tspan fill="#c0b8b0">*</tspan>
+<tspan fill="#222423">.</tspan>
+ 
+<tspan fill="#632314">.</tspan>
+ 
+<tspan fill="#5b3527">:</tspan>
+<tspan fill="#bc6e4f">=</tspan>
+<tspan fill="#b0613e">=</tspan>
+<tspan fill="#c67850">=</tspan>
+<tspan fill="#f0a279">*</tspan>
+<tspan fill="#f8ae82">*</tspan>
+<tspan fill="#fcb384">*</tspan>
+<tspan fill="#e79466">+</tspan>
+<tspan fill="#b7633f">=</tspan>
+<tspan fill="#bb6442">=</tspan>
+<tspan fill="#e58a64">+</tspan>
+<tspan fill="#ea8d69">+</tspan>
+<tspan fill="#d47b58">+</tspan>
+<tspan fill="#d6875f">+</tspan>
+<tspan fill="#d18860">+</tspan>
+<tspan fill="#cb825c">+</tspan>
+<tspan fill="#be7b56">=</tspan>
+<tspan fill="#c4845f">+</tspan>
+<tspan fill="#a56f50">=</tspan>
+ 
+ 
+ 
+<tspan fill="#373635">.</tspan>
+<tspan fill="#eaeae7">%</tspan>
+<tspan fill="#d8d8d5">#</tspan>
+<tspan fill="#d7d7d4">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d5d5d3">#</tspan>
+<tspan fill="#d5d5d3">#</tspan>
+<tspan fill="#d6d6d3">#</tspan>
+<tspan fill="#d7d7d4">#</tspan>
+<tspan fill="#d7d7d5">#</tspan>
+<tspan fill="#d9d9d6">#</tspan>
+<tspan fill="#e0e0dd">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4c0d01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4d0e00">.</tspan>
+<tspan fill="#4f1002">.</tspan>
+<tspan fill="#4e0f01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4e0f02">.</tspan>
+<tspan fill="#4f1001">.</tspan>
+<tspan fill="#4f1002">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4b0c01">.</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#651906">.</tspan>
+<tspan fill="#5d1707">.</tspan>
+<tspan fill="#703f2e">:</tspan>
+<tspan fill="#663325">:</tspan>
+<tspan fill="#5c1e11">.</tspan>
+<tspan fill="#b49e98">+</tspan>
+<tspan fill="#78716a">=</tspan>
+<tspan fill="#35322a">.</tspan>
+<tspan fill="#2f3332">.</tspan>
+ 
+<tspan fill="#762719">:</tspan>
+ 
+<tspan fill="#713f37">:</tspan>
+<tspan fill="#d57561">+</tspan>
+<tspan fill="#c06649">=</tspan>
+<tspan fill="#cb714c">=</tspan>
+<tspan fill="#e88859">+</tspan>
+<tspan fill="#ee8c5a">+</tspan>
+<tspan fill="#ec9769">*</tspan>
+<tspan fill="#954c30">-</tspan>
+<tspan fill="#5d2514">.</tspan>
+<tspan fill="#3f1c0d">.</tspan>
+<tspan fill="#6e3019">:</tspan>
+<tspan fill="#6b341e">:</tspan>
+<tspan fill="#733a25">:</tspan>
+<tspan fill="#bb6943">=</tspan>
+<tspan fill="#faa070">*</tspan>
+<tspan fill="#ef9c72">*</tspan>
+<tspan fill="#da8862">+</tspan>
+<tspan fill="#d37f5a">+</tspan>
+<tspan fill="#bd6f52">=</tspan>
+<tspan fill="#934632">-</tspan>
+ 
+ 
+<tspan fill="#bdbcbb">*</tspan>
+<tspan fill="#e1e1df">#</tspan>
+<tspan fill="#d4d4d3">#</tspan>
+<tspan fill="#d6d6d3">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d4d4d2">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d5d5d3">#</tspan>
+<tspan fill="#d5d5d2">#</tspan>
+<tspan fill="#d6d6d3">#</tspan>
+<tspan fill="#d7d7d4">#</tspan>
+<tspan fill="#d9d9d6">#</tspan>
+<tspan fill="#dfdfdc">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4d0f01">.</tspan>
+<tspan fill="#4e0f01">.</tspan>
+<tspan fill="#4e0f01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4e0f01">.</tspan>
+<tspan fill="#4d0e00">.</tspan>
+<tspan fill="#4e0f01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4a0c00">.</tspan>
+<tspan fill="#4b0c00">.</tspan>
+ 
+ 
+ 
+ 
+<tspan fill="#671c07">.</tspan>
+<tspan fill="#5b1706">.</tspan>
+<tspan fill="#703f30">:</tspan>
+<tspan fill="#632d1d">:</tspan>
+<tspan fill="#581b0b">.</tspan>
+<tspan fill="#cab8b4">*</tspan>
+<tspan fill="#d5d3d2">#</tspan>
+<tspan fill="#1f1e1e">.</tspan>
+ 
+ 
+<tspan fill="#94443f">-</tspan>
+<tspan fill="#571611">.</tspan>
+<tspan fill="#582225">.</tspan>
+<tspan fill="#c45651">=</tspan>
+<tspan fill="#b8533e">-</tspan>
+<tspan fill="#b15132">-</tspan>
+<tspan fill="#9d5231">-</tspan>
+<tspan fill="#5d351d">:</tspan>
+<tspan fill="#3d2012">.</tspan>
+<tspan fill="#4f2215">.</tspan>
+<tspan fill="#4a1911">.</tspan>
+<tspan fill="#7d3b2a">:</tspan>
+<tspan fill="#894735">-</tspan>
+<tspan fill="#6e3527">:</tspan>
+<tspan fill="#4d1f16">.</tspan>
+<tspan fill="#3e1c11">.</tspan>
+<tspan fill="#8d5538">-</tspan>
+<tspan fill="#d27954">+</tspan>
+<tspan fill="#ce6a4b">=</tspan>
+<tspan fill="#da6953">=</tspan>
+<tspan fill="#b84e46">-</tspan>
+<tspan fill="#a25842">-</tspan>
+<tspan fill="#5c4843">:</tspan>
+<tspan fill="#c0c4c0">*</tspan>
+<tspan fill="#e6e5e5">%</tspan>
+<tspan fill="#d4d4d4">#</tspan>
+<tspan fill="#d5d5d5">#</tspan>
+<tspan fill="#d5d5d4">#</tspan>
+<tspan fill="#d4d4d3">#</tspan>
+<tspan fill="#d4d4d2">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d5d5d2">#</tspan>
+<tspan fill="#d7d7d4">#</tspan>
+<tspan fill="#d6d6d3">#</tspan>
+<tspan fill="#d7d7d4">#</tspan>
+<tspan fill="#d6d6d4">#</tspan>
+<tspan fill="#d9d9d6">#</tspan>
+<tspan fill="#dedfdb">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4e0f01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4f1001">.</tspan>
+<tspan fill="#4f1002">.</tspan>
+<tspan fill="#4f1001">.</tspan>
+<tspan fill="#501102">.</tspan>
+<tspan fill="#4e0f01">.</tspan>
+<tspan fill="#4b0c00">.</tspan>
+ 
+<tspan fill="#4b0d00">.</tspan>
+<tspan fill="#4b0c00">.</tspan>
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#641703">.</tspan>
+<tspan fill="#581503">.</tspan>
+<tspan fill="#6e3f30">:</tspan>
+<tspan fill="#5d2616">.</tspan>
+<tspan fill="#52190a">.</tspan>
+<tspan fill="#b09a97">+</tspan>
+<tspan fill="#e0d3d2">#</tspan>
+<tspan fill="#55514f">:</tspan>
+ 
+ 
+ 
+ 
+<tspan fill="#4e2127">.</tspan>
+<tspan fill="#781a21">.</tspan>
+<tspan fill="#97302b">:</tspan>
+<tspan fill="#6c1e13">.</tspan>
+ 
+ 
+<tspan fill="#511e0d">.</tspan>
+<tspan fill="#752816">:</tspan>
+<tspan fill="#963326">:</tspan>
+<tspan fill="#b34a42">-</tspan>
+<tspan fill="#b44942">-</tspan>
+<tspan fill="#bc4f48">-</tspan>
+<tspan fill="#aa463b">-</tspan>
+<tspan fill="#793224">:</tspan>
+ 
+ 
+<tspan fill="#7e3423">:</tspan>
+<tspan fill="#d25550">=</tspan>
+<tspan fill="#a94240">-</tspan>
+<tspan fill="#3a140f">.</tspan>
+<tspan fill="#575b5a">-</tspan>
+<tspan fill="#f3f1f0">%</tspan>
+<tspan fill="#d5d5d5">#</tspan>
+<tspan fill="#d6d6d6">#</tspan>
+<tspan fill="#d3d3d3">#</tspan>
+<tspan fill="#d3d3d3">#</tspan>
+<tspan fill="#d3d3d1">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d5d5d3">#</tspan>
+<tspan fill="#d8d8d5">#</tspan>
+<tspan fill="#d9d9d6">#</tspan>
+<tspan fill="#d7d7d4">#</tspan>
+<tspan fill="#d6d7d4">#</tspan>
+<tspan fill="#d9dbd4">#</tspan>
+<tspan fill="#dddfd7">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4e1002">.</tspan>
+<tspan fill="#4e0f01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4d0e01">.</tspan>
+<tspan fill="#4e0f01">.</tspan>
+<tspan fill="#4c0d01">.</tspan>
+<tspan fill="#4c0d01">.</tspan>
+<tspan fill="#4b0d00">.</tspan>
+ 
+<tspan fill="#4b0c00">.</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#5e1100">.</tspan>
+<tspan fill="#5b1806">.</tspan>
+<tspan fill="#6c3e2f">:</tspan>
+<tspan fill="#532012">.</tspan>
+<tspan fill="#481406">.</tspan>
+<tspan fill="#957c79">=</tspan>
+<tspan fill="#cfbbb9">*</tspan>
+<tspan fill="#443f3d">:</tspan>
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#5a1217">.</tspan>
+<tspan fill="#580907">.</tspan>
+<tspan fill="#772215">:</tspan>
+<tspan fill="#72230e">.</tspan>
+<tspan fill="#913f1e">:</tspan>
+<tspan fill="#ac542a">-</tspan>
+<tspan fill="#a75028">-</tspan>
+<tspan fill="#84361c">:</tspan>
+<tspan fill="#5f2d21">:</tspan>
+<tspan fill="#5d2b22">.</tspan>
+<tspan fill="#702d22">:</tspan>
+<tspan fill="#a44a2e">-</tspan>
+<tspan fill="#b9613e">=</tspan>
+<tspan fill="#9a4c2c">-</tspan>
+<tspan fill="#4e1b0c">.</tspan>
+<tspan fill="#661f18">.</tspan>
+<tspan fill="#952d2f">:</tspan>
+ 
+<tspan fill="#2c2a29">.</tspan>
+<tspan fill="#9a9a98">+</tspan>
+<tspan fill="#e0e0e0">#</tspan>
+<tspan fill="#d7d7d7">#</tspan>
+<tspan fill="#d2d2d2">#</tspan>
+<tspan fill="#d1d1d0">#</tspan>
+<tspan fill="#d1d1d1">#</tspan>
+<tspan fill="#d1d1cf">#</tspan>
+<tspan fill="#d2d2ce">#</tspan>
+<tspan fill="#d3d3d0">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d6d6d3">#</tspan>
+<tspan fill="#d5d5d3">#</tspan>
+<tspan fill="#d4d4d2">#</tspan>
+<tspan fill="#d5d5d2">#</tspan>
+<tspan fill="#d8d8d4">#</tspan>
+<tspan fill="#dcdcd7">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4c0d00">.</tspan>
+<tspan fill="#4b0c00">.</tspan>
+<tspan fill="#4c0d00">.</tspan>
+<tspan fill="#4b0c00">.</tspan>
+<tspan fill="#4b0d00">.</tspan>
+<tspan fill="#4b0c00">.</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#421004">.</tspan>
+<tspan fill="#5b1202">.</tspan>
+<tspan fill="#541607">.</tspan>
+<tspan fill="#5e372b">:</tspan>
+<tspan fill="#491609">.</tspan>
+<tspan fill="#4f1d10">.</tspan>
+<tspan fill="#a48f8c">+</tspan>
+<tspan fill="#cebdbb">*</tspan>
+<tspan fill="#978e8a">+</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#4b1912">.</tspan>
+ 
+<tspan fill="#3d1308">.</tspan>
+<tspan fill="#52210e">.</tspan>
+<tspan fill="#66301a">:</tspan>
+<tspan fill="#7f4024">:</tspan>
+<tspan fill="#81462b">:</tspan>
+<tspan fill="#854c30">-</tspan>
+<tspan fill="#8d4f32">-</tspan>
+<tspan fill="#914a29">-</tspan>
+<tspan fill="#954d29">-</tspan>
+<tspan fill="#7c3b1c">:</tspan>
+<tspan fill="#8d4227">-</tspan>
+<tspan fill="#591c10">.</tspan>
+ 
+ 
+<tspan fill="#252624">.</tspan>
+<tspan fill="#939290">+</tspan>
+<tspan fill="#d9d9d9">#</tspan>
+<tspan fill="#d3d3d3">#</tspan>
+<tspan fill="#d1d1d1">#</tspan>
+<tspan fill="#d1d1d1">#</tspan>
+<tspan fill="#d1d1d1">#</tspan>
+<tspan fill="#d1d1cf">#</tspan>
+<tspan fill="#d1d1cd">#</tspan>
+<tspan fill="#d3d3d0">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d6d7d4">#</tspan>
+<tspan fill="#d7d8d5">#</tspan>
+<tspan fill="#d9dad7">#</tspan>
+<tspan fill="#d9dad7">#</tspan>
+<tspan fill="#dadad7">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#4b0c00">.</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#481002">.</tspan>
+<tspan fill="#500e01">.</tspan>
+<tspan fill="#46110a">.</tspan>
+<tspan fill="#57322a">:</tspan>
+<tspan fill="#491608">.</tspan>
+<tspan fill="#522519">.</tspan>
+<tspan fill="#af9f9e">+</tspan>
+<tspan fill="#bcaeaa">*</tspan>
+<tspan fill="#bfb0ac">*</tspan>
+<tspan fill="#988e8a">+</tspan>
+<tspan fill="#565351">:</tspan>
+<tspan fill="#242322">.</tspan>
+<tspan fill="#393631">.</tspan>
+<tspan fill="#9f8c7f">+</tspan>
+<tspan fill="#582821">.</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#453f3d">:</tspan>
+<tspan fill="#767977">=</tspan>
+<tspan fill="#6e6d6b">-</tspan>
+<tspan fill="#81817f">=</tspan>
+<tspan fill="#d3d3d0">#</tspan>
+<tspan fill="#d9d9d8">#</tspan>
+<tspan fill="#d4d4d4">#</tspan>
+<tspan fill="#d2d2d3">#</tspan>
+<tspan fill="#d3d3d3">#</tspan>
+<tspan fill="#d3d3d3">#</tspan>
+<tspan fill="#d2d2d0">#</tspan>
+<tspan fill="#d2d2cf">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#d6d6d3">#</tspan>
+<tspan fill="#d3d3d0">#</tspan>
+<tspan fill="#cdccca">#</tspan>
+<tspan fill="#c8c5c2">*</tspan>
+<tspan fill="#c2beb9">*</tspan>
+<tspan fill="#bdb6b2">*</tspan>
+<tspan fill="#bfb5b2">*</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4b0c00">.</tspan>
+ 
+ 
+<tspan fill="#4b0d00">.</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#462016">.</tspan>
+ 
+<tspan fill="#4e281f">.</tspan>
+<tspan fill="#ada3a3">+</tspan>
+<tspan fill="#b9b1af">*</tspan>
+<tspan fill="#c4bdbb">*</tspan>
+<tspan fill="#d7d5d1">#</tspan>
+<tspan fill="#d7d5cf">#</tspan>
+<tspan fill="#968d7f">+</tspan>
+<tspan fill="#ab9e8b">+</tspan>
+<tspan fill="#cec4b4">*</tspan>
+<tspan fill="#bbb0a0">*</tspan>
+<tspan fill="#66554f">-</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#735b51">-</tspan>
+<tspan fill="#eef2ef">%</tspan>
+<tspan fill="#e9e8e9">%</tspan>
+<tspan fill="#e3e4e3">%</tspan>
+<tspan fill="#e6e8e7">%</tspan>
+<tspan fill="#d9d9d9">#</tspan>
+<tspan fill="#d6d6d6">#</tspan>
+<tspan fill="#d5d5d5">#</tspan>
+<tspan fill="#d3d3d3">#</tspan>
+<tspan fill="#d3d3d1">#</tspan>
+<tspan fill="#d2d2cf">#</tspan>
+<tspan fill="#d1d1ce">#</tspan>
+<tspan fill="#d4d4d0">#</tspan>
+<tspan fill="#d4d4d1">#</tspan>
+<tspan fill="#c8c7c4">*</tspan>
+<tspan fill="#b7b2b1">*</tspan>
+<tspan fill="#ada6a2">+</tspan>
+<tspan fill="#b0a49f">+</tspan>
+<tspan fill="#b2a3a0">+</tspan>
+<tspan fill="#b3a5a2">+</tspan>
+<tspan fill="#b5a6a4">*</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4f0e00">.</tspan>
+ 
+<tspan fill="#4a0c00">.</tspan>
+<tspan fill="#4b0c00">.</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#583934">:</tspan>
+<tspan fill="#8e7d76">=</tspan>
+<tspan fill="#afa19d">+</tspan>
+<tspan fill="#d8d4d2">#</tspan>
+<tspan fill="#f4f5f4">%</tspan>
+<tspan fill="#fcfefe">%</tspan>
+<tspan fill="#f0f8f1">%</tspan>
+<tspan fill="#f6fef9">%</tspan>
+<tspan fill="#f0f2f0">%</tspan>
+<tspan fill="#c9ccc0">#</tspan>
+<tspan fill="#b2ac9a">*</tspan>
+<tspan fill="#beb09f">*</tspan>
+<tspan fill="#d6cfbc">#</tspan>
+<tspan fill="#ddd9c6">#</tspan>
+<tspan fill="#b5afa2">*</tspan>
+<tspan fill="#50403e">:</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#630903">.</tspan>
+<tspan fill="#885044">-</tspan>
+<tspan fill="#e9ede2">%</tspan>
+<tspan fill="#d8dbd7">#</tspan>
+<tspan fill="#dadedb">#</tspan>
+<tspan fill="#d6dad8">#</tspan>
+<tspan fill="#d8d8d8">#</tspan>
+<tspan fill="#d4d5d5">#</tspan>
+<tspan fill="#d3d4d3">#</tspan>
+<tspan fill="#d4d4d4">#</tspan>
+<tspan fill="#d3d3d3">#</tspan>
+<tspan fill="#d2d2d2">#</tspan>
+<tspan fill="#d5d5d4">#</tspan>
+<tspan fill="#d0cfcd">#</tspan>
+<tspan fill="#b9b8b5">*</tspan>
+<tspan fill="#afa7a7">+</tspan>
+<tspan fill="#afa6a6">+</tspan>
+<tspan fill="#b1a9a7">*</tspan>
+<tspan fill="#b3aba6">*</tspan>
+<tspan fill="#b6aca7">*</tspan>
+<tspan fill="#baacaa">*</tspan>
+<tspan fill="#baaca9">*</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#4b0c00">.</tspan>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#423231">.</tspan>
+<tspan fill="#747170">-</tspan>
+<tspan fill="#b8b0ae">*</tspan>
+<tspan fill="#e1dfde">#</tspan>
+<tspan fill="#fafcfc">%</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#fcfdfb">%</tspan>
+<tspan fill="#e8ece0">%</tspan>
+<tspan fill="#dee6d7">#</tspan>
+<tspan fill="#fafaf9">%</tspan>
+<tspan fill="#fbfcfb">%</tspan>
+<tspan fill="#f4f7f4">%</tspan>
+<tspan fill="#f0f4ef">%</tspan>
+<tspan fill="#cecec2">#</tspan>
+<tspan fill="#c1b7a6">*</tspan>
+<tspan fill="#c2b6a0">*</tspan>
+<tspan fill="#e1dbc7">#</tspan>
+<tspan fill="#e8e5d4">%</tspan>
+<tspan fill="#6f463f">:</tspan>
+ 
+<tspan fill="#5d0a03">.</tspan>
+<tspan fill="#640b01">.</tspan>
+<tspan fill="#701204">.</tspan>
+<tspan fill="#7b1a09">.</tspan>
+<tspan fill="#821e0d">:</tspan>
+<tspan fill="#8d2513">:</tspan>
+<tspan fill="#9f351f">:</tspan>
+<tspan fill="#761608">.</tspan>
+<tspan fill="#4d2e28">.</tspan>
+<tspan fill="#eaeedc">%</tspan>
+<tspan fill="#d4d8ce">#</tspan>
+<tspan fill="#dbded8">#</tspan>
+<tspan fill="#dbded7">#</tspan>
+<tspan fill="#dce0d9">#</tspan>
+<tspan fill="#daddd9">#</tspan>
+<tspan fill="#d8d8d7">#</tspan>
+<tspan fill="#d3d3d2">#</tspan>
+<tspan fill="#d1d0ce">#</tspan>
+<tspan fill="#d4d4d2">#</tspan>
+<tspan fill="#cccbcb">#</tspan>
+<tspan fill="#b7b6b3">*</tspan>
+<tspan fill="#b0adaa">*</tspan>
+<tspan fill="#b3acab">*</tspan>
+<tspan fill="#b4adac">*</tspan>
+<tspan fill="#b3aead">*</tspan>
+<tspan fill="#b6aead">*</tspan>
+<tspan fill="#b8aeab">*</tspan>
+<tspan fill="#baaeaa">*</tspan>
+<tspan fill="#baadab">*</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#5a3835">:</tspan>
+<tspan fill="#a19390">+</tspan>
+<tspan fill="#dcdbda">#</tspan>
+<tspan fill="#feffff">%</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#fdfdfd">%</tspan>
+<tspan fill="#fcfbfb">%</tspan>
+<tspan fill="#f7f8f6">%</tspan>
+<tspan fill="#e1e6d6">#</tspan>
+<tspan fill="#dde2d0">#</tspan>
+<tspan fill="#eef1e9">%</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#fdfefd">%</tspan>
+<tspan fill="#f8fbf8">%</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#f5fcf7">%</tspan>
+<tspan fill="#dbe2d6">#</tspan>
+<tspan fill="#bfbbac">*</tspan>
+<tspan fill="#afa08e">+</tspan>
+<tspan fill="#cfc6b1">*</tspan>
+<tspan fill="#d2baa5">*</tspan>
+<tspan fill="#a33c23">-</tspan>
+<tspan fill="#af4626">-</tspan>
+<tspan fill="#ac4223">-</tspan>
+<tspan fill="#b14323">-</tspan>
+<tspan fill="#b74626">-</tspan>
+<tspan fill="#b94829">-</tspan>
+<tspan fill="#b8482d">-</tspan>
+<tspan fill="#b03b1f">-</tspan>
+<tspan fill="#6b1006">.</tspan>
+<tspan fill="#724e41">-</tspan>
+<tspan fill="#dbd3c0">#</tspan>
+<tspan fill="#dde0d6">#</tspan>
+<tspan fill="#dce0d6">#</tspan>
+<tspan fill="#dce1d6">#</tspan>
+<tspan fill="#dde1d6">#</tspan>
+<tspan fill="#dbdfd3">#</tspan>
+<tspan fill="#e2e6dc">%</tspan>
+<tspan fill="#e3e5de">%</tspan>
+<tspan fill="#dddeda">#</tspan>
+<tspan fill="#cececc">#</tspan>
+<tspan fill="#afadab">*</tspan>
+<tspan fill="#acaba7">*</tspan>
+<tspan fill="#b1aeab">*</tspan>
+<tspan fill="#b4adac">*</tspan>
+<tspan fill="#b5adad">*</tspan>
+<tspan fill="#b6adad">*</tspan>
+<tspan fill="#b7aeae">*</tspan>
+<tspan fill="#b8afae">*</tspan>
+<tspan fill="#b9adad">*</tspan>
+<tspan fill="#b9afb0">*</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#633a36">:</tspan>
+<tspan fill="#917b78">=</tspan>
+<tspan fill="#ccc6c5">#</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#f9fbfa">%</tspan>
+<tspan fill="#fafbfa">%</tspan>
+<tspan fill="#fafdfa">%</tspan>
+<tspan fill="#f5f9f3">%</tspan>
+<tspan fill="#f0f7ef">%</tspan>
+<tspan fill="#fbfefb">%</tspan>
+<tspan fill="#e8ecdd">%</tspan>
+<tspan fill="#dfe2cf">#</tspan>
+<tspan fill="#e1e5d5">#</tspan>
+<tspan fill="#fafbf9">%</tspan>
+<tspan fill="#f5f8f4">%</tspan>
+<tspan fill="#eef2ea">%</tspan>
+<tspan fill="#f9fbf8">%</tspan>
+<tspan fill="#fefefe">%</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#f3f8f4">%</tspan>
+<tspan fill="#e2e8df">%</tspan>
+<tspan fill="#c8c8b6">*</tspan>
+<tspan fill="#ab9d87">+</tspan>
+<tspan fill="#c0b099">*</tspan>
+<tspan fill="#cc8e75">+</tspan>
+<tspan fill="#c65134">-</tspan>
+<tspan fill="#c34b2a">-</tspan>
+<tspan fill="#be4d2b">-</tspan>
+<tspan fill="#bf4b2a">-</tspan>
+<tspan fill="#c34e31">-</tspan>
+<tspan fill="#bd452d">-</tspan>
+<tspan fill="#b64d36">-</tspan>
+<tspan fill="#c79789">+</tspan>
+<tspan fill="#be9482">+</tspan>
+<tspan fill="#bea896">*</tspan>
+<tspan fill="#e0e3d9">#</tspan>
+<tspan fill="#dedfd7">#</tspan>
+<tspan fill="#dde0d7">#</tspan>
+<tspan fill="#e3e7dd">%</tspan>
+<tspan fill="#dadecf">#</tspan>
+<tspan fill="#d6dbc8">#</tspan>
+<tspan fill="#dce0d1">#</tspan>
+<tspan fill="#e2e6dc">%</tspan>
+<tspan fill="#e2e6de">%</tspan>
+<tspan fill="#dadcd8">#</tspan>
+<tspan fill="#ccccca">#</tspan>
+<tspan fill="#bab7b6">*</tspan>
+<tspan fill="#aea9a7">*</tspan>
+<tspan fill="#aea7a6">+</tspan>
+<tspan fill="#b5adad">*</tspan>
+<tspan fill="#b7afac">*</tspan>
+<tspan fill="#b8b0ae">*</tspan>
+<tspan fill="#b8afaf">*</tspan>
+<tspan fill="#b8b0b0">*</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#431713">.</tspan>
+<tspan fill="#c4bbb8">*</tspan>
+<tspan fill="#fbffff">%</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#fbfcfa">%</tspan>
+<tspan fill="#dce3d7">#</tspan>
+<tspan fill="#e8eee4">%</tspan>
+<tspan fill="#e5ebe0">%</tspan>
+<tspan fill="#dee5d8">#</tspan>
+<tspan fill="#e0e5d9">#</tspan>
+<tspan fill="#e6eddf">%</tspan>
+<tspan fill="#dde3d4">#</tspan>
+<tspan fill="#f1f4ec">%</tspan>
+<tspan fill="#f0f4e8">%</tspan>
+<tspan fill="#dde1cc">#</tspan>
+<tspan fill="#e0e3cf">#</tspan>
+<tspan fill="#eceee5">%</tspan>
+<tspan fill="#f7f9f4">%</tspan>
+<tspan fill="#dfe4d5">#</tspan>
+<tspan fill="#e5eadc">%</tspan>
+<tspan fill="#dee0d6">#</tspan>
+<tspan fill="#e0e2d7">#</tspan>
+<tspan fill="#eaece3">%</tspan>
+<tspan fill="#f2f4ef">%</tspan>
+<tspan fill="#f0f3ea">%</tspan>
+<tspan fill="#e3e7d9">%</tspan>
+<tspan fill="#d3d3c4">#</tspan>
+<tspan fill="#b4a894">+</tspan>
+<tspan fill="#ac9c83">+</tspan>
+<tspan fill="#bf8f75">+</tspan>
+<tspan fill="#d06546">=</tspan>
+<tspan fill="#ce5232">=</tspan>
+<tspan fill="#d15d3e">=</tspan>
+<tspan fill="#d45f3e">=</tspan>
+<tspan fill="#cb6143">=</tspan>
+<tspan fill="#e8b8ac">*</tspan>
+<tspan fill="#f0d4c6">#</tspan>
+<tspan fill="#d5c7b4">#</tspan>
+<tspan fill="#dadaca">#</tspan>
+<tspan fill="#dcddd3">#</tspan>
+<tspan fill="#e0e1d9">#</tspan>
+<tspan fill="#dbded3">#</tspan>
+<tspan fill="#e3e8db">%</tspan>
+<tspan fill="#dfe4d2">#</tspan>
+<tspan fill="#dbdecb">#</tspan>
+<tspan fill="#dbddcc">#</tspan>
+<tspan fill="#dde0d1">#</tspan>
+<tspan fill="#dee2d5">#</tspan>
+<tspan fill="#e4e7dd">%</tspan>
+<tspan fill="#e9ece4">%</tspan>
+<tspan fill="#eceeeb">%</tspan>
+<tspan fill="#dfe0dd">#</tspan>
+<tspan fill="#c0bfbc">*</tspan>
+<tspan fill="#aca8a6">+</tspan>
+<tspan fill="#b1adab">*</tspan>
+<tspan fill="#b6b1af">*</tspan>
+<tspan fill="#b6b1af">*</tspan>
+<tspan fill="#b7b2b1">*</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+ 
+ 
+ 
+<tspan fill="#ccc9c4">#</tspan>
+<tspan fill="#ffffff">@</tspan>
+<tspan fill="#fafdfd">%</tspan>
+<tspan fill="#dde4dc">#</tspan>
+<tspan fill="#e2eae1">%</tspan>
+<tspan fill="#e3eee0">%</tspan>
+<tspan fill="#d9e0ce">#</tspan>
+<tspan fill="#d9dece">#</tspan>
+<tspan fill="#d6dac9">#</tspan>
+<tspan fill="#d6dac8">#</tspan>
+<tspan fill="#d7dbc9">#</tspan>
+<tspan fill="#d7dbca">#</tspan>
+<tspan fill="#dfe2d4">#</tspan>
+<tspan fill="#ecf0e2">%</tspan>
+<tspan fill="#dfe3d2">#</tspan>
+<tspan fill="#dee2d1">#</tspan>
+<tspan fill="#e1e6d4">#</tspan>
+<tspan fill="#eff2e6">%</tspan>
+<tspan fill="#e4e9da">%</tspan>
+<tspan fill="#dfe3d3">#</tspan>
+<tspan fill="#e5e9db">%</tspan>
+<tspan fill="#dcdfd3">#</tspan>
+<tspan fill="#d4d5c9">#</tspan>
+<tspan fill="#d5d7c8">#</tspan>
+<tspan fill="#d5d8c9">#</tspan>
+<tspan fill="#dde0d2">#</tspan>
+<tspan fill="#e3e5d8">#</tspan>
+<tspan fill="#dee0d4">#</tspan>
+<tspan fill="#e1e5d5">#</tspan>
+<tspan fill="#d1cdba">#</tspan>
+<tspan fill="#b1a591">+</tspan>
+<tspan fill="#c0a58c">*</tspan>
+<tspan fill="#cb7c5e">+</tspan>
+<tspan fill="#d1613e">=</tspan>
+<tspan fill="#cb643e">=</tspan>
+<tspan fill="#e5b19c">*</tspan>
+<tspan fill="#f1dbd0">#</tspan>
+<tspan fill="#cdc3af">*</tspan>
+<tspan fill="#d0d2c3">#</tspan>
+<tspan fill="#dcddd2">#</tspan>
+<tspan fill="#daddd2">#</tspan>
+<tspan fill="#dbdfd7">#</tspan>
+<tspan fill="#dfe2d9">#</tspan>
+<tspan fill="#e0e4d8">#</tspan>
+<tspan fill="#dee2d2">#</tspan>
+<tspan fill="#dee2ce">#</tspan>
+<tspan fill="#dee1ce">#</tspan>
+<tspan fill="#d9dbc8">#</tspan>
+<tspan fill="#e0e1d2">#</tspan>
+<tspan fill="#dfe0d4">#</tspan>
+<tspan fill="#dcdfd3">#</tspan>
+<tspan fill="#e1e5da">#</tspan>
+<tspan fill="#e7ebe4">%</tspan>
+<tspan fill="#edf0ec">%</tspan>
+<tspan fill="#e0e1de">#</tspan>
+<tspan fill="#b3b3b0">*</tspan>
+<tspan fill="#aeadac">*</tspan>
+<tspan fill="#afafae">*</tspan>
+<tspan fill="#b8b7b7">*</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+ 
+<tspan fill="#502929">.</tspan>
+<tspan fill="#c7c4b9">*</tspan>
+<tspan fill="#eef8ef">%</tspan>
+<tspan fill="#f4fcf9">%</tspan>
+<tspan fill="#eff5ee">%</tspan>
+<tspan fill="#cad3bd">#</tspan>
+<tspan fill="#cfd7c6">#</tspan>
+<tspan fill="#e0e5d3">#</tspan>
+<tspan fill="#e1e6d5">#</tspan>
+<tspan fill="#d9ddcd">#</tspan>
+<tspan fill="#d7dbc9">#</tspan>
+<tspan fill="#d7dac8">#</tspan>
+<tspan fill="#d3d6c4">#</tspan>
+<tspan fill="#dce0ce">#</tspan>
+<tspan fill="#e5eada">%</tspan>
+<tspan fill="#dfe4d3">#</tspan>
+<tspan fill="#dce0d1">#</tspan>
+<tspan fill="#dce1d1">#</tspan>
+<tspan fill="#dfe3d4">#</tspan>
+<tspan fill="#e0e4d4">#</tspan>
+<tspan fill="#e1e5d6">#</tspan>
+<tspan fill="#e3e9dc">%</tspan>
+<tspan fill="#e5ebdd">%</tspan>
+<tspan fill="#e5ecde">%</tspan>
+<tspan fill="#dde1d4">#</tspan>
+<tspan fill="#dbdcd1">#</tspan>
+<tspan fill="#daddcf">#</tspan>
+<tspan fill="#d8dbca">#</tspan>
+<tspan fill="#d6daca">#</tspan>
+<tspan fill="#daddce">#</tspan>
+<tspan fill="#d8dacc">#</tspan>
+<tspan fill="#dce0d1">#</tspan>
+<tspan fill="#e1e3d7">#</tspan>
+<tspan fill="#e1e3d3">#</tspan>
+<tspan fill="#dddbc9">#</tspan>
+<tspan fill="#bf8468">+</tspan>
+<tspan fill="#ca846b">+</tspan>
+<tspan fill="#e4d4c6">#</tspan>
+<tspan fill="#c8c4b3">*</tspan>
+<tspan fill="#cfd1c4">#</tspan>
+<tspan fill="#dcddd3">#</tspan>
+<tspan fill="#d6d9cc">#</tspan>
+<tspan fill="#daded4">#</tspan>
+<tspan fill="#dcdfd8">#</tspan>
+<tspan fill="#e0e3dc">#</tspan>
+<tspan fill="#e1e3dd">#</tspan>
+<tspan fill="#dde1d3">#</tspan>
+<tspan fill="#dde0cf">#</tspan>
+<tspan fill="#dfe3d0">#</tspan>
+<tspan fill="#dbdeca">#</tspan>
+<tspan fill="#d6d8c7">#</tspan>
+<tspan fill="#dee2d3">#</tspan>
+<tspan fill="#dadfd2">#</tspan>
+<tspan fill="#dfe3d6">#</tspan>
+<tspan fill="#e2e7db">%</tspan>
+<tspan fill="#e8ebe3">%</tspan>
+<tspan fill="#fcfefb">%</tspan>
+<tspan fill="#e4e7e4">%</tspan>
+<tspan fill="#c0c0be">*</tspan>
+<tspan fill="#d2d4cf">#</tspan>
+<tspan fill="#e5e8e1">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+ 
+<tspan fill="#755c5a">-</tspan>
+<tspan fill="#edf0e3">%</tspan>
+<tspan fill="#e7eedc">%</tspan>
+<tspan fill="#eaf1ea">%</tspan>
+<tspan fill="#f1f7f2">%</tspan>
+<tspan fill="#d8decd">#</tspan>
+<tspan fill="#d2d7c2">#</tspan>
+<tspan fill="#cfd3c0">#</tspan>
+<tspan fill="#dee2ce">#</tspan>
+<tspan fill="#d9dcc8">#</tspan>
+<tspan fill="#dbe0cd">#</tspan>
+<tspan fill="#d6d9c6">#</tspan>
+<tspan fill="#d3d6c3">#</tspan>
+<tspan fill="#d8dbc9">#</tspan>
+<tspan fill="#e2e6d4">#</tspan>
+<tspan fill="#e1e6d6">#</tspan>
+<tspan fill="#dce1d2">#</tspan>
+<tspan fill="#dde2d2">#</tspan>
+<tspan fill="#dce1d1">#</tspan>
+<tspan fill="#dde1d2">#</tspan>
+<tspan fill="#dde1d2">#</tspan>
+<tspan fill="#dfe3d4">#</tspan>
+<tspan fill="#e0e5d5">#</tspan>
+<tspan fill="#dfe4d6">#</tspan>
+<tspan fill="#dfe6d8">#</tspan>
+<tspan fill="#dbe0d3">#</tspan>
+<tspan fill="#d8ddcf">#</tspan>
+<tspan fill="#daddcf">#</tspan>
+<tspan fill="#d9dccf">#</tspan>
+<tspan fill="#d9dcd0">#</tspan>
+<tspan fill="#d8dbcf">#</tspan>
+<tspan fill="#d7d9ce">#</tspan>
+<tspan fill="#d6d7cb">#</tspan>
+<tspan fill="#d4d5ca">#</tspan>
+<tspan fill="#d9dbce">#</tspan>
+<tspan fill="#f8faed">%</tspan>
+<tspan fill="#ddd8c9">#</tspan>
+<tspan fill="#d4c7b6">#</tspan>
+<tspan fill="#cfd1c1">#</tspan>
+<tspan fill="#d7dbcf">#</tspan>
+<tspan fill="#e0e1d6">#</tspan>
+<tspan fill="#d7dace">#</tspan>
+<tspan fill="#d7dcd0">#</tspan>
+<tspan fill="#dfe2db">#</tspan>
+<tspan fill="#e0e3dc">#</tspan>
+<tspan fill="#e3e6df">%</tspan>
+<tspan fill="#e2e4de">#</tspan>
+<tspan fill="#dee2d6">#</tspan>
+<tspan fill="#dce0cf">#</tspan>
+<tspan fill="#dcdecc">#</tspan>
+<tspan fill="#dde1ce">#</tspan>
+<tspan fill="#d9dcca">#</tspan>
+<tspan fill="#d8dac9">#</tspan>
+<tspan fill="#d7dacc">#</tspan>
+<tspan fill="#d9dcd1">#</tspan>
+<tspan fill="#d9dccf">#</tspan>
+<tspan fill="#e2e6db">%</tspan>
+<tspan fill="#eceee6">%</tspan>
+<tspan fill="#e2e4db">#</tspan>
+<tspan fill="#dcdfd3">#</tspan>
+<tspan fill="#e1e5d6">#</tspan>
+<tspan fill="#e3e8d9">%</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+ 
+<tspan fill="#a0948e">+</tspan>
+<tspan fill="#fafff1">%</tspan>
+<tspan fill="#e1e6cf">#</tspan>
+<tspan fill="#d2d8cd">#</tspan>
+<tspan fill="#f5fdf8">%</tspan>
+<tspan fill="#d7dbc9">#</tspan>
+<tspan fill="#d0d0bb">#</tspan>
+<tspan fill="#c7c7b4">*</tspan>
+<tspan fill="#cecfbc">#</tspan>
+<tspan fill="#d9ddcd">#</tspan>
+<tspan fill="#d3d6c1">#</tspan>
+<tspan fill="#dcdfcb">#</tspan>
+<tspan fill="#daddca">#</tspan>
+<tspan fill="#d1d4c0">#</tspan>
+<tspan fill="#e0e5d1">#</tspan>
+<tspan fill="#e0e5d5">#</tspan>
+<tspan fill="#dbdfcf">#</tspan>
+<tspan fill="#d8dbca">#</tspan>
+<tspan fill="#d2d5c3">#</tspan>
+<tspan fill="#d3d7c5">#</tspan>
+<tspan fill="#d4d9c9">#</tspan>
+<tspan fill="#d7dccd">#</tspan>
+<tspan fill="#d9dece">#</tspan>
+<tspan fill="#dbe1d1">#</tspan>
+<tspan fill="#dee5d7">#</tspan>
+<tspan fill="#e1e8db">%</tspan>
+<tspan fill="#dfe6d9">#</tspan>
+<tspan fill="#dbdfd3">#</tspan>
+<tspan fill="#dbdfd3">#</tspan>
+<tspan fill="#daded2">#</tspan>
+<tspan fill="#daded2">#</tspan>
+<tspan fill="#d8ddd0">#</tspan>
+<tspan fill="#d7dbce">#</tspan>
+<tspan fill="#d8dccf">#</tspan>
+<tspan fill="#dadbd0">#</tspan>
+<tspan fill="#dadacd">#</tspan>
+<tspan fill="#dddcc8">#</tspan>
+<tspan fill="#ccceba">#</tspan>
+<tspan fill="#e6edd9">%</tspan>
+<tspan fill="#dee2d4">#</tspan>
+<tspan fill="#dbdcd1">#</tspan>
+<tspan fill="#d7d8cc">#</tspan>
+<tspan fill="#d4d6cc">#</tspan>
+<tspan fill="#dee2d9">#</tspan>
+<tspan fill="#e1e3dc">#</tspan>
+<tspan fill="#e1e3dc">#</tspan>
+<tspan fill="#e2e5de">%</tspan>
+<tspan fill="#e2e4dd">#</tspan>
+<tspan fill="#dcdfd1">#</tspan>
+<tspan fill="#d8dac8">#</tspan>
+<tspan fill="#d8d8c7">#</tspan>
+<tspan fill="#dbdbc9">#</tspan>
+<tspan fill="#dee1d1">#</tspan>
+<tspan fill="#dce0cf">#</tspan>
+<tspan fill="#cfd2c1">#</tspan>
+<tspan fill="#cdd0bf">#</tspan>
+<tspan fill="#d4d6c8">#</tspan>
+<tspan fill="#cecfc2">#</tspan>
+<tspan fill="#cfd0c2">#</tspan>
+<tspan fill="#d8daca">#</tspan>
+<tspan fill="#d6d9c8">#</tspan>
+<tspan fill="#cdcfbc">#</tspan>
+<tspan fill="#d3d4c0">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+ 
+<tspan fill="#b7ada7">*</tspan>
+<tspan fill="#fffffe">%</tspan>
+<tspan fill="#dcdec9">#</tspan>
+<tspan fill="#c7cab7">*</tspan>
+<tspan fill="#e0e5db">#</tspan>
+<tspan fill="#dde1d1">#</tspan>
+<tspan fill="#d3d6c0">#</tspan>
+<tspan fill="#cacbb8">#</tspan>
+<tspan fill="#c5c2af">*</tspan>
+<tspan fill="#cdcebb">#</tspan>
+<tspan fill="#d9ddcd">#</tspan>
+<tspan fill="#cbceb8">#</tspan>
+<tspan fill="#dde0cb">#</tspan>
+<tspan fill="#dfe2cf">#</tspan>
+<tspan fill="#d1d3bf">#</tspan>
+<tspan fill="#d6d8c6">#</tspan>
+<tspan fill="#dce0ce">#</tspan>
+<tspan fill="#d7dac7">#</tspan>
+<tspan fill="#d1d3c1">#</tspan>
+<tspan fill="#d5d9c8">#</tspan>
+<tspan fill="#e2eadb">%</tspan>
+<tspan fill="#e5f0e0">%</tspan>
+<tspan fill="#e6f1e2">%</tspan>
+<tspan fill="#e6f1e1">%</tspan>
+<tspan fill="#e5eedf">%</tspan>
+<tspan fill="#e3ebdd">%</tspan>
+<tspan fill="#dfe6d9">#</tspan>
+<tspan fill="#dce2d7">#</tspan>
+<tspan fill="#d4d9cd">#</tspan>
+<tspan fill="#ced1c4">#</tspan>
+<tspan fill="#cfd2c6">#</tspan>
+<tspan fill="#d3d8cb">#</tspan>
+<tspan fill="#d7dbce">#</tspan>
+<tspan fill="#d9ddd1">#</tspan>
+<tspan fill="#dce0d4">#</tspan>
+<tspan fill="#dcdfd3">#</tspan>
+<tspan fill="#d2d5c9">#</tspan>
+<tspan fill="#ced4c0">#</tspan>
+<tspan fill="#e9f3e0">%</tspan>
+<tspan fill="#ebf2e1">%</tspan>
+<tspan fill="#d1d6c8">#</tspan>
+<tspan fill="#d2d3c8">#</tspan>
+<tspan fill="#d7d8cd">#</tspan>
+<tspan fill="#dcdfd5">#</tspan>
+<tspan fill="#dfe2d9">#</tspan>
+<tspan fill="#dfe1da">#</tspan>
+<tspan fill="#e0e3dc">#</tspan>
+<tspan fill="#e1e4dd">#</tspan>
+<tspan fill="#e2e3dd">#</tspan>
+<tspan fill="#dbded0">#</tspan>
+<tspan fill="#dbddca">#</tspan>
+<tspan fill="#ddddcb">#</tspan>
+<tspan fill="#dddccb">#</tspan>
+<tspan fill="#dcddcb">#</tspan>
+<tspan fill="#d0d0bf">#</tspan>
+<tspan fill="#c2c3b3">*</tspan>
+<tspan fill="#c9ccbe">#</tspan>
+<tspan fill="#e9ece1">%</tspan>
+<tspan fill="#cacbba">#</tspan>
+<tspan fill="#c6c6b5">*</tspan>
+<tspan fill="#d6d8c7">#</tspan>
+<tspan fill="#dee2d1">#</tspan>
+<tspan fill="#d3d6c5">#</tspan>
+<tspan fill="#c7c7b4">*</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#b5aca5">*</tspan>
+<tspan fill="#fffffe">%</tspan>
+<tspan fill="#eaeddb">%</tspan>
+<tspan fill="#d1d4bf">#</tspan>
+<tspan fill="#cfd2c1">#</tspan>
+<tspan fill="#d6dacb">#</tspan>
+<tspan fill="#d1d3bf">#</tspan>
+<tspan fill="#d3d5c1">#</tspan>
+<tspan fill="#c8c7b4">*</tspan>
+<tspan fill="#c9c6b4">*</tspan>
+<tspan fill="#cdcdb9">#</tspan>
+<tspan fill="#dbdecd">#</tspan>
+<tspan fill="#cccfbb">#</tspan>
+<tspan fill="#d4d7c2">#</tspan>
+<tspan fill="#d7d9c6">#</tspan>
+<tspan fill="#c9cab6">#</tspan>
+<tspan fill="#c7c9b5">*</tspan>
+<tspan fill="#d9ddca">#</tspan>
+<tspan fill="#dde1d0">#</tspan>
+<tspan fill="#e0e4d6">#</tspan>
+<tspan fill="#e3e8dd">%</tspan>
+<tspan fill="#e3eddf">%</tspan>
+<tspan fill="#e4ecdd">%</tspan>
+<tspan fill="#dfe4d6">#</tspan>
+<tspan fill="#dbdfd2">#</tspan>
+<tspan fill="#d8dccf">#</tspan>
+<tspan fill="#d8dbcf">#</tspan>
+<tspan fill="#d8dcd0">#</tspan>
+<tspan fill="#dbdfd4">#</tspan>
+<tspan fill="#e0e4d9">#</tspan>
+<tspan fill="#dde1d7">#</tspan>
+<tspan fill="#d8ddd0">#</tspan>
+<tspan fill="#d9ded1">#</tspan>
+<tspan fill="#dce0d3">#</tspan>
+<tspan fill="#dbe0d3">#</tspan>
+<tspan fill="#d1d5c8">#</tspan>
+<tspan fill="#ced2c5">#</tspan>
+<tspan fill="#d0d6c9">#</tspan>
+<tspan fill="#d4dccb">#</tspan>
+<tspan fill="#ecf3e0">%</tspan>
+<tspan fill="#edf1e0">%</tspan>
+<tspan fill="#d6dacd">#</tspan>
+<tspan fill="#d7dad0">#</tspan>
+<tspan fill="#dfe3d9">#</tspan>
+<tspan fill="#e2e5dc">%</tspan>
+<tspan fill="#dfe2d9">#</tspan>
+<tspan fill="#dfe3d9">#</tspan>
+<tspan fill="#dfe3d9">#</tspan>
+<tspan fill="#e1e5db">#</tspan>
+<tspan fill="#e2e4db">#</tspan>
+<tspan fill="#d9dbcc">#</tspan>
+<tspan fill="#dbddca">#</tspan>
+<tspan fill="#dcdccb">#</tspan>
+<tspan fill="#dddecc">#</tspan>
+<tspan fill="#dee2cf">#</tspan>
+<tspan fill="#b6b4a1">*</tspan>
+<tspan fill="#a29d8b">+</tspan>
+<tspan fill="#dee2d7">#</tspan>
+<tspan fill="#eaeee4">%</tspan>
+<tspan fill="#e0e3d7">#</tspan>
+<tspan fill="#cccebd">#</tspan>
+<tspan fill="#cbccbb">#</tspan>
+<tspan fill="#dadbd0">#</tspan>
+<tspan fill="#dddfd4">#</tspan>
+<tspan fill="#d0d3c4">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#fafff1">%</tspan>
+<tspan fill="#f1f6e3">%</tspan>
+<tspan fill="#e4e8d4">%</tspan>
+<tspan fill="#cdd0bc">#</tspan>
+<tspan fill="#d3d6c9">#</tspan>
+<tspan fill="#d8ddcc">#</tspan>
+<tspan fill="#d5d9c5">#</tspan>
+<tspan fill="#ced0bc">#</tspan>
+<tspan fill="#cac9b6">#</tspan>
+<tspan fill="#c7c4b0">*</tspan>
+<tspan fill="#c7c7b0">*</tspan>
+<tspan fill="#dadfcb">#</tspan>
+<tspan fill="#d1d4c1">#</tspan>
+<tspan fill="#c9c9b4">*</tspan>
+<tspan fill="#c7c5af">*</tspan>
+<tspan fill="#c3bfac">*</tspan>
+<tspan fill="#d1d3c0">#</tspan>
+<tspan fill="#dfe4d3">#</tspan>
+<tspan fill="#dde2d1">#</tspan>
+<tspan fill="#d3d7c5">#</tspan>
+<tspan fill="#d1d8c8">#</tspan>
+<tspan fill="#d6e0d1">#</tspan>
+<tspan fill="#dae4d5">#</tspan>
+<tspan fill="#d9e1d2">#</tspan>
+<tspan fill="#d9e0d2">#</tspan>
+<tspan fill="#dbe3d4">#</tspan>
+<tspan fill="#dee6d7">#</tspan>
+<tspan fill="#dfe5db">#</tspan>
+<tspan fill="#e3e8df">%</tspan>
+<tspan fill="#e2e9df">%</tspan>
+<tspan fill="#e4eae0">%</tspan>
+<tspan fill="#e2e9df">%</tspan>
+<tspan fill="#e0e6dc">%</tspan>
+<tspan fill="#dde1d6">#</tspan>
+<tspan fill="#d1d5c9">#</tspan>
+<tspan fill="#ced2c5">#</tspan>
+<tspan fill="#dbe0d4">#</tspan>
+<tspan fill="#d3ddce">#</tspan>
+<tspan fill="#dbe6d3">#</tspan>
+<tspan fill="#f1f7e2">%</tspan>
+<tspan fill="#ecf1de">%</tspan>
+<tspan fill="#dce1d4">#</tspan>
+<tspan fill="#e2e7dc">%</tspan>
+<tspan fill="#e4e8df">%</tspan>
+<tspan fill="#e1e3dc">#</tspan>
+<tspan fill="#dfe2da">#</tspan>
+<tspan fill="#dfe3d9">#</tspan>
+<tspan fill="#e1e4da">#</tspan>
+<tspan fill="#e0e3da">#</tspan>
+<tspan fill="#e0e3da">#</tspan>
+<tspan fill="#d9dbcc">#</tspan>
+<tspan fill="#d9dbc9">#</tspan>
+<tspan fill="#dbdbca">#</tspan>
+<tspan fill="#dcdecc">#</tspan>
+<tspan fill="#e0e3d1">#</tspan>
+<tspan fill="#918f7e">=</tspan>
+<tspan fill="#9c9888">+</tspan>
+<tspan fill="#ebefe3">%</tspan>
+<tspan fill="#e2e7dc">%</tspan>
+<tspan fill="#e8ebe0">%</tspan>
+<tspan fill="#d6d7ca">#</tspan>
+<tspan fill="#cacaba">#</tspan>
+<tspan fill="#d4d5c8">#</tspan>
+<tspan fill="#d7d9cd">#</tspan>
+<tspan fill="#dadcd0">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#e8ecdc">%</tspan>
+<tspan fill="#ecf2df">%</tspan>
+<tspan fill="#d7dbc6">#</tspan>
+<tspan fill="#ced2c1">#</tspan>
+<tspan fill="#d2d7cb">#</tspan>
+<tspan fill="#d8decc">#</tspan>
+<tspan fill="#d9dec9">#</tspan>
+<tspan fill="#ccceba">#</tspan>
+<tspan fill="#cac8b6">*</tspan>
+<tspan fill="#cbc7b2">*</tspan>
+<tspan fill="#bbb69e">*</tspan>
+<tspan fill="#d2d2bd">#</tspan>
+<tspan fill="#d7dac6">#</tspan>
+<tspan fill="#bcbba7">*</tspan>
+<tspan fill="#bbb8a4">*</tspan>
+<tspan fill="#b6b39f">*</tspan>
+<tspan fill="#d2d3c0">#</tspan>
+<tspan fill="#d7dbc8">#</tspan>
+<tspan fill="#c7cbb6">#</tspan>
+<tspan fill="#ced2c1">#</tspan>
+<tspan fill="#d5ddd0">#</tspan>
+<tspan fill="#dce6d7">#</tspan>
+<tspan fill="#dde7d8">#</tspan>
+<tspan fill="#dae5d6">#</tspan>
+<tspan fill="#dbe8d8">#</tspan>
+<tspan fill="#deeada">%</tspan>
+<tspan fill="#dfebdb">%</tspan>
+<tspan fill="#dee8da">%</tspan>
+<tspan fill="#e0e7da">%</tspan>
+<tspan fill="#e0e8dd">%</tspan>
+<tspan fill="#e1e8df">%</tspan>
+<tspan fill="#e2e9df">%</tspan>
+<tspan fill="#dde3d9">#</tspan>
+<tspan fill="#d6dad0">#</tspan>
+<tspan fill="#dbdfd5">#</tspan>
+<tspan fill="#e6eae0">%</tspan>
+<tspan fill="#e6eae0">%</tspan>
+<tspan fill="#d7decf">#</tspan>
+<tspan fill="#dfe7d2">#</tspan>
+<tspan fill="#d8dbc5">#</tspan>
+<tspan fill="#e8edd8">%</tspan>
+<tspan fill="#d5d9c8">#</tspan>
+<tspan fill="#ced1c3">#</tspan>
+<tspan fill="#dcdfd4">#</tspan>
+<tspan fill="#e1e4dc">#</tspan>
+<tspan fill="#e0e4da">#</tspan>
+<tspan fill="#dfe2d8">#</tspan>
+<tspan fill="#e2e3da">#</tspan>
+<tspan fill="#e1e2da">#</tspan>
+<tspan fill="#e2e3da">#</tspan>
+<tspan fill="#d9dbcc">#</tspan>
+<tspan fill="#dadbc9">#</tspan>
+<tspan fill="#dadcca">#</tspan>
+<tspan fill="#daddcb">#</tspan>
+<tspan fill="#dee1d1">#</tspan>
+<tspan fill="#5e5948">-</tspan>
+<tspan fill="#827b6b">=</tspan>
+<tspan fill="#edf0e3">%</tspan>
+<tspan fill="#e5e8dc">%</tspan>
+<tspan fill="#e3e5da">%</tspan>
+<tspan fill="#d7d8cb">#</tspan>
+<tspan fill="#cdcdbd">#</tspan>
+<tspan fill="#cecebf">#</tspan>
+<tspan fill="#cfd1c0">#</tspan>
+<tspan fill="#daddce">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#e6ebd6">%</tspan>
+<tspan fill="#e7ebd7">%</tspan>
+<tspan fill="#cfd0bc">#</tspan>
+<tspan fill="#cbcdba">#</tspan>
+<tspan fill="#ced2c0">#</tspan>
+<tspan fill="#dadfcd">#</tspan>
+<tspan fill="#d4d6c2">#</tspan>
+<tspan fill="#c2c1ae">*</tspan>
+<tspan fill="#cccbb8">#</tspan>
+<tspan fill="#d1d1be">#</tspan>
+<tspan fill="#bdb8a1">*</tspan>
+<tspan fill="#bdb9a1">*</tspan>
+<tspan fill="#d6d7c2">#</tspan>
+<tspan fill="#bebfaa">*</tspan>
+<tspan fill="#aca795">+</tspan>
+<tspan fill="#b6b09d">*</tspan>
+<tspan fill="#c6c7b2">*</tspan>
+<tspan fill="#c6c8b4">*</tspan>
+<tspan fill="#cccfbd">#</tspan>
+<tspan fill="#d5d9ca">#</tspan>
+<tspan fill="#ced2c3">#</tspan>
+<tspan fill="#d9e1d2">#</tspan>
+<tspan fill="#dde5d7">#</tspan>
+<tspan fill="#dee6d7">#</tspan>
+<tspan fill="#dde8d8">#</tspan>
+<tspan fill="#dfe8da">%</tspan>
+<tspan fill="#e1e9dc">%</tspan>
+<tspan fill="#e1e7da">%</tspan>
+<tspan fill="#e3e8da">%</tspan>
+<tspan fill="#e5eadc">%</tspan>
+<tspan fill="#e2e7da">%</tspan>
+<tspan fill="#dadfd2">#</tspan>
+<tspan fill="#d7dccf">#</tspan>
+<tspan fill="#dfe3d6">#</tspan>
+<tspan fill="#e4e9de">%</tspan>
+<tspan fill="#e3e8dd">%</tspan>
+<tspan fill="#d2d6c8">#</tspan>
+<tspan fill="#d1d4c4">#</tspan>
+<tspan fill="#d7dac5">#</tspan>
+<tspan fill="#d6d8c3">#</tspan>
+<tspan fill="#ecefdc">%</tspan>
+<tspan fill="#dde1d3">#</tspan>
+<tspan fill="#d8dbce">#</tspan>
+<tspan fill="#d0d2c6">#</tspan>
+<tspan fill="#dbded2">#</tspan>
+<tspan fill="#dfe2d8">#</tspan>
+<tspan fill="#dee1d7">#</tspan>
+<tspan fill="#e1e2d9">#</tspan>
+<tspan fill="#e0e2d9">#</tspan>
+<tspan fill="#e2e3db">#</tspan>
+<tspan fill="#dbddd0">#</tspan>
+<tspan fill="#d6d9c7">#</tspan>
+<tspan fill="#d8dbc9">#</tspan>
+<tspan fill="#dde0cf">#</tspan>
+<tspan fill="#d0d1c2">#</tspan>
+<tspan fill="#676250">-</tspan>
+<tspan fill="#8e8878">=</tspan>
+<tspan fill="#e7e9db">%</tspan>
+<tspan fill="#e4e5db">%</tspan>
+<tspan fill="#e3e4d8">#</tspan>
+<tspan fill="#dadcd0">#</tspan>
+<tspan fill="#d3d4c7">#</tspan>
+<tspan fill="#cfcebf">#</tspan>
+<tspan fill="#cecfbe">#</tspan>
+<tspan fill="#d8dbcb">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#e9eed9">%</tspan>
+<tspan fill="#dfe3ce">#</tspan>
+<tspan fill="#c8cab6">#</tspan>
+<tspan fill="#c7c9b4">*</tspan>
+<tspan fill="#cfd2be">#</tspan>
+<tspan fill="#dbdecb">#</tspan>
+<tspan fill="#cecfbb">#</tspan>
+<tspan fill="#bcb9a3">*</tspan>
+<tspan fill="#d1d0bd">#</tspan>
+<tspan fill="#dde0cd">#</tspan>
+<tspan fill="#c8c7b0">*</tspan>
+<tspan fill="#b8b39b">*</tspan>
+<tspan fill="#cecbb5">#</tspan>
+<tspan fill="#aaa691">+</tspan>
+<tspan fill="#a9a592">+</tspan>
+<tspan fill="#c4c4b1">*</tspan>
+<tspan fill="#c7c8b4">*</tspan>
+<tspan fill="#cbcfbc">#</tspan>
+<tspan fill="#d1d6c7">#</tspan>
+<tspan fill="#d4d7c7">#</tspan>
+<tspan fill="#c7ccbd">#</tspan>
+<tspan fill="#dbe5d6">#</tspan>
+<tspan fill="#e0e9da">%</tspan>
+<tspan fill="#e0e5d8">#</tspan>
+<tspan fill="#dfe4d7">#</tspan>
+<tspan fill="#dee5d7">#</tspan>
+<tspan fill="#e1e5db">#</tspan>
+<tspan fill="#e2e6dd">%</tspan>
+<tspan fill="#e2e6da">%</tspan>
+<tspan fill="#dfe3d6">#</tspan>
+<tspan fill="#dce0d3">#</tspan>
+<tspan fill="#dce0d3">#</tspan>
+<tspan fill="#e1e5d8">#</tspan>
+<tspan fill="#e4e9dc">%</tspan>
+<tspan fill="#e5e9de">%</tspan>
+<tspan fill="#d4d7ca">#</tspan>
+<tspan fill="#bdc0af">*</tspan>
+<tspan fill="#cacdb9">#</tspan>
+<tspan fill="#eaedd9">%</tspan>
+<tspan fill="#f0f3e0">%</tspan>
+<tspan fill="#e8ebd9">%</tspan>
+<tspan fill="#d8dcce">#</tspan>
+<tspan fill="#e2e5d8">#</tspan>
+<tspan fill="#dbddd2">#</tspan>
+<tspan fill="#d3d4c7">#</tspan>
+<tspan fill="#dcddd1">#</tspan>
+<tspan fill="#dee0d4">#</tspan>
+<tspan fill="#dee0d5">#</tspan>
+<tspan fill="#e0e2d7">#</tspan>
+<tspan fill="#e2e3da">#</tspan>
+<tspan fill="#dfe2d7">#</tspan>
+<tspan fill="#d3d6c6">#</tspan>
+<tspan fill="#d6d9c9">#</tspan>
+<tspan fill="#dcded1">#</tspan>
+<tspan fill="#c3c4b5">*</tspan>
+<tspan fill="#706857">-</tspan>
+<tspan fill="#a09887">+</tspan>
+<tspan fill="#d8d6c3">#</tspan>
+<tspan fill="#dcddcf">#</tspan>
+<tspan fill="#e2e4d8">#</tspan>
+<tspan fill="#ddded4">#</tspan>
+<tspan fill="#dadbd1">#</tspan>
+<tspan fill="#cfcfc1">#</tspan>
+<tspan fill="#d1d1c1">#</tspan>
+<tspan fill="#d8d9cb">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#e7ecd7">%</tspan>
+<tspan fill="#d7dbc7">#</tspan>
+<tspan fill="#c5c7b3">*</tspan>
+<tspan fill="#cfd1bd">#</tspan>
+<tspan fill="#cdceba">#</tspan>
+<tspan fill="#d4d5c2">#</tspan>
+<tspan fill="#cecfba">#</tspan>
+<tspan fill="#b5b298">*</tspan>
+<tspan fill="#c4bea6">*</tspan>
+<tspan fill="#c8c3ae">*</tspan>
+<tspan fill="#dad9c6">#</tspan>
+<tspan fill="#c3bea8">*</tspan>
+<tspan fill="#bfbaa6">*</tspan>
+<tspan fill="#9d9884">+</tspan>
+<tspan fill="#c5c5b1">*</tspan>
+<tspan fill="#cbcdb9">#</tspan>
+<tspan fill="#cccebc">#</tspan>
+<tspan fill="#ced2c3">#</tspan>
+<tspan fill="#d3d7ca">#</tspan>
+<tspan fill="#cdd1c2">#</tspan>
+<tspan fill="#c5c9ba">*</tspan>
+<tspan fill="#dee8d9">%</tspan>
+<tspan fill="#dde5d7">#</tspan>
+<tspan fill="#dde1d5">#</tspan>
+<tspan fill="#dfe3d6">#</tspan>
+<tspan fill="#dfe4d7">#</tspan>
+<tspan fill="#e1e4d9">#</tspan>
+<tspan fill="#e0e4d8">#</tspan>
+<tspan fill="#dde1d4">#</tspan>
+<tspan fill="#dce1d4">#</tspan>
+<tspan fill="#e0e5d7">#</tspan>
+<tspan fill="#e2e7d9">%</tspan>
+<tspan fill="#e2e7da">%</tspan>
+<tspan fill="#e4e8db">%</tspan>
+<tspan fill="#d4d8ca">#</tspan>
+<tspan fill="#c0c3b2">*</tspan>
+<tspan fill="#d1d4c4">#</tspan>
+<tspan fill="#d9dfcb">#</tspan>
+<tspan fill="#eef3de">%</tspan>
+<tspan fill="#edf0dc">%</tspan>
+<tspan fill="#e7e9d5">%</tspan>
+<tspan fill="#cccebd">#</tspan>
+<tspan fill="#cfd0c1">#</tspan>
+<tspan fill="#e0e0d5">#</tspan>
+<tspan fill="#dbdbd0">#</tspan>
+<tspan fill="#d7d8cc">#</tspan>
+<tspan fill="#dddfd4">#</tspan>
+<tspan fill="#ddded3">#</tspan>
+<tspan fill="#e1e2d6">#</tspan>
+<tspan fill="#e2e4d8">#</tspan>
+<tspan fill="#e0e4d8">#</tspan>
+<tspan fill="#d8dacd">#</tspan>
+<tspan fill="#d1d2c6">#</tspan>
+<tspan fill="#e0e2d7">#</tspan>
+<tspan fill="#b0b1a1">*</tspan>
+<tspan fill="#615546">-</tspan>
+<tspan fill="#9f9685">+</tspan>
+<tspan fill="#cbc6b4">*</tspan>
+<tspan fill="#cfcdba">#</tspan>
+<tspan fill="#d7d7c7">#</tspan>
+<tspan fill="#d8daca">#</tspan>
+<tspan fill="#d7d9cb">#</tspan>
+<tspan fill="#d0cfbf">#</tspan>
+<tspan fill="#cfcbbc">#</tspan>
+<tspan fill="#d6d3c6">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#e4e9d6">%</tspan>
+<tspan fill="#d1d3bf">#</tspan>
+<tspan fill="#c8c9b5">*</tspan>
+<tspan fill="#d3d4c0">#</tspan>
+<tspan fill="#cbcdb8">#</tspan>
+<tspan fill="#c6c8b4">*</tspan>
+<tspan fill="#d0d1bb">#</tspan>
+<tspan fill="#b7b298">*</tspan>
+<tspan fill="#cecbb4">#</tspan>
+<tspan fill="#a69a7f">+</tspan>
+<tspan fill="#cdc6ae">*</tspan>
+<tspan fill="#b7b199">*</tspan>
+<tspan fill="#a8a18e">+</tspan>
+<tspan fill="#c7c6b4">*</tspan>
+<tspan fill="#cfd3bf">#</tspan>
+<tspan fill="#cbcebb">#</tspan>
+<tspan fill="#cbcfbe">#</tspan>
+<tspan fill="#d0d4c7">#</tspan>
+<tspan fill="#d2d7c9">#</tspan>
+<tspan fill="#c5c8b8">*</tspan>
+<tspan fill="#c6caba">*</tspan>
+<tspan fill="#e4eadd">%</tspan>
+<tspan fill="#dde1d4">#</tspan>
+<tspan fill="#dce0d3">#</tspan>
+<tspan fill="#dee2d5">#</tspan>
+<tspan fill="#dee2d5">#</tspan>
+<tspan fill="#dfe2d5">#</tspan>
+<tspan fill="#dee2d5">#</tspan>
+<tspan fill="#e0e4d7">#</tspan>
+<tspan fill="#e1e5d8">#</tspan>
+<tspan fill="#e1e5d8">#</tspan>
+<tspan fill="#e1e6d8">#</tspan>
+<tspan fill="#e1e5d8">#</tspan>
+<tspan fill="#d7dbce">#</tspan>
+<tspan fill="#c7ccbc">#</tspan>
+<tspan fill="#e1e6d8">#</tspan>
+<tspan fill="#dee2d4">#</tspan>
+<tspan fill="#d8dec9">#</tspan>
+<tspan fill="#ebefda">%</tspan>
+<tspan fill="#ecedd9">%</tspan>
+<tspan fill="#e4e3ce">#</tspan>
+<tspan fill="#d8d4c6">#</tspan>
+<tspan fill="#d0ccbc">#</tspan>
+<tspan fill="#d7d6c7">#</tspan>
+<tspan fill="#dfdfd2">#</tspan>
+<tspan fill="#d6d6c8">#</tspan>
+<tspan fill="#d9dace">#</tspan>
+<tspan fill="#dedfd4">#</tspan>
+<tspan fill="#dfe2d6">#</tspan>
+<tspan fill="#e2e5d9">#</tspan>
+<tspan fill="#dee2d5">#</tspan>
+<tspan fill="#dee0d4">#</tspan>
+<tspan fill="#cfd1c6">#</tspan>
+<tspan fill="#dfe2d6">#</tspan>
+<tspan fill="#a4a496">+</tspan>
+<tspan fill="#453426">.</tspan>
+<tspan fill="#938676">=</tspan>
+<tspan fill="#bdb6a5">*</tspan>
+<tspan fill="#cac5b4">*</tspan>
+<tspan fill="#d1d1be">#</tspan>
+<tspan fill="#d2d3c1">#</tspan>
+<tspan fill="#d4d5c3">#</tspan>
+<tspan fill="#cfcdbb">#</tspan>
+<tspan fill="#d5d1c3">#</tspan>
+<tspan fill="#d2cec2">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#e0e4d1">#</tspan>
+<tspan fill="#ccceba">#</tspan>
+<tspan fill="#cdcebb">#</tspan>
+<tspan fill="#d6d8c5">#</tspan>
+<tspan fill="#cccdb9">#</tspan>
+<tspan fill="#c9c8b5">*</tspan>
+<tspan fill="#cdcdb8">#</tspan>
+<tspan fill="#b5ae94">*</tspan>
+<tspan fill="#d5d0bd">#</tspan>
+<tspan fill="#a79f86">+</tspan>
+<tspan fill="#a2977e">+</tspan>
+<tspan fill="#897e64">=</tspan>
+<tspan fill="#aa9f88">+</tspan>
+<tspan fill="#c8c6b4">*</tspan>
+<tspan fill="#d3d8c6">#</tspan>
+<tspan fill="#cbd0bf">#</tspan>
+<tspan fill="#cfd3c2">#</tspan>
+<tspan fill="#d2d7c6">#</tspan>
+<tspan fill="#ccd0c0">#</tspan>
+<tspan fill="#c0c3b1">*</tspan>
+<tspan fill="#cacdbd">#</tspan>
+<tspan fill="#e4e8db">%</tspan>
+<tspan fill="#dbdfd2">#</tspan>
+<tspan fill="#dce0d4">#</tspan>
+<tspan fill="#dde1d4">#</tspan>
+<tspan fill="#dfe3d6">#</tspan>
+<tspan fill="#e0e4d7">#</tspan>
+<tspan fill="#e1e5d8">#</tspan>
+<tspan fill="#e0e4d7">#</tspan>
+<tspan fill="#dee3d5">#</tspan>
+<tspan fill="#dfe3d6">#</tspan>
+<tspan fill="#e0e4d8">#</tspan>
+<tspan fill="#dbded0">#</tspan>
+<tspan fill="#cbcebc">#</tspan>
+<tspan fill="#d8dbcb">#</tspan>
+<tspan fill="#dee1d2">#</tspan>
+<tspan fill="#dde1d1">#</tspan>
+<tspan fill="#dfe3ce">#</tspan>
+<tspan fill="#e5e2cf">#</tspan>
+<tspan fill="#ede9d6">%</tspan>
+<tspan fill="#e2e1cd">#</tspan>
+<tspan fill="#d1cebe">#</tspan>
+<tspan fill="#d5d4c3">#</tspan>
+<tspan fill="#d2d2c1">#</tspan>
+<tspan fill="#dedfd2">#</tspan>
+<tspan fill="#dddfd2">#</tspan>
+<tspan fill="#d7dbcb">#</tspan>
+<tspan fill="#dbdfd1">#</tspan>
+<tspan fill="#dee2d6">#</tspan>
+<tspan fill="#e2e6d9">%</tspan>
+<tspan fill="#dce0d3">#</tspan>
+<tspan fill="#dadcd0">#</tspan>
+<tspan fill="#d5d7cb">#</tspan>
+<tspan fill="#dfe4d7">#</tspan>
+<tspan fill="#9d9c90">+</tspan>
+<tspan fill="#362115">.</tspan>
+<tspan fill="#746252">-</tspan>
+<tspan fill="#a69a87">+</tspan>
+<tspan fill="#cbc5b1">*</tspan>
+<tspan fill="#cbc6b5">*</tspan>
+<tspan fill="#d0cdbc">#</tspan>
+<tspan fill="#cfcbba">#</tspan>
+<tspan fill="#c9c4b3">*</tspan>
+<tspan fill="#d1cdbd">#</tspan>
+<tspan fill="#d2cec0">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#dcdfcb">#</tspan>
+<tspan fill="#cbcdb9">#</tspan>
+<tspan fill="#ceceba">#</tspan>
+<tspan fill="#d8dcca">#</tspan>
+<tspan fill="#d1d5c1">#</tspan>
+<tspan fill="#c4c3b0">*</tspan>
+<tspan fill="#c8c8b4">*</tspan>
+<tspan fill="#beb9a2">*</tspan>
+<tspan fill="#bdb59e">*</tspan>
+<tspan fill="#988e78">+</tspan>
+<tspan fill="#a79f89">+</tspan>
+<tspan fill="#a69d87">+</tspan>
+<tspan fill="#b7ad97">*</tspan>
+<tspan fill="#bbb5a0">*</tspan>
+<tspan fill="#c8c9b7">*</tspan>
+<tspan fill="#cfd3c2">#</tspan>
+<tspan fill="#d2d5c3">#</tspan>
+<tspan fill="#d2d6c3">#</tspan>
+<tspan fill="#c6c9b6">*</tspan>
+<tspan fill="#bec0ad">*</tspan>
+<tspan fill="#c9ccbb">#</tspan>
+<tspan fill="#e0e5d8">#</tspan>
+<tspan fill="#d9ded1">#</tspan>
+<tspan fill="#dadfd2">#</tspan>
+<tspan fill="#dbe0d3">#</tspan>
+<tspan fill="#daded0">#</tspan>
+<tspan fill="#dbe0d2">#</tspan>
+<tspan fill="#dee2d5">#</tspan>
+<tspan fill="#dde1d4">#</tspan>
+<tspan fill="#dfe3d6">#</tspan>
+<tspan fill="#e1e5d8">#</tspan>
+<tspan fill="#dbdfd0">#</tspan>
+<tspan fill="#cdcfbd">#</tspan>
+<tspan fill="#d2d5c2">#</tspan>
+<tspan fill="#d3d6c4">#</tspan>
+<tspan fill="#cacdba">#</tspan>
+<tspan fill="#cdcfbc">#</tspan>
+<tspan fill="#dfe2ce">#</tspan>
+<tspan fill="#e7ebd6">%</tspan>
+<tspan fill="#eaecd8">%</tspan>
+<tspan fill="#dfe1ce">#</tspan>
+<tspan fill="#d1d5c3">#</tspan>
+<tspan fill="#d5dac8">#</tspan>
+<tspan fill="#ced2c1">#</tspan>
+<tspan fill="#d3d8c8">#</tspan>
+<tspan fill="#e0e4d7">#</tspan>
+<tspan fill="#dadfd0">#</tspan>
+<tspan fill="#d7dbcc">#</tspan>
+<tspan fill="#dee2d5">#</tspan>
+<tspan fill="#dee2d5">#</tspan>
+<tspan fill="#d8dccf">#</tspan>
+<tspan fill="#d5d9cd">#</tspan>
+<tspan fill="#d4d8cc">#</tspan>
+<tspan fill="#dee3d7">#</tspan>
+<tspan fill="#959385">+</tspan>
+<tspan fill="#3c2c1e">.</tspan>
+<tspan fill="#675746">-</tspan>
+<tspan fill="#9a8d7a">+</tspan>
+<tspan fill="#cbc1ab">*</tspan>
+<tspan fill="#c2b8a4">*</tspan>
+<tspan fill="#c7bdad">*</tspan>
+<tspan fill="#c8c0ae">*</tspan>
+<tspan fill="#c8c2b0">*</tspan>
+<tspan fill="#cbc6b4">*</tspan>
+<tspan fill="#cac6b4">*</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#dbddc9">#</tspan>
+<tspan fill="#cdcfbc">#</tspan>
+<tspan fill="#bdbaa3">*</tspan>
+<tspan fill="#b6b19a">*</tspan>
+<tspan fill="#cfd1be">#</tspan>
+<tspan fill="#cfd3c0">#</tspan>
+<tspan fill="#d0d4c1">#</tspan>
+<tspan fill="#cbcdb8">#</tspan>
+<tspan fill="#b8b4a2">*</tspan>
+<tspan fill="#a8a492">+</tspan>
+<tspan fill="#a9a390">+</tspan>
+<tspan fill="#bab09d">*</tspan>
+<tspan fill="#baaf9e">*</tspan>
+<tspan fill="#b4ac99">*</tspan>
+<tspan fill="#bbbaa6">*</tspan>
+<tspan fill="#d4d6c3">#</tspan>
+<tspan fill="#d5d7c5">#</tspan>
+<tspan fill="#ced0be">#</tspan>
+<tspan fill="#c1c2ae">*</tspan>
+<tspan fill="#bbbca8">*</tspan>
+<tspan fill="#c3c5b3">*</tspan>
+<tspan fill="#d6dbcc">#</tspan>
+<tspan fill="#d6d9ca">#</tspan>
+<tspan fill="#d3d6c5">#</tspan>
+<tspan fill="#d0d2bf">#</tspan>
+<tspan fill="#cdd0bd">#</tspan>
+<tspan fill="#cccfbc">#</tspan>
+<tspan fill="#d2d6c5">#</tspan>
+<tspan fill="#dadecd">#</tspan>
+<tspan fill="#dfe2d3">#</tspan>
+<tspan fill="#d9decf">#</tspan>
+<tspan fill="#ced1c1">#</tspan>
+<tspan fill="#ced1c0">#</tspan>
+<tspan fill="#d3d7c7">#</tspan>
+<tspan fill="#d3d8c8">#</tspan>
+<tspan fill="#d9ddcd">#</tspan>
+<tspan fill="#daddca">#</tspan>
+<tspan fill="#e2ead4">%</tspan>
+<tspan fill="#ecf1dc">%</tspan>
+<tspan fill="#eef1dc">%</tspan>
+<tspan fill="#e5e8d4">%</tspan>
+<tspan fill="#d6daca">#</tspan>
+<tspan fill="#d7dccc">#</tspan>
+<tspan fill="#ced2c1">#</tspan>
+<tspan fill="#cbcfbd">#</tspan>
+<tspan fill="#d5d9ca">#</tspan>
+<tspan fill="#dee1d5">#</tspan>
+<tspan fill="#d9dcd0">#</tspan>
+<tspan fill="#daddd0">#</tspan>
+<tspan fill="#d2d6c7">#</tspan>
+<tspan fill="#cdd0bf">#</tspan>
+<tspan fill="#d4d6c7">#</tspan>
+<tspan fill="#d5d8ca">#</tspan>
+<tspan fill="#d6dace">#</tspan>
+<tspan fill="#8d8a7a">=</tspan>
+<tspan fill="#534535">:</tspan>
+<tspan fill="#675a4b">-</tspan>
+<tspan fill="#a19582">+</tspan>
+<tspan fill="#c2b9a2">*</tspan>
+<tspan fill="#beb49e">*</tspan>
+<tspan fill="#c2b7a3">*</tspan>
+<tspan fill="#beb5a1">*</tspan>
+<tspan fill="#cbc6b4">*</tspan>
+<tspan fill="#cfccb9">#</tspan>
+<tspan fill="#cdcab7">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#d1d5c0">#</tspan>
+<tspan fill="#c9cab6">#</tspan>
+<tspan fill="#c3c1ae">*</tspan>
+<tspan fill="#b1aa93">+</tspan>
+<tspan fill="#b3ae97">*</tspan>
+<tspan fill="#c3c1ac">*</tspan>
+<tspan fill="#c3c2ac">*</tspan>
+<tspan fill="#c7cdbf">#</tspan>
+<tspan fill="#f6f8f8">%</tspan>
+<tspan fill="#c0c3b7">*</tspan>
+<tspan fill="#b8b6a2">*</tspan>
+<tspan fill="#b6b29d">*</tspan>
+<tspan fill="#bdb8a4">*</tspan>
+<tspan fill="#bebeab">*</tspan>
+<tspan fill="#c1c2ae">*</tspan>
+<tspan fill="#cdd0bc">#</tspan>
+<tspan fill="#d3d6c4">#</tspan>
+<tspan fill="#cbccba">#</tspan>
+<tspan fill="#c3c4b0">*</tspan>
+<tspan fill="#c4c6b2">*</tspan>
+<tspan fill="#cbcebb">#</tspan>
+<tspan fill="#d4d8c6">#</tspan>
+<tspan fill="#d3d5c2">#</tspan>
+<tspan fill="#cdceba">#</tspan>
+<tspan fill="#cccdb8">#</tspan>
+<tspan fill="#cfd2be">#</tspan>
+<tspan fill="#d4d8c4">#</tspan>
+<tspan fill="#d9ddcc">#</tspan>
+<tspan fill="#dbdfce">#</tspan>
+<tspan fill="#d6d9c9">#</tspan>
+<tspan fill="#cbcfbd">#</tspan>
+<tspan fill="#c8cbb9">#</tspan>
+<tspan fill="#cacebb">#</tspan>
+<tspan fill="#d6dac8">#</tspan>
+<tspan fill="#dfe3d0">#</tspan>
+<tspan fill="#dbdecc">#</tspan>
+<tspan fill="#d4d8c4">#</tspan>
+<tspan fill="#d3d7c3">#</tspan>
+<tspan fill="#dddfcc">#</tspan>
+<tspan fill="#dee0cc">#</tspan>
+<tspan fill="#dddfcb">#</tspan>
+<tspan fill="#d6dac9">#</tspan>
+<tspan fill="#dadece">#</tspan>
+<tspan fill="#d4d9c9">#</tspan>
+<tspan fill="#cdd1bf">#</tspan>
+<tspan fill="#cccebd">#</tspan>
+<tspan fill="#d7d9ca">#</tspan>
+<tspan fill="#dbdcd0">#</tspan>
+<tspan fill="#d8dbcd">#</tspan>
+<tspan fill="#d0d4c3">#</tspan>
+<tspan fill="#ccd0bf">#</tspan>
+<tspan fill="#d1d3c2">#</tspan>
+<tspan fill="#d7d8ca">#</tspan>
+<tspan fill="#d1d6ca">#</tspan>
+<tspan fill="#666051">-</tspan>
+<tspan fill="#3e2d1f">.</tspan>
+<tspan fill="#514434">:</tspan>
+<tspan fill="#9f9786">+</tspan>
+<tspan fill="#ccc9b5">#</tspan>
+<tspan fill="#cac7b4">*</tspan>
+<tspan fill="#ccc8b6">#</tspan>
+<tspan fill="#bfb9a8">*</tspan>
+<tspan fill="#cec8b6">#</tspan>
+<tspan fill="#cbc8b4">*</tspan>
+<tspan fill="#cfccb8">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#d5d8c5">#</tspan>
+<tspan fill="#c7c5b1">*</tspan>
+<tspan fill="#c7c7b3">*</tspan>
+<tspan fill="#b5b19b">*</tspan>
+<tspan fill="#b1ad97">*</tspan>
+<tspan fill="#b6af9b">*</tspan>
+<tspan fill="#aca897">+</tspan>
+<tspan fill="#e1e8e7">%</tspan>
+<tspan fill="#ebf4f2">%</tspan>
+<tspan fill="#a2a290">+</tspan>
+<tspan fill="#bcbca7">*</tspan>
+<tspan fill="#c9cab7">#</tspan>
+<tspan fill="#c3c2af">*</tspan>
+<tspan fill="#c0bdab">*</tspan>
+<tspan fill="#c0beab">*</tspan>
+<tspan fill="#c8c9b5">*</tspan>
+<tspan fill="#ced0bd">#</tspan>
+<tspan fill="#c6c8b4">*</tspan>
+<tspan fill="#c5c7b2">*</tspan>
+<tspan fill="#cccfba">#</tspan>
+<tspan fill="#cfd2bf">#</tspan>
+<tspan fill="#d0d3c1">#</tspan>
+<tspan fill="#ced2bd">#</tspan>
+<tspan fill="#cdd0bc">#</tspan>
+<tspan fill="#d1d2be">#</tspan>
+<tspan fill="#d5d7c4">#</tspan>
+<tspan fill="#daddcb">#</tspan>
+<tspan fill="#dde0ce">#</tspan>
+<tspan fill="#d7dac8">#</tspan>
+<tspan fill="#cdd0bd">#</tspan>
+<tspan fill="#c8cab8">#</tspan>
+<tspan fill="#caccba">#</tspan>
+<tspan fill="#d6d9c6">#</tspan>
+<tspan fill="#e1e4d1">#</tspan>
+<tspan fill="#dcdecb">#</tspan>
+<tspan fill="#d4d7c4">#</tspan>
+<tspan fill="#d2d4c0">#</tspan>
+<tspan fill="#cfd2be">#</tspan>
+<tspan fill="#d8dbc9">#</tspan>
+<tspan fill="#dcdfcc">#</tspan>
+<tspan fill="#dcdfcd">#</tspan>
+<tspan fill="#d7dcca">#</tspan>
+<tspan fill="#d8ddcd">#</tspan>
+<tspan fill="#d9ddcc">#</tspan>
+<tspan fill="#d4d8c7">#</tspan>
+<tspan fill="#cccfbd">#</tspan>
+<tspan fill="#ced1c0">#</tspan>
+<tspan fill="#d6d8ca">#</tspan>
+<tspan fill="#d8dbcc">#</tspan>
+<tspan fill="#d0d4c2">#</tspan>
+<tspan fill="#ced1bf">#</tspan>
+<tspan fill="#d0d2c3">#</tspan>
+<tspan fill="#d7d9cc">#</tspan>
+<tspan fill="#c4c8bc">*</tspan>
+<tspan fill="#655e4f">-</tspan>
+<tspan fill="#4c3e2e">:</tspan>
+<tspan fill="#473a29">:</tspan>
+<tspan fill="#a7a18f">+</tspan>
+<tspan fill="#d1cfbd">#</tspan>
+<tspan fill="#c6c3b1">*</tspan>
+<tspan fill="#c5bfad">*</tspan>
+<tspan fill="#bcb4a3">*</tspan>
+<tspan fill="#d1cebc">#</tspan>
+<tspan fill="#cecbb8">#</tspan>
+<tspan fill="#d2cfbd">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#dfe4d5">#</tspan>
+<tspan fill="#dce0cf">#</tspan>
+<tspan fill="#d0d1bc">#</tspan>
+<tspan fill="#bdbaa7">*</tspan>
+<tspan fill="#b3b09b">*</tspan>
+<tspan fill="#acaa94">+</tspan>
+<tspan fill="#c9d1ca">#</tspan>
+<tspan fill="#f3fffe">%</tspan>
+<tspan fill="#b4bbad">*</tspan>
+<tspan fill="#a39d87">+</tspan>
+<tspan fill="#aea794">+</tspan>
+<tspan fill="#c5c1af">*</tspan>
+<tspan fill="#c4c2af">*</tspan>
+<tspan fill="#bebca9">*</tspan>
+<tspan fill="#bebba9">*</tspan>
+<tspan fill="#c2c2af">*</tspan>
+<tspan fill="#c6c8b3">*</tspan>
+<tspan fill="#c6c7b3">*</tspan>
+<tspan fill="#c9ccb8">#</tspan>
+<tspan fill="#ced2bd">#</tspan>
+<tspan fill="#cfd2bf">#</tspan>
+<tspan fill="#cfd2c1">#</tspan>
+<tspan fill="#d0d3c0">#</tspan>
+<tspan fill="#d0d3c0">#</tspan>
+<tspan fill="#d0d2be">#</tspan>
+<tspan fill="#d4d6c2">#</tspan>
+<tspan fill="#daddca">#</tspan>
+<tspan fill="#d7dbc8">#</tspan>
+<tspan fill="#cccfbb">#</tspan>
+<tspan fill="#c8c9b5">*</tspan>
+<tspan fill="#cdcebb">#</tspan>
+<tspan fill="#d9dcc8">#</tspan>
+<tspan fill="#e1e3cf">#</tspan>
+<tspan fill="#d9ddc9">#</tspan>
+<tspan fill="#d3d6c3">#</tspan>
+<tspan fill="#d3d6c2">#</tspan>
+<tspan fill="#d4d7c3">#</tspan>
+<tspan fill="#cecfbb">#</tspan>
+<tspan fill="#d4d2c0">#</tspan>
+<tspan fill="#daddca">#</tspan>
+<tspan fill="#dce0d0">#</tspan>
+<tspan fill="#d8dccc">#</tspan>
+<tspan fill="#d7dccb">#</tspan>
+<tspan fill="#d7dbc9">#</tspan>
+<tspan fill="#d5d8c8">#</tspan>
+<tspan fill="#d1d4c2">#</tspan>
+<tspan fill="#cdcfbc">#</tspan>
+<tspan fill="#d3d6c3">#</tspan>
+<tspan fill="#d7d9c7">#</tspan>
+<tspan fill="#d1d3c1">#</tspan>
+<tspan fill="#ced1bf">#</tspan>
+<tspan fill="#cfd3c3">#</tspan>
+<tspan fill="#d7dacf">#</tspan>
+<tspan fill="#afb3a6">*</tspan>
+<tspan fill="#595341">:</tspan>
+<tspan fill="#736c5b">-</tspan>
+<tspan fill="#716757">-</tspan>
+<tspan fill="#b3ac9b">*</tspan>
+<tspan fill="#cfccba">#</tspan>
+<tspan fill="#c7c3b1">*</tspan>
+<tspan fill="#bfb7a6">*</tspan>
+<tspan fill="#bdb7a5">*</tspan>
+<tspan fill="#d4d2bf">#</tspan>
+<tspan fill="#d1cebb">#</tspan>
+<tspan fill="#d4d1bf">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#cdd0ba">#</tspan>
+<tspan fill="#dce0ce">#</tspan>
+<tspan fill="#e0e5d2">#</tspan>
+<tspan fill="#dbdeca">#</tspan>
+<tspan fill="#bebaa6">*</tspan>
+<tspan fill="#75756d">=</tspan>
+<tspan fill="#f5fbfd">%</tspan>
+<tspan fill="#d5ddd3">#</tspan>
+<tspan fill="#bbbda8">*</tspan>
+<tspan fill="#cbccb9">#</tspan>
+<tspan fill="#b7b09f">*</tspan>
+<tspan fill="#b6b19f">*</tspan>
+<tspan fill="#d2d4c0">#</tspan>
+<tspan fill="#d0d2bf">#</tspan>
+<tspan fill="#c9cbb8">#</tspan>
+<tspan fill="#c8cab8">#</tspan>
+<tspan fill="#c7cab6">*</tspan>
+<tspan fill="#c7cbb7">#</tspan>
+<tspan fill="#cdcfbb">#</tspan>
+<tspan fill="#cecfbc">#</tspan>
+<tspan fill="#cfd1bd">#</tspan>
+<tspan fill="#d3d6c3">#</tspan>
+<tspan fill="#d3d5c3">#</tspan>
+<tspan fill="#cdcfbc">#</tspan>
+<tspan fill="#ced0bc">#</tspan>
+<tspan fill="#d8dbc6">#</tspan>
+<tspan fill="#d6d9c5">#</tspan>
+<tspan fill="#cccdb9">#</tspan>
+<tspan fill="#c9cab5">#</tspan>
+<tspan fill="#cfd0bd">#</tspan>
+<tspan fill="#d8dbc6">#</tspan>
+<tspan fill="#d9dcc8">#</tspan>
+<tspan fill="#d2d5c1">#</tspan>
+<tspan fill="#cfd0bc">#</tspan>
+<tspan fill="#d3d5c1">#</tspan>
+<tspan fill="#d8d9c6">#</tspan>
+<tspan fill="#d5d7c3">#</tspan>
+<tspan fill="#ceccb9">#</tspan>
+<tspan fill="#d4d2bf">#</tspan>
+<tspan fill="#dde0ce">#</tspan>
+<tspan fill="#dee2d3">#</tspan>
+<tspan fill="#dbdfcf">#</tspan>
+<tspan fill="#d7dccb">#</tspan>
+<tspan fill="#d8ddcd">#</tspan>
+<tspan fill="#d4d8c9">#</tspan>
+<tspan fill="#d3d5c4">#</tspan>
+<tspan fill="#ced2bd">#</tspan>
+<tspan fill="#cfd2bf">#</tspan>
+<tspan fill="#d5d7c7">#</tspan>
+<tspan fill="#d0d3c3">#</tspan>
+<tspan fill="#cdd1c0">#</tspan>
+<tspan fill="#cdd2c2">#</tspan>
+<tspan fill="#d9ded1">#</tspan>
+<tspan fill="#a1a294">+</tspan>
+<tspan fill="#524938">:</tspan>
+<tspan fill="#736959">-</tspan>
+<tspan fill="#6a5e4f">-</tspan>
+<tspan fill="#b5b09e">*</tspan>
+<tspan fill="#ceccb8">#</tspan>
+<tspan fill="#c8c3b1">*</tspan>
+<tspan fill="#bfb6a6">*</tspan>
+<tspan fill="#c2baa9">*</tspan>
+<tspan fill="#d4d2bf">#</tspan>
+<tspan fill="#d2cfbd">#</tspan>
+<tspan fill="#d4d1be">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#c6c3aa">*</tspan>
+<tspan fill="#c6c5ae">*</tspan>
+<tspan fill="#d0d3bf">#</tspan>
+<tspan fill="#e0e2ce">#</tspan>
+<tspan fill="#423f37">:</tspan>
+<tspan fill="#717371">=</tspan>
+<tspan fill="#e6eadf">%</tspan>
+<tspan fill="#c5cab5">*</tspan>
+<tspan fill="#d1d2be">#</tspan>
+<tspan fill="#cbccb8">#</tspan>
+<tspan fill="#d0d1bd">#</tspan>
+<tspan fill="#bbb9a5">*</tspan>
+<tspan fill="#c1c2ad">*</tspan>
+<tspan fill="#d5dac8">#</tspan>
+<tspan fill="#cdd1c0">#</tspan>
+<tspan fill="#c6c9b7">*</tspan>
+<tspan fill="#c7c9b6">*</tspan>
+<tspan fill="#cacdb9">#</tspan>
+<tspan fill="#ccceb9">#</tspan>
+<tspan fill="#cbccb8">#</tspan>
+<tspan fill="#cacbb7">#</tspan>
+<tspan fill="#d5d6c3">#</tspan>
+<tspan fill="#cdcebb">#</tspan>
+<tspan fill="#c9cab6">#</tspan>
+<tspan fill="#d5d6c2">#</tspan>
+<tspan fill="#d5d7c3">#</tspan>
+<tspan fill="#cdceba">#</tspan>
+<tspan fill="#c9cab6">#</tspan>
+<tspan fill="#ced0bc">#</tspan>
+<tspan fill="#d6d9c5">#</tspan>
+<tspan fill="#dfe2ce">#</tspan>
+<tspan fill="#e1e4d0">#</tspan>
+<tspan fill="#dde0cc">#</tspan>
+<tspan fill="#dadbc7">#</tspan>
+<tspan fill="#dadcc8">#</tspan>
+<tspan fill="#daddc9">#</tspan>
+<tspan fill="#d5d6c2">#</tspan>
+<tspan fill="#ccc9b6">#</tspan>
+<tspan fill="#d3d3bf">#</tspan>
+<tspan fill="#dfe2d0">#</tspan>
+<tspan fill="#e0e2d2">#</tspan>
+<tspan fill="#dce0ce">#</tspan>
+<tspan fill="#d8dbca">#</tspan>
+<tspan fill="#dadecc">#</tspan>
+<tspan fill="#d7dac7">#</tspan>
+<tspan fill="#d2d5c2">#</tspan>
+<tspan fill="#d1d4bf">#</tspan>
+<tspan fill="#d0d1be">#</tspan>
+<tspan fill="#d4d7c5">#</tspan>
+<tspan fill="#d1d5c4">#</tspan>
+<tspan fill="#cbd0c0">#</tspan>
+<tspan fill="#cfd3c3">#</tspan>
+<tspan fill="#dbe1d1">#</tspan>
+<tspan fill="#868374">=</tspan>
+<tspan fill="#514335">:</tspan>
+<tspan fill="#594b3e">:</tspan>
+<tspan fill="#4e3e30">:</tspan>
+<tspan fill="#bdb7a5">*</tspan>
+<tspan fill="#cdcbb7">#</tspan>
+<tspan fill="#c6c2af">*</tspan>
+<tspan fill="#bdb39f">*</tspan>
+<tspan fill="#c4bca8">*</tspan>
+<tspan fill="#d2cfbd">#</tspan>
+<tspan fill="#d1cebb">#</tspan>
+<tspan fill="#d3d1be">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#d5d6c1">#</tspan>
+<tspan fill="#ceccb8">#</tspan>
+<tspan fill="#cccbb7">#</tspan>
+<tspan fill="#c0beab">*</tspan>
+ 
+<tspan fill="#b4b4a5">*</tspan>
+<tspan fill="#c4c6af">*</tspan>
+<tspan fill="#d4d7c3">#</tspan>
+<tspan fill="#c7c7b4">*</tspan>
+<tspan fill="#c2beac">*</tspan>
+<tspan fill="#c7c3b0">*</tspan>
+<tspan fill="#c8c4b0">*</tspan>
+<tspan fill="#c5c4b1">*</tspan>
+<tspan fill="#cdcfbd">#</tspan>
+<tspan fill="#c9cbb8">#</tspan>
+<tspan fill="#c5c7b3">*</tspan>
+<tspan fill="#cacbb7">#</tspan>
+<tspan fill="#cccdb9">#</tspan>
+<tspan fill="#ccceb9">#</tspan>
+<tspan fill="#ced0bc">#</tspan>
+<tspan fill="#cbcdb9">#</tspan>
+<tspan fill="#cecfbb">#</tspan>
+<tspan fill="#cacbb7">#</tspan>
+<tspan fill="#cfd0bc">#</tspan>
+<tspan fill="#d7d8c5">#</tspan>
+<tspan fill="#cdcfbb">#</tspan>
+<tspan fill="#c8cab6">#</tspan>
+<tspan fill="#cccdb9">#</tspan>
+<tspan fill="#d6d9c5">#</tspan>
+<tspan fill="#dee1cd">#</tspan>
+<tspan fill="#e1e4d0">#</tspan>
+<tspan fill="#e2e5d1">#</tspan>
+<tspan fill="#e0e3cf">#</tspan>
+<tspan fill="#dfe2cd">#</tspan>
+<tspan fill="#dddfcb">#</tspan>
+<tspan fill="#daddca">#</tspan>
+<tspan fill="#d5d5c2">#</tspan>
+<tspan fill="#c9c5b3">*</tspan>
+<tspan fill="#cdcab8">#</tspan>
+<tspan fill="#dbdecb">#</tspan>
+<tspan fill="#e1e3d0">#</tspan>
+<tspan fill="#daddca">#</tspan>
+<tspan fill="#d4d6c3">#</tspan>
+<tspan fill="#d6d9c6">#</tspan>
+<tspan fill="#d8dcc9">#</tspan>
+<tspan fill="#d3d5c2">#</tspan>
+<tspan fill="#d1d3be">#</tspan>
+<tspan fill="#d1d2be">#</tspan>
+<tspan fill="#d3d5c1">#</tspan>
+<tspan fill="#d2d4c0">#</tspan>
+<tspan fill="#ccd0be">#</tspan>
+<tspan fill="#ccd0c0">#</tspan>
+<tspan fill="#dbe1d1">#</tspan>
+<tspan fill="#70695f">-</tspan>
+ 
+<tspan fill="#35231e">.</tspan>
+<tspan fill="#46362f">:</tspan>
+<tspan fill="#cac4b3">*</tspan>
+<tspan fill="#cdcbb6">#</tspan>
+<tspan fill="#c6bfab">*</tspan>
+<tspan fill="#b9ad97">*</tspan>
+<tspan fill="#c8c1ac">*</tspan>
+<tspan fill="#d4d2bf">#</tspan>
+<tspan fill="#d1cebb">#</tspan>
+<tspan fill="#d4d3c0">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#cfd2bf">#</tspan>
+<tspan fill="#d9dbc7">#</tspan>
+<tspan fill="#f2f2de">%</tspan>
+<tspan fill="#747167">-</tspan>
+<tspan fill="#322f2a">.</tspan>
+<tspan fill="#d7d8c3">#</tspan>
+<tspan fill="#c7c9b5">*</tspan>
+<tspan fill="#cbceba">#</tspan>
+<tspan fill="#d6d8c4">#</tspan>
+<tspan fill="#d5d6c3">#</tspan>
+<tspan fill="#cbc8b4">*</tspan>
+<tspan fill="#bdbaa2">*</tspan>
+<tspan fill="#bfbda8">*</tspan>
+<tspan fill="#c1c2ae">*</tspan>
+<tspan fill="#c0c2ad">*</tspan>
+<tspan fill="#c8c9b5">*</tspan>
+<tspan fill="#cacbb7">#</tspan>
+<tspan fill="#caccb8">#</tspan>
+<tspan fill="#d0d1bd">#</tspan>
+<tspan fill="#cfd1bd">#</tspan>
+<tspan fill="#cbcdb9">#</tspan>
+<tspan fill="#cdcebb">#</tspan>
+<tspan fill="#d0d2be">#</tspan>
+<tspan fill="#d4d6c2">#</tspan>
+<tspan fill="#cecfbb">#</tspan>
+<tspan fill="#cacbb7">#</tspan>
+<tspan fill="#cdcfbb">#</tspan>
+<tspan fill="#d9dbc7">#</tspan>
+<tspan fill="#dee1cd">#</tspan>
+<tspan fill="#dfe2cd">#</tspan>
+<tspan fill="#dee1cc">#</tspan>
+<tspan fill="#e0e3cf">#</tspan>
+<tspan fill="#e1e5d0">#</tspan>
+<tspan fill="#e0e2ce">#</tspan>
+<tspan fill="#dcdeca">#</tspan>
+<tspan fill="#dadcc8">#</tspan>
+<tspan fill="#d7d8c4">#</tspan>
+<tspan fill="#c9c4b2">*</tspan>
+<tspan fill="#c9c7b4">*</tspan>
+<tspan fill="#d8dbc7">#</tspan>
+<tspan fill="#dee1cc">#</tspan>
+<tspan fill="#daddc9">#</tspan>
+<tspan fill="#d5d7c4">#</tspan>
+<tspan fill="#d2d5c3">#</tspan>
+<tspan fill="#d4d7c4">#</tspan>
+<tspan fill="#d7d9c7">#</tspan>
+<tspan fill="#d2d3bf">#</tspan>
+<tspan fill="#d0d2be">#</tspan>
+<tspan fill="#d2d4c0">#</tspan>
+<tspan fill="#d3d4c0">#</tspan>
+<tspan fill="#cacebd">#</tspan>
+<tspan fill="#c9cdbe">#</tspan>
+<tspan fill="#dae0cf">#</tspan>
+<tspan fill="#756e64">-</tspan>
+<tspan fill="#2a1917">.</tspan>
+<tspan fill="#322220">.</tspan>
+<tspan fill="#4e4039">:</tspan>
+<tspan fill="#d0cdba">#</tspan>
+<tspan fill="#ccc8b4">*</tspan>
+<tspan fill="#c3bba4">*</tspan>
+<tspan fill="#b6ab94">*</tspan>
+<tspan fill="#cdc6b3">*</tspan>
+<tspan fill="#d6d3c1">#</tspan>
+<tspan fill="#d0cebb">#</tspan>
+<tspan fill="#d5d6c2">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#e4e8d9">%</tspan>
+<tspan fill="#d1d2c1">#</tspan>
+<tspan fill="#4e4b45">:</tspan>
+ 
+<tspan fill="#6c675d">-</tspan>
+<tspan fill="#dcdec8">#</tspan>
+<tspan fill="#cccfbc">#</tspan>
+<tspan fill="#d2d3bf">#</tspan>
+<tspan fill="#d4d5c2">#</tspan>
+<tspan fill="#daddca">#</tspan>
+<tspan fill="#dcdfcd">#</tspan>
+<tspan fill="#dcdecb">#</tspan>
+<tspan fill="#c7c9b4">*</tspan>
+<tspan fill="#c0c1ad">*</tspan>
+<tspan fill="#c2c2ae">*</tspan>
+<tspan fill="#c9cab6">#</tspan>
+<tspan fill="#c8cab6">#</tspan>
+<tspan fill="#cbcdb8">#</tspan>
+<tspan fill="#cfd1bd">#</tspan>
+<tspan fill="#c9cab6">#</tspan>
+<tspan fill="#cbcdb9">#</tspan>
+<tspan fill="#d2d3bf">#</tspan>
+<tspan fill="#d5d6c2">#</tspan>
+<tspan fill="#d0d1bd">#</tspan>
+<tspan fill="#ccceba">#</tspan>
+<tspan fill="#ced0bb">#</tspan>
+<tspan fill="#d6d7c3">#</tspan>
+<tspan fill="#dbdcc8">#</tspan>
+<tspan fill="#dadcc8">#</tspan>
+<tspan fill="#dcdfcb">#</tspan>
+<tspan fill="#dbdecb">#</tspan>
+<tspan fill="#daddc9">#</tspan>
+<tspan fill="#dbdeca">#</tspan>
+<tspan fill="#dadcc8">#</tspan>
+<tspan fill="#dadcc8">#</tspan>
+<tspan fill="#dcdeca">#</tspan>
+<tspan fill="#d7d8c4">#</tspan>
+<tspan fill="#c8c5b3">*</tspan>
+<tspan fill="#c8c5b2">*</tspan>
+<tspan fill="#d8dac6">#</tspan>
+<tspan fill="#dfe2cf">#</tspan>
+<tspan fill="#dbdecb">#</tspan>
+<tspan fill="#d0d2c0">#</tspan>
+<tspan fill="#cecebd">#</tspan>
+<tspan fill="#d3d5c3">#</tspan>
+<tspan fill="#d9ddca">#</tspan>
+<tspan fill="#d5d7c4">#</tspan>
+<tspan fill="#d0d2be">#</tspan>
+<tspan fill="#d2d4c0">#</tspan>
+<tspan fill="#d4d6c2">#</tspan>
+<tspan fill="#ccd0be">#</tspan>
+<tspan fill="#c9cdbe">#</tspan>
+<tspan fill="#dadfcf">#</tspan>
+<tspan fill="#736d66">-</tspan>
+<tspan fill="#2d1917">.</tspan>
+<tspan fill="#311d1c">.</tspan>
+<tspan fill="#5b4d43">:</tspan>
+<tspan fill="#d6d4bd">#</tspan>
+<tspan fill="#c7c2ac">*</tspan>
+<tspan fill="#beb49d">*</tspan>
+<tspan fill="#b8ae97">*</tspan>
+<tspan fill="#d0ccb8">#</tspan>
+<tspan fill="#d6d4c1">#</tspan>
+<tspan fill="#d1cebb">#</tspan>
+<tspan fill="#d9d6c3">#</tspan>
+</tspan>
+    <tspan x="15" dy="13">
+<tspan fill="#d6d9c6">#</tspan>
+<tspan fill="#b1aea0">*</tspan>
+ 
+ 
+<tspan fill="#90897d">=</tspan>
+<tspan fill="#dfdfca">#</tspan>
+<tspan fill="#cacab6">#</tspan>
+<tspan fill="#c8c9b5">*</tspan>
+<tspan fill="#cbccb8">#</tspan>
+<tspan fill="#d2d3bf">#</tspan>
+<tspan fill="#d5d7c3">#</tspan>
+<tspan fill="#d2d4c1">#</tspan>
+<tspan fill="#cbcbb9">#</tspan>
+<tspan fill="#cac9b6">#</tspan>
+<tspan fill="#c8c5b3">*</tspan>
+<tspan fill="#cbc9b6">#</tspan>
+<tspan fill="#cdceba">#</tspan>
+<tspan fill="#cfd0bc">#</tspan>
+<tspan fill="#cbccb8">#</tspan>
+<tspan fill="#c4c6b2">*</tspan>
+<tspan fill="#cecfbb">#</tspan>
+<tspan fill="#d4d5c1">#</tspan>
+<tspan fill="#d4d5c1">#</tspan>
+<tspan fill="#d0d1bd">#</tspan>
+<tspan fill="#ccceba">#</tspan>
+<tspan fill="#d3d5c1">#</tspan>
+<tspan fill="#d7d9c5">#</tspan>
+<tspan fill="#d5d7c3">#</tspan>
+<tspan fill="#d6d7c3">#</tspan>
+<tspan fill="#d4d6c2">#</tspan>
+<tspan fill="#d7d9c6">#</tspan>
+<tspan fill="#d9dcc8">#</tspan>
+<tspan fill="#d9dac6">#</tspan>
+<tspan fill="#d7d9c5">#</tspan>
+<tspan fill="#d9dbc7">#</tspan>
+<tspan fill="#d9dac7">#</tspan>
+<tspan fill="#d4d6c2">#</tspan>
+<tspan fill="#c7c5b2">*</tspan>
+<tspan fill="#c6c1af">*</tspan>
+<tspan fill="#d7d7c3">#</tspan>
+<tspan fill="#e0e2cf">#</tspan>
+<tspan fill="#dbdecb">#</tspan>
+<tspan fill="#d0d3c1">#</tspan>
+<tspan fill="#d0d2c0">#</tspan>
+<tspan fill="#d6d8c6">#</tspan>
+<tspan fill="#d8dbc9">#</tspan>
+<tspan fill="#d6d9c6">#</tspan>
+<tspan fill="#d2d4c2">#</tspan>
+<tspan fill="#d2d4c3">#</tspan>
+<tspan fill="#d5d7c4">#</tspan>
+<tspan fill="#cfd1c0">#</tspan>
+<tspan fill="#c9cdbd">#</tspan>
+<tspan fill="#d7dccd">#</tspan>
+<tspan fill="#6a635d">-</tspan>
+<tspan fill="#2f1b19">.</tspan>
+<tspan fill="#2f1a1a">.</tspan>
+<tspan fill="#6f635a">-</tspan>
+<tspan fill="#dcd9c4">#</tspan>
+<tspan fill="#c5c1ab">*</tspan>
+<tspan fill="#beb59e">*</tspan>
+<tspan fill="#b8b099">*</tspan>
+<tspan fill="#d0cfba">#</tspan>
+<tspan fill="#d4d5c2">#</tspan>
+<tspan fill="#d3d0bd">#</tspan>
+<tspan fill="#dad7c5">#</tspan>
+</tspan>
+  </text>
+</svg>

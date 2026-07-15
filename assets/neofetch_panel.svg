@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 355" width="460" height="355">
+  <style>
+    .terminal-text {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+      font-size: 12px;
+      font-weight: 600;
+    }
+    .cursor {
+      fill: #ff007f;
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink {
+      from, to { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+  <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+    <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.3" />
+  </filter>
+  <g filter="url(#shadow)">
+    <rect width="460" height="340" rx="8" fill="#1a1b26" />
+  </g>
+  <path d="M 0,8 A 8,8 0 0 1 8,0 L 452,0 A 8,8 0 0 1 460,8 L 460,35 L 0,35 Z" fill="#24283b" />
+  <circle cx="20" cy="17" r="6" fill="#f7768e" />
+  <circle cx="38" cy="17" r="6" fill="#e0af68" />
+  <circle cx="56" cy="17" r="6" fill="#9ece6a" />
+  <text x="230" y="22" fill="#a9b1d6" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">neofetch</text>
+  <text x="20" y="60" class="terminal-text">
+    <tspan fill="#7aa2f7">devendrarajsingh07@github</tspan>
+  </text>
+  <rect x="202.0" y="49" width="8" height="13" class="cursor" />
+  <text x="20" y="75" class="terminal-text" fill="#a9b1d6">----------------------------------------</text>
+  <text x="20" y="93" class="terminal-text">
+    <tspan fill="#bb9af7">OS:        </tspan>
+    <tspan fill="#c0caf5">B.Tech CSE (AI &amp; ML) @ KIIT</tspan>
+  </text>
+  <text x="20" y="113" class="terminal-text">
+    <tspan fill="#bb9af7">Shell:     </tspan>
+    <tspan fill="#c0caf5">Python 3.12 / Bash</tspan>
+  </text>
+  <text x="20" y="133" class="terminal-text">
+    <tspan fill="#bb9af7">Editor:    </tspan>
+    <tspan fill="#c0caf5">VS Code / Cursor</tspan>
+  </text>
+  <text x="20" y="153" class="terminal-text">
+    <tspan fill="#bb9af7">Languages: </tspan>
+    <tspan fill="#c0caf5">Python · Java · JS · C · SQL</tspan>
+  </text>
+  <text x="20" y="173" class="terminal-text">
+    <tspan fill="#bb9af7">AI/ML:     </tspan>
+    <tspan fill="#c0caf5">YOLOv8 · OpenCV · PyTorch · SAC/RL</tspan>
+  </text>
+  <text x="20" y="193" class="terminal-text">
+    <tspan fill="#bb9af7">Web Dev:   </tspan>
+    <tspan fill="#c0caf5">React · Node · Express · FastAPI</tspan>
+  </text>
+  <text x="20" y="213" class="terminal-text">
+    <tspan fill="#bb9af7">Databases: </tspan>
+    <tspan fill="#c0caf5">MySQL · SQLite · Git · Arduino</tspan>
+  </text>
+  <text x="20" y="233" class="terminal-text">
+    <tspan fill="#bb9af7">Projects:  </tspan>
+    <tspan fill="#c0caf5">12 public repos</tspan>
+  </text>
+  <text x="20" y="253" class="terminal-text">
+    <tspan fill="#bb9af7">Stars:     </tspan>
+    <tspan fill="#c0caf5">⭐ 8 stargazers</tspan>
+  </text>
+  <text x="20" y="273" class="terminal-text">
+    <tspan fill="#bb9af7">Followers: </tspan>
+    <tspan fill="#c0caf5">👥 15 followers</tspan>
+  </text>
+  <text x="20" y="293" class="terminal-text">
+    <tspan fill="#bb9af7">Focus:     </tspan>
+    <tspan fill="#c0caf5">Computer Vision · RL · MLOps</tspan>
+  </text>
+  <!-- ANSI Color Blocks -->
+  <rect x="20" y="323" width="22" height="12" rx="2" fill="#15161e" />
+  <rect x="48" y="323" width="22" height="12" rx="2" fill="#f7768e" />
+  <rect x="76" y="323" width="22" height="12" rx="2" fill="#9ece6a" />
+  <rect x="104" y="323" width="22" height="12" rx="2" fill="#e0af68" />
+  <rect x="132" y="323" width="22" height="12" rx="2" fill="#7aa2f7" />
+  <rect x="160" y="323" width="22" height="12" rx="2" fill="#bb9af7" />
+  <rect x="188" y="323" width="22" height="12" rx="2" fill="#7dcfff" />
+  <rect x="216" y="323" width="22" height="12" rx="2" fill="#a9b1d6" />
+</svg>

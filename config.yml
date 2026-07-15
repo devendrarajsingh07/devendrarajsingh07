@@ -1,0 +1,50 @@
+# Config details for Devendra Raj Singh
+username: "devendrarajsingh07"
+name: "Devendra Raj Singh"
+role: "AI/ML & Software Developer"
+email: "devendrarajsingh2005@gmail.com"
+website: "devendrarajsingh.netlify.app"
+linkedin: "linkedin.com/in/devendra-raj-singh"
+
+# Neofetch panel details
+os: "B.Tech CSE (AI & ML) @ KIIT"
+shell: "Python 3.12 / Bash"
+editor: "VS Code / Cursor"
+languages: "Python · Java · JS · C · SQL"
+ai_ml: "YOLOv8 · OpenCV · PyTorch · SAC/RL"
+web_dev: "React · Node · Express · FastAPI"
+databases: "MySQL · SQLite · Git · Arduino"
+focus: "Computer Vision · RL · MLOps"
+
+# Projects featured in README
+projects:
+  - name: "CrowdSense AI"
+    tech: "YOLOv8, FastAPI, OpenCV, SQLite"
+    desc: "AI-powered real-time crowd monitoring dashboard with PDF reports."
+    github: "https://github.com/devendrarajsingh07/CrowdSense-AI"
+  - name: "AI Battery Fast Charging"
+    tech: "PyTorch, SAC/RL, Gymnasium, Streamlit"
+    desc: "SAC reinforcement learning agent optimizing lithium-ion battery charging."
+    github: "https://github.com/devendrarajsingh07/AI-Battery-Charging"
+  - name: "Trading Log System"
+    tech: "React.js, Node.js, Express, MySQL, JWT"
+    desc: "Full-stack app to track stock/crypto trades with dashboard analytics."
+    github: "https://github.com/devendrarajsingh07/Trading-Log-System"
+
+# Theme colors
+theme:
+  background: "#1a1b26" # Deep blue/grey (Tokyonight)
+  foreground: "#a9b1d6" # Light blue/grey
+  title: "#7aa2f7"      # Accent Blue
+  label: "#bb9af7"      # Accent Purple
+  value: "#c0caf5"      # Bright text
+  cursor: "#ff007f"     # Neon Pink
+  ansi_colors:
+    - "#15161e" # black
+    - "#f7768e" # red
+    - "#9ece6a" # green
+    - "#e0af68" # yellow
+    - "#7aa2f7" # blue
+    - "#bb9af7" # magenta
+    - "#7dcfff" # cyan
+    - "#a9b1d6" # white

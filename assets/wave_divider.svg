@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
+  <defs>
+    <linearGradient id="grad-wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#bb9af7" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#ff007f" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0.2" />
+    </linearGradient>
+    <linearGradient id="grad-wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0.2" />
+    </linearGradient>
+    <linearGradient id="grad-wave3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a1b26" />
+      <stop offset="50%" stop-color="#24283b" />
+      <stop offset="100%" stop-color="#1a1b26" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#grad-wave1)">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="
+        M0 30 Q 225 70, 450 30 T 900 30 L 900 100 L 0 100 Z;
+        M0 30 Q 225 10, 450 50 T 900 30 L 900 100 L 0 100 Z;
+        M0 30 Q 225 50, 450 20 T 900 30 L 900 100 L 0 100 Z;
+        M0 30 Q 225 70, 450 30 T 900 30 L 900 100 L 0 100 Z
+      " />
+  </path>
+  <path fill="url(#grad-wave2)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0 50 Q 225 20, 450 60 T 900 50 L 900 100 L 0 100 Z;
+        M0 50 Q 225 70, 450 30 T 900 50 L 900 100 L 0 100 Z;
+        M0 50 Q 225 30, 450 50 T 900 50 L 900 100 L 0 100 Z;
+        M0 50 Q 225 20, 450 60 T 900 50 L 900 100 L 0 100 Z
+      " />
+  </path>
+  <path fill="url(#grad-wave3)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0 70 Q 225 90, 450 60 T 900 70 L 900 100 L 0 100 Z;
+        M0 70 Q 225 50, 450 80 T 900 70 L 900 100 L 0 100 Z;
+        M0 70 Q 225 80, 450 70 T 900 70 L 900 100 L 0 100 Z;
+        M0 70 Q 225 90, 450 60 T 900 70 L 900 100 L 0 100 Z
+      " />
+  </path>
+</svg>
