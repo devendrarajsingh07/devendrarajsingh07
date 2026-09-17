@@ -30,7 +30,7 @@
 
 I build practical AI systems and full-stack products where machine learning, real-time data, and thoughtful interfaces meet.
 
-- 🎓 B.Tech CSE (AI & ML) at **KIIT**, Bhubaneswar — Class of 2024
+- 🎓 B.Tech CSE (AI & ML) at **KIIT**, Bhubaneswar — Class of 2028
 - 🧠 Exploring **digital twins, computer vision, predictive systems, and responsible AI**
 - 🛠️ Comfortable across the stack, from Python/FastAPI services to React/Next.js interfaces
 - 🤝 Open to internships, collaborations, and ambitious product ideas
