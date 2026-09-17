@@ -10,14 +10,16 @@ def generate_typing_header_svg(output_path, config):
     width = 800
     height = 110
     
-    line1_text = "Hi, I'm Devendra Raj Singh 👋"
-    line2_text = "AI/ML & Software Developer"
+    name = config.get("name", "Devendra Raj Singh")
+    role = config.get("role", "AI/ML & Full-Stack Developer")
+    line1_text = f"Hi, I'm {name} 👋"
+    line2_text = role
     
     # Calculate widths based on monospaced character size estimates
     # For font-size 26px, width is ~15.6px per char. 28 chars = 437px.
     # For font-size 18px, width is ~10.8px per char. 26 chars = 281px.
-    l1_width = 445
-    l2_width = 285
+    l1_width = max(240, len(line1_text) * 15)
+    l2_width = max(220, len(line2_text) * 11)
     
     svg = []
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="{width}" height="{height}">')

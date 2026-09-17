@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 355" width="460" height="355">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 315" width="460" height="315">
   <style>
     .terminal-text {
       font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -18,7 +18,7 @@
     <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.3" />
   </filter>
   <g filter="url(#shadow)">
-    <rect width="460" height="340" rx="8" fill="#1a1b26" />
+    <rect width="460" height="300" rx="8" fill="#1a1b26" />
   </g>
   <path d="M 0,8 A 8,8 0 0 1 8,0 L 452,0 A 8,8 0 0 1 460,8 L 460,35 L 0,35 Z" fill="#24283b" />
   <circle cx="20" cy="17" r="6" fill="#f7768e" />
@@ -35,52 +35,44 @@
     <tspan fill="#c0caf5">B.Tech CSE (AI &amp; ML) @ KIIT</tspan>
   </text>
   <text x="20" y="113" class="terminal-text">
-    <tspan fill="#bb9af7">Shell:     </tspan>
-    <tspan fill="#c0caf5">Python 3.12 / Bash</tspan>
+    <tspan fill="#bb9af7">Role:      </tspan>
+    <tspan fill="#c0caf5">AI/ML &amp; Full-Stack Developer</tspan>
   </text>
   <text x="20" y="133" class="terminal-text">
-    <tspan fill="#bb9af7">Editor:    </tspan>
-    <tspan fill="#c0caf5">VS Code / Cursor</tspan>
+    <tspan fill="#bb9af7">Runtime:   </tspan>
+    <tspan fill="#c0caf5">Python 3.12 · TypeScript</tspan>
   </text>
   <text x="20" y="153" class="terminal-text">
-    <tspan fill="#bb9af7">Languages: </tspan>
-    <tspan fill="#c0caf5">Python · Java · JS · C · SQL</tspan>
+    <tspan fill="#bb9af7">Editor:    </tspan>
+    <tspan fill="#c0caf5">VS Code · Cursor · Jupyter</tspan>
   </text>
   <text x="20" y="173" class="terminal-text">
-    <tspan fill="#bb9af7">AI/ML:     </tspan>
-    <tspan fill="#c0caf5">YOLOv8 · OpenCV · PyTorch · SAC/RL</tspan>
+    <tspan fill="#bb9af7">Languages: </tspan>
+    <tspan fill="#c0caf5">Python · TypeScript · JavaScript · Java · C · SQL</tspan>
   </text>
   <text x="20" y="193" class="terminal-text">
-    <tspan fill="#bb9af7">Web Dev:   </tspan>
-    <tspan fill="#c0caf5">React · Node · Express · FastAPI</tspan>
+    <tspan fill="#bb9af7">AI/ML:     </tspan>
+    <tspan fill="#c0caf5">PyTorch · OpenCV · YOLOv8 · scikit-learn</tspan>
   </text>
   <text x="20" y="213" class="terminal-text">
-    <tspan fill="#bb9af7">Databases: </tspan>
-    <tspan fill="#c0caf5">MySQL · SQLite · Git · Arduino</tspan>
+    <tspan fill="#bb9af7">Web Dev:   </tspan>
+    <tspan fill="#c0caf5">Next.js · React · FastAPI · Node.js</tspan>
   </text>
   <text x="20" y="233" class="terminal-text">
-    <tspan fill="#bb9af7">Projects:  </tspan>
-    <tspan fill="#c0caf5">8 public repos</tspan>
+    <tspan fill="#bb9af7">Databases: </tspan>
+    <tspan fill="#c0caf5">PostgreSQL · SQLite · Redis</tspan>
   </text>
   <text x="20" y="253" class="terminal-text">
-    <tspan fill="#bb9af7">Stars:     </tspan>
-    <tspan fill="#c0caf5">⭐ 1 stargazers</tspan>
-  </text>
-  <text x="20" y="273" class="terminal-text">
-    <tspan fill="#bb9af7">Followers: </tspan>
-    <tspan fill="#c0caf5">👥 2 followers</tspan>
-  </text>
-  <text x="20" y="293" class="terminal-text">
     <tspan fill="#bb9af7">Focus:     </tspan>
-    <tspan fill="#c0caf5">Computer Vision · RL · MLOps</tspan>
+    <tspan fill="#c0caf5">Digital Twins · Computer Vision · Responsible AI</tspan>
   </text>
   <!-- ANSI Color Blocks -->
-  <rect x="20" y="323" width="22" height="12" rx="2" fill="#15161e" />
-  <rect x="48" y="323" width="22" height="12" rx="2" fill="#f7768e" />
-  <rect x="76" y="323" width="22" height="12" rx="2" fill="#9ece6a" />
-  <rect x="104" y="323" width="22" height="12" rx="2" fill="#e0af68" />
-  <rect x="132" y="323" width="22" height="12" rx="2" fill="#7aa2f7" />
-  <rect x="160" y="323" width="22" height="12" rx="2" fill="#bb9af7" />
-  <rect x="188" y="323" width="22" height="12" rx="2" fill="#7dcfff" />
-  <rect x="216" y="323" width="22" height="12" rx="2" fill="#a9b1d6" />
+  <rect x="20" y="283" width="22" height="12" rx="2" fill="#15161e" />
+  <rect x="48" y="283" width="22" height="12" rx="2" fill="#f7768e" />
+  <rect x="76" y="283" width="22" height="12" rx="2" fill="#9ece6a" />
+  <rect x="104" y="283" width="22" height="12" rx="2" fill="#e0af68" />
+  <rect x="132" y="283" width="22" height="12" rx="2" fill="#7aa2f7" />
+  <rect x="160" y="283" width="22" height="12" rx="2" fill="#bb9af7" />
+  <rect x="188" y="283" width="22" height="12" rx="2" fill="#7dcfff" />
+  <rect x="216" y="283" width="22" height="12" rx="2" fill="#a9b1d6" />
 </svg>

@@ -1,52 +1,11 @@
 import os
 import sys
 import yaml
-import requests
 from xml.sax.saxutils import escape as xml_escape
-
-def fetch_github_stats(username, token=None):
-    """Fetch live stats for the user from GitHub API."""
-    headers = {}
-    if token:
-        headers["Authorization"] = f"token {token}"
-        
-    stats = {
-        "repos": 12,      # fallback defaults
-        "followers": 15,
-        "stars": 8
-    }
-    
-    try:
-        # Fetch user info
-        user_url = f"https://api.github.com/users/{username}"
-        user_resp = requests.get(user_url, headers=headers, timeout=5)
-        if user_resp.status_code == 200:
-            user_data = user_resp.json()
-            stats["repos"] = user_data.get("public_repos", stats["repos"])
-            stats["followers"] = user_data.get("followers", stats["followers"])
-            
-        # Fetch repos to count stars
-        repos_url = f"https://api.github.com/users/{username}/repos?per_page=100"
-        repos_resp = requests.get(repos_url, headers=headers, timeout=5)
-        if repos_resp.status_code == 200:
-            repos_data = repos_resp.json()
-            total_stars = sum(repo.get("stargazers_count", 0) for repo in repos_data)
-            stats["stars"] = total_stars
-            
-        print(f"Successfully fetched live GitHub stats for {username}: Repos={stats['repos']}, Followers={stats['followers']}, Stars={stats['stars']}")
-    except Exception as e:
-        print(f"Could not fetch live GitHub stats ({e}). Using mock/offline values.")
-        
-    return stats
 
 def generate_neofetch_svg(output_path, config):
     # Retrieve configuration values
     username = config.get("username", "devendrarajsingh07")
-    name = config.get("name", "Devendra Raj Singh")
-    token = os.environ.get("GITHUB_TOKEN")
-    
-    # Fetch live stats
-    gh_stats = fetch_github_stats(username, token)
     
     # Theme colors
     theme = config.get("theme", {})
@@ -61,18 +20,16 @@ def generate_neofetch_svg(output_path, config):
         "#7aa2f7", "#bb9af7", "#7dcfff", "#a9b1d6"
     ])
     
-    # Neofetch details (incorporating live stats)
+    # Keep this card deterministic: live GitHub data belongs in the stats cards.
     details = [
         ("OS", config.get("os", "Ubuntu 22.04 LTS")),
-        ("Shell", config.get("shell", "zsh 5.8.1")),
+        ("Role", config.get("role", "AI/ML & Full-Stack Developer")),
+        ("Runtime", config.get("runtime", "Python / TypeScript")),
         ("Editor", config.get("editor", "Neovim / VS Code")),
         ("Languages", config.get("languages", "Python")),
         ("AI/ML", config.get("ai_ml", "PyTorch")),
         ("Web Dev", config.get("web_dev", "React / FastAPI")),
         ("Databases", config.get("databases", "PostgreSQL / Redis")),
-        ("Projects", f"{gh_stats['repos']} public repos"),
-        ("Stars", f"⭐ {gh_stats['stars']} stargazers"),
-        ("Followers", f"👥 {gh_stats['followers']} followers"),
         ("Focus", config.get("focus", "Machine Learning / MLOps")),
     ]
     
