@@ -75,5 +75,5 @@ I build practical AI systems and full-stack products where machine learning, rea
 
 <p align="center">
   <i>Build useful things. Learn in public. Keep improving.</i><br />
-  <sub>Profile refreshed September 19, 2026</sub>
+  <sub>Profile refreshed September 20, 2026</sub>
 </p>
