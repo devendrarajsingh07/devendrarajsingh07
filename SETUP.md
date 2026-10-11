@@ -1,8 +1,7 @@
 # Profile maintenance
 
 The public profile in `README.md` is generated from `README.template` and
-`config.yml`. The workflow in `.github/workflows/update_profile.yml` rebuilds
-the profile and contribution animation automatically.
+`config.yml`. Profile updates are built locally and committed manually.
 
 ## Update the content
 
@@ -19,10 +18,12 @@ the profile and contribution animation automatically.
 
 5. Review both the generated `README.md` and SVG assets before committing.
 
-## Automation
+## Manual updates only
 
-The GitHub Actions workflow runs daily and on pushes to `main` or `master`.
-It needs repository **Actions > General > Workflow permissions** set to
-**Read and write permissions** so it can update generated files.
+The automatic profile-update workflow has been removed. There are no scheduled
+builds or GitHub Actions bot commits. The local build script only writes files;
+it does not commit or push them.
 
-Do not edit `README.md` directly: the next workflow run will overwrite it.
+Edit `README.template` and `config.yml` for lasting changes: running the local
+build will overwrite `README.md`. Existing SVG assets, including the contribution
+snake animation, remain available but are no longer refreshed automatically.
