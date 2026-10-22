@@ -33,8 +33,12 @@ def generate_neofetch_svg(output_path, config):
         ("Focus", config.get("focus", "Machine Learning / MLOps")),
     ]
     
-    # Size calculations
-    width = 460
+    # Size calculations (monospace 12px ~= 7.2px per character)
+    char_w = 7.2
+    label_cols = 11
+    value_x = 20 + round(label_cols * char_w)
+    longest = max(len(str(v)) for _, v in details)
+    width = max(460, int(value_x + longest * char_w + 24))
     header_height = 35
     padding = 20
     line_height = 20
@@ -105,12 +109,12 @@ def generate_neofetch_svg(output_path, config):
     # Neofetch details
     curr_y = header_height + 58
     for label, val in details:
-        # Align labels to 11 characters
-        padded_label = f"{label}:".ljust(11)
-        svg.append(f'  <text x="20" y="{curr_y}" class="terminal-text">')
-        svg.append(f'    <tspan fill="{label_color}">{xml_escape(padded_label)}</tspan>')
-        svg.append(f'    <tspan fill="{val_color}">{xml_escape(str(val))}</tspan>')
-        svg.append('  </text>')
+        # SVG collapses whitespace, so align the value column with an explicit x
+        # instead of padding the label with spaces.
+        svg.append(f'  <text x="20" y="{curr_y}" class="terminal-text">'
+                   f'<tspan fill="{label_color}">{xml_escape(label)}:</tspan>'
+                   f'<tspan x="{value_x}" fill="{val_color}">{xml_escape(str(val))}</tspan>'
+                   '</text>')
         curr_y += line_height
         
     # Terminal color block swatches at the bottom

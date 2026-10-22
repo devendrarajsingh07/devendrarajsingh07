@@ -25,5 +25,6 @@ builds or GitHub Actions bot commits. The local build script only writes files;
 it does not commit or push them.
 
 Edit `README.template` and `config.yml` for lasting changes: running the local
-build will overwrite `README.md`. Existing SVG assets, including the contribution
-snake animation, remain available but are no longer refreshed automatically.
+build will overwrite `README.md`. The neofetch panel, typing header, and wave
+divider are regenerated from `config.yml` on every build. Featured projects can
+take an optional `demo` URL, shown under the project name.

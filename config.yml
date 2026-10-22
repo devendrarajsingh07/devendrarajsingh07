@@ -11,13 +11,26 @@ os: "B.Tech CSE (AI & ML) @ KIIT"
 runtime: "Python 3.12 · TypeScript"
 editor: "VS Code · Cursor · Jupyter"
 languages: "Python · TypeScript · JavaScript · Java · C · SQL"
-ai_ml: "PyTorch · OpenCV · YOLOv8 · scikit-learn"
-web_dev: "Next.js · React · FastAPI · Node.js"
-databases: "PostgreSQL · SQLite · Redis"
+ai_ml: "PyTorch · OpenCV · YOLOv8 · RAG · Transformers"
+web_dev: "Next.js · React · Vite · FastAPI · Express"
+databases: "PostgreSQL · SQLite · Redis · Qdrant"
 focus: "Digital Twins · Computer Vision · Responsible AI"
 
-# Projects featured in README
+# Projects featured in README (newest first). Optional: demo
 projects:
+  - name: "SubTrack"
+    tech: "React 19 · TypeScript · Vite · FastAPI · PostgreSQL"
+    desc: "An AI-assisted subscription and recurring-payment manager: imports INR bank statements, detects subscriptions and bills, tracks renewals and budgets, and verifies every figure the assistant quotes."
+    github: "https://github.com/devendrarajsingh07/AI-Powered-Subscription-Recurring-Payment-Manager"
+    demo: "https://ai-powered-subscription-recurring-p.vercel.app"
+  - name: "DocuMind"
+    tech: "Next.js 15 · Express · FastAPI · PostgreSQL · Qdrant · Redis"
+    desc: "A three-service PDF workspace with OCR and layout extraction, searchable chunks, and RAG answers grounded in source citations."
+    github: "https://github.com/devendrarajsingh07/Pdf-with-Ai-Rag"
+  - name: "Traceable"
+    tech: "React · Vite · FastAPI · PostgreSQL · D3"
+    desc: "Impact reporting for small nonprofits that merges messy program files, keeps fuzzy matches under human review, and traces every reported number to its source records."
+    github: "https://github.com/devendrarajsingh07/Traceable-impact-reporting-"
   - name: "Human Digital Twin"
     tech: "Next.js 15 · React 19 · FastAPI · Three.js · PostgreSQL"
     desc: "A continuously learning student wellness twin with 3D visualization, forecasting, what-if simulation, and fidelity tracking."
@@ -30,10 +43,6 @@ projects:
     tech: "React 19 · Node.js · Express · SQLite · Docker"
     desc: "A multi-tenant billing and ERP platform with invoicing, inventory, payments, RBAC, subscriptions, and reporting."
     github: "https://github.com/devendrarajsingh07/billingpro-saas"
-  - name: "CrowdSense AI"
-    tech: "YOLOv8 · OpenCV · FastAPI · SQLite · Chart.js"
-    desc: "A real-time crowd monitoring and analytics platform with live detection, alerts, video analysis, and PDF reports."
-    github: "https://github.com/devendrarajsingh07/CrowdSense-AI"
 
 # Theme colors
 theme:
