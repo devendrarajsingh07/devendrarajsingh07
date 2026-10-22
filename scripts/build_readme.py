@@ -53,14 +53,7 @@ def main():
     # Compile template using Jinja2
     template = Template(template_content)
     
-    # Add helper for current date/time to template variables
-    import datetime
-    now_str = datetime.datetime.now().strftime("%B %d, %Y")
-    
-    rendered_readme = template.render(
-        **config,
-        last_updated=now_str
-    )
+    rendered_readme = template.render(**config)
     
     # Save the output README.md
     with open(output_readme_path, "w", encoding="utf-8") as f:
