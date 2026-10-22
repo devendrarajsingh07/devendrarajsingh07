@@ -35,9 +35,9 @@
 <h2 align="center">Tech stack & latest builds</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/skills_light.svg">
-  <img align="left" width="46%" alt="Skills: Python, TypeScript, PyTorch, OpenCV, Next.js, React, YOLOv8, FastAPI, Node.js, Express, PostgreSQL, Redis, Qdrant, Docker, Transformers, Java, SQL" src="assets/skills_dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack_orbit_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack_orbit_light.svg">
+  <img align="left" width="46%" alt="Tech stack: Python, TypeScript, React, FastAPI, PyTorch, PostgreSQL, JavaScript, Next.js, Node.js, Express, Vite, OpenCV, YOLOv8, Hugging Face Transformers, Redis, Qdrant, Docker, Git" src="assets/stack_orbit_dark.svg">
 </picture>
 
 <h3 align="left">Currently exploring</h3>
@@ -58,19 +58,6 @@
   <li><a href="https://github.com/devendrarajsingh07/billingpro-saas"><b>BillingPro SaaS</b></a> — SaaS · Aug 2026</li>
 </ul>
 <br clear="left" />
-<br />
-
-<!--Trophies-->
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<p align="center">
-  <a href="https://github.com/devendrarajsingh07">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=devendrarajsingh07&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6&margin-w=16">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=devendrarajsingh07&theme=flat&no-bg=true&no-frame=true&row=1&column=6&margin-w=16">
-      <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=devendrarajsingh07&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6&margin-w=16">
-    </picture>
-  </a>
-</p>
 <br />
 
 <!--Stats table-->
@@ -119,7 +106,9 @@
 <!--Contribution graph-->
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devendrarajsingh07&bg_color=0c1330&color=e7f0ff&line=38bdf8&point=2563eb&area=true&area_color=2563eb&hide_border=true&radius=12" alt="Contribution activity graph" width="100%" />
+  <a href="https://github.com/devendrarajsingh07">
+    <img src="https://ghchart.rshah.org/2563eb/devendrarajsingh07" alt="Devendra Raj Singh's GitHub contribution calendar" width="100%" />
+  </a>
 </p>
 
 ---

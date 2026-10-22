@@ -10,7 +10,7 @@ from generate_showcase import (
     generate_footer_svg,
     generate_icons,
     generate_project_card_svg,
-    generate_skills_svg,
+    generate_orbit_svg,
 )
 
 def main():
@@ -34,8 +34,8 @@ def main():
     assets = os.path.join(project_dir, "assets")
     generate_banner_svg(os.path.join(assets, "banner.svg"), config, project_dir)
     generate_neofetch_svg(os.path.join(assets, "neofetch_panel.svg"), config)
-    generate_skills_svg(os.path.join(assets, "skills_dark.svg"), config, mode="dark")
-    generate_skills_svg(os.path.join(assets, "skills_light.svg"), config, mode="light")
+    generate_orbit_svg(os.path.join(assets, "stack_orbit_dark.svg"), config, mode="dark")
+    generate_orbit_svg(os.path.join(assets, "stack_orbit_light.svg"), config, mode="light")
     generate_project_card_svg(os.path.join(assets, "latest_project.svg"), config)
     generate_icons(os.path.join(assets, "icons"), config)
     generate_footer_svg(os.path.join(assets, "footer_wave.svg"), config)

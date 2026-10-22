@@ -7,6 +7,8 @@ each SVG is self-contained: no external fonts, scripts or linked images
 """
 
 import base64
+import json
+import math
 import io
 import os
 from xml.sax.saxutils import escape
@@ -105,64 +107,90 @@ def generate_banner_svg(output_path, config, project_dir):
     print(f"Successfully generated banner SVG: {output_path}")
 
 
-def _darken(hex_color, amount=0.55):
+def _luminance(hex_color):
     h = hex_color.lstrip("#")
-    r, g, b = (int(h[i:i + 2], 16) for i in (0, 2, 4))
-    return "#%02x%02x%02x" % tuple(int(v * (1 - amount)) for v in (r, g, b))
+    r, g, b = (int(h[i:i + 2], 16) / 255 for i in (0, 2, 4))
+    return 0.2126 * r + 0.7152 * g + 0.0722 * b
 
 
-def generate_skills_svg(output_path, config, mode="dark"):
-    """An animated cloud of skill chips; each chip floats on its own rhythm."""
-    skills = config.get("skills", [])
-    w, h = 460, 400
-    cols_per_row = [3, 4, 3, 4, 3]  # a loose hexagonal cloud
-    rows = []
-    i = 0
-    for n in cols_per_row:
-        rows.append(skills[i:i + n])
-        i += n
-    rows = [r for r in rows if r]
+def _load_brand_icons():
+    """Logo paths from Simple Icons (CC0), vendored in scripts/brand_icons.json."""
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "brand_icons.json")
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
 
-    chips = []
-    row_h = h / (len(rows) + 1)
-    char_w = 9.6
-    for r, row in enumerate(rows):
-        y = row_h * (r + 1)
-        widths = [len(s["name"]) * char_w + 30 + (8 if s.get("big") else 0) for s in row]
-        gap = 14
-        total = sum(widths) + gap * (len(row) - 1)
-        x = (w - total) / 2
-        for j, s in enumerate(row):
-            k = r * 4 + j
-            big = s.get("big", False)
-            cw = widths[j]
-            ch = 40 if big else 34
-            fs = 18 if big else 15
-            color = s.get("color", "#38bdf8")
-            fill_op = "0.16" if mode == "dark" else "0.14"
-            txt = color if mode == "dark" else _darken(color)
-            dur = 5 + (k % 4) * 0.8
-            delay = -(k * 0.7) % dur
-            chips.append(
-                f'<g class="f" style="animation-duration:{dur:.1f}s;animation-delay:{delay:.1f}s">'
-                f'<rect x="{x:.1f}" y="{y - ch / 2:.1f}" width="{cw:.1f}" height="{ch}" rx="12" '
-                f'fill="{color}" fill-opacity="{fill_op}" stroke="{color}" stroke-opacity="0.45"/>'
-                f'<text x="{x + cw / 2:.1f}" y="{y + fs * 0.35:.1f}" text-anchor="middle" font-family="{FONT}" '
-                f'font-size="{fs}" font-weight="700" fill="{txt}">{escape(s["name"])}</text></g>'
-            )
-            x += cw + gap
 
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}" role="img" aria-label="Skills: {escape(", ".join(s["name"] for s in skills))}">
+def generate_orbit_svg(output_path, config, mode="dark"):
+    """Tech stack as app-icon tiles on two counter-rotating rings.
+
+    Each ring spins around the centre while every tile counter-spins, so the
+    logos stay upright. Pure CSS animation, so it plays inside GitHub READMEs.
+    """
+    c = _palette(config)
+    icons = _load_brand_icons()
+    orbit = config.get("orbit", {})
+    rings = [
+        (orbit.get("inner", []), 112, 60, 48, "spin-r"),
+        (orbit.get("outer", []), 200, 52, 80, "spin"),
+    ]
+    size = 470
+    cx = cy = size / 2
+
+    if mode == "dark":
+        tile, stroke, track, dark_logo = c["chip"], c["border"], "#2d3c68", c["text"]
+    else:
+        tile, stroke, track, dark_logo = "#ffffff", "#d5deec", "#c7d3e8", None
+
+    parts, names = [], []
+    for slugs, radius, tile_size, duration, direction in rings:
+        parts.append(f'<circle cx="{cx}" cy="{cy}" r="{radius}" fill="none" stroke="{track}" '
+                     f'stroke-width="1.2" stroke-dasharray="3 7"/>')
+        tiles = []
+        for k, slug in enumerate(slugs):
+            icon = icons.get(slug)
+            if not icon:
+                print(f"  warning: no icon data for '{slug}', skipped")
+                continue
+            names.append(icon["title"])
+            angle = 2 * math.pi * k / len(slugs) - math.pi / 2
+            x = cx + radius * math.cos(angle) - tile_size / 2
+            y = cy + radius * math.sin(angle) - tile_size / 2
+            color = "#" + icon["hex"]
+            if dark_logo and _luminance(color) < 0.22:
+                color = dark_logo
+            logo = tile_size * 0.56
+            off = (tile_size - logo) / 2
+            scale = logo / 24
+            tiles.append(
+                f'<g transform="translate({x:.1f},{y:.1f})"><g class="up {direction}-u" style="animation-duration:{duration}s">'
+                f'<rect width="{tile_size}" height="{tile_size}" rx="{tile_size * 0.26:.1f}" fill="{tile}" stroke="{stroke}" stroke-width="1.2"/>'
+                f'<path transform="translate({off:.1f},{off:.1f}) scale({scale:.3f})" d="{icon["path"]}" fill="{color}"/>'
+                '</g></g>')
+        parts.append(f'<g class="{direction}" style="animation-duration:{duration}s">{"".join(tiles)}</g>')
+
+    centre = (f'<circle cx="{cx}" cy="{cy}" r="46" fill="{c["accent"]}" fill-opacity="0.18"/>'
+              f'<circle cx="{cx}" cy="{cy}" r="34" fill="{c["accent"]}"/>'
+              f'<path d="M{cx - 9} {cy - 10} l-10 10 10 10 M{cx + 9} {cy - 10} l10 10 -10 10" fill="none" '
+              'stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>')
+
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {size} {size}" width="{size}" height="{size}" role="img" aria-label="Tech stack: {escape(", ".join(names))}">
   <style>
-    .f {{ animation-name: float; animation-timing-function: ease-in-out; animation-iteration-count: infinite; }}
-    @keyframes float {{ 0%,100% {{ transform: translateY(0); opacity: 0.85; }} 50% {{ transform: translateY(-7px); opacity: 1; }} }}
+    .spin, .spin-r {{ transform-origin: {cx}px {cy}px; animation-timing-function: linear; animation-iteration-count: infinite; }}
+    .spin {{ animation-name: cw; }}
+    .spin-r {{ animation-name: ccw; }}
+    .up {{ transform-box: fill-box; transform-origin: center; animation-timing-function: linear; animation-iteration-count: infinite; }}
+    .spin-u {{ animation-name: ccw; }}
+    .spin-r-u {{ animation-name: cw; }}
+    @keyframes cw {{ to {{ transform: rotate(360deg); }} }}
+    @keyframes ccw {{ to {{ transform: rotate(-360deg); }} }}
   </style>
-  {"".join(chips)}
+  {"".join(parts)}
+  {centre}
 </svg>
 '''
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(svg)
-    print(f"Successfully generated skills SVG ({mode}): {output_path}")
+    print(f"Successfully generated tech-stack orbit SVG ({mode}): {output_path}")
 
 
 ICONS = {

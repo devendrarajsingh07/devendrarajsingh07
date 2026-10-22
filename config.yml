@@ -18,25 +18,12 @@ exploring:
   - "Computer vision for real-time safety analytics"
   - "Responsible AI: verifiable, traceable outputs"
 
-# Animated skill cloud (rows of 3/4/3/4/3). big: true makes a chip larger.
-skills:
-  - { name: "Python", color: "#38bdf8", big: true }
-  - { name: "TypeScript", color: "#60a5fa" }
-  - { name: "PyTorch", color: "#f87171" }
-  - { name: "OpenCV", color: "#a78bfa" }
-  - { name: "Next.js", color: "#e2e8f0", big: true }
-  - { name: "React", color: "#22d3ee" }
-  - { name: "YOLOv8", color: "#facc15" }
-  - { name: "FastAPI", color: "#2dd4bf" }
-  - { name: "Node.js", color: "#4ade80" }
-  - { name: "Express", color: "#cbd5e1" }
-  - { name: "PostgreSQL", color: "#60a5fa", big: true }
-  - { name: "Redis", color: "#f87171" }
-  - { name: "Qdrant", color: "#f472b6" }
-  - { name: "Docker", color: "#38bdf8" }
-  - { name: "Transformers", color: "#fb923c" }
-  - { name: "Java", color: "#fb923c" }
-  - { name: "SQL", color: "#a78bfa" }
+# Tech stack orbit: app-icon tiles on two counter-rotating rings.
+# Slugs come from scripts/brand_icons.json (Simple Icons, CC0). To add one,
+# copy its entry from simpleicons.org into that file.
+orbit:
+  inner: [python, typescript, react, fastapi, pytorch, postgresql]
+  outer: [javascript, nextdotjs, nodedotjs, express, vite, opencv, ultralytics, huggingface, redis, qdrant, docker, git]
 
 # Repo shown in the "Latest project" stats cell (repo name only)
 pinned_repo: "AI-Powered-Subscription-Recurring-Payment-Manager"
