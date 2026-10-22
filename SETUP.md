@@ -25,6 +25,10 @@ builds or GitHub Actions bot commits. The local build script only writes files;
 it does not commit or push them.
 
 Edit `README.template` and `config.yml` for lasting changes: running the local
-build will overwrite `README.md`. The neofetch panel, typing header, and wave
-divider are regenerated from `config.yml` on every build. Featured projects can
-take an optional `demo` URL, shown under the project name.
+build will overwrite `README.md`. The banner, neofetch panel, skill cloud
+(dark and light), latest-project card, contact icons and footer wave are all
+regenerated from `config.yml` on every build. The banner embeds `assets/photo.jpg`.
+
+The trophies, stats, streak, languages, activity graph and quote cards are
+third-party image services. If one of them stops responding, remove or swap
+its block in `README.template`.

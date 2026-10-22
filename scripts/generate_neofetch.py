@@ -79,7 +79,7 @@ def generate_neofetch_svg(output_path, config):
     svg.append('  </g>')
     
     # Header bar
-    header_bg = "#24283b" if bg_color == "#1a1b26" else "#1b1c24"
+    header_bg = theme.get("header", "#24283b" if bg_color == "#1a1b26" else "#1b1c24")
     svg.append(f'  <path d="M 0,8 A 8,8 0 0 1 8,0 L {width-8},0 A 8,8 0 0 1 {width},8 L {width},{header_height} L 0,{header_height} Z" fill="{header_bg}" />')
     
     # Window controls (close, minimize, maximize)

@@ -6,6 +6,51 @@ email: "devendrarajsingh2005@gmail.com"
 website: "devendrarajsingh.netlify.app"
 linkedin: "linkedin.com/in/devendra-raj-singh"
 
+# Banner + intro
+banner_subtitle: "AI / ML · FULL-STACK · KIIT ’28"
+tagline: "AI/ML engineer in the making · full-stack builder"
+intro: "I build practical AI systems and the full-stack products around them — retrieval pipelines, digital twins and data tools that show their sources."
+
+# "Tech stack & latest builds" section
+exploring:
+  - "Retrieval-augmented generation and source-grounded answers"
+  - "Digital twins and predictive systems"
+  - "Computer vision for real-time safety analytics"
+  - "Responsible AI: verifiable, traceable outputs"
+
+# Animated skill cloud (rows of 3/4/3/4/3). big: true makes a chip larger.
+skills:
+  - { name: "Python", color: "#38bdf8", big: true }
+  - { name: "TypeScript", color: "#60a5fa" }
+  - { name: "PyTorch", color: "#f87171" }
+  - { name: "OpenCV", color: "#a78bfa" }
+  - { name: "Next.js", color: "#e2e8f0", big: true }
+  - { name: "React", color: "#22d3ee" }
+  - { name: "YOLOv8", color: "#facc15" }
+  - { name: "FastAPI", color: "#2dd4bf" }
+  - { name: "Node.js", color: "#4ade80" }
+  - { name: "Express", color: "#cbd5e1" }
+  - { name: "PostgreSQL", color: "#60a5fa", big: true }
+  - { name: "Redis", color: "#f87171" }
+  - { name: "Qdrant", color: "#f472b6" }
+  - { name: "Docker", color: "#38bdf8" }
+  - { name: "Transformers", color: "#fb923c" }
+  - { name: "Java", color: "#fb923c" }
+  - { name: "SQL", color: "#a78bfa" }
+
+# Repo shown in the "Latest project" stats cell (repo name only)
+pinned_repo: "AI-Powered-Subscription-Recurring-Payment-Manager"
+
+# Shared colours for the banner, cards and icons
+palette:
+  background: "#0c1330"
+  accent: "#2563eb"
+  cyan: "#0ea5e9"
+  text: "#e7f0ff"
+  muted: "#cfdcf5"
+  chip: "#13204a"
+  border: "#2d3c68"
+
 # Neofetch panel details
 os: "B.Tech CSE (AI & ML) @ KIIT"
 runtime: "Python 3.12 · TypeScript"
@@ -16,48 +61,61 @@ web_dev: "Next.js · React · Vite · FastAPI · Express"
 databases: "PostgreSQL · SQLite · Redis · Qdrant"
 focus: "Digital Twins · Computer Vision · Responsible AI"
 
-# Projects featured in README (newest first). Optional: demo
+# Projects listed under "Latest builds" (newest first). Optional: demo
 projects:
   - name: "SubTrack"
+    area: "AI finance"
+    date: "Oct 2026"
     tech: "React 19 · TypeScript · Vite · FastAPI · PostgreSQL"
     desc: "An AI-assisted subscription and recurring-payment manager: imports INR bank statements, detects subscriptions and bills, tracks renewals and budgets, and verifies every figure the assistant quotes."
     github: "https://github.com/devendrarajsingh07/AI-Powered-Subscription-Recurring-Payment-Manager"
     demo: "https://ai-powered-subscription-recurring-p.vercel.app"
   - name: "DocuMind"
+    area: "RAG"
+    date: "Oct 2026"
     tech: "Next.js 15 · Express · FastAPI · PostgreSQL · Qdrant · Redis"
     desc: "A three-service PDF workspace with OCR and layout extraction, searchable chunks, and RAG answers grounded in source citations."
     github: "https://github.com/devendrarajsingh07/Pdf-with-Ai-Rag"
   - name: "Traceable"
+    area: "Data trust"
+    date: "Sep 2026"
     tech: "React · Vite · FastAPI · PostgreSQL · D3"
     desc: "Impact reporting for small nonprofits that merges messy program files, keeps fuzzy matches under human review, and traces every reported number to its source records."
     github: "https://github.com/devendrarajsingh07/Traceable-impact-reporting-"
   - name: "Human Digital Twin"
+    area: "Digital twin"
+    date: "Sep 2026"
     tech: "Next.js 15 · React 19 · FastAPI · Three.js · PostgreSQL"
     desc: "A continuously learning student wellness twin with 3D visualization, forecasting, what-if simulation, and fidelity tracking."
     github: "https://github.com/devendrarajsingh07/Human-Digital-Twin0.1"
   - name: "MGHSIS"
+    area: "SIH 2026"
+    date: "Aug 2026"
     tech: "Next.js 16 · FastAPI · PostgreSQL · Redis · Python"
     desc: "A local-first mass-gathering safety platform combining wearable telemetry, crowd analytics, risk prediction, and a venue digital twin."
     github: "https://github.com/devendrarajsingh07/SIH2026-MGHSIS."
   - name: "BillingPro SaaS"
+    area: "SaaS"
+    date: "Aug 2026"
     tech: "React 19 · Node.js · Express · SQLite · Docker"
     desc: "A multi-tenant billing and ERP platform with invoicing, inventory, payments, RBAC, subscriptions, and reporting."
     github: "https://github.com/devendrarajsingh07/billingpro-saas"
 
-# Theme colors
+# Neofetch panel colours (matched to the banner palette)
 theme:
-  background: "#1a1b26" # Deep blue/grey (Tokyonight)
-  foreground: "#a9b1d6" # Light blue/grey
-  title: "#7aa2f7"      # Accent Blue
-  label: "#bb9af7"      # Accent Purple
-  value: "#c0caf5"      # Bright text
-  cursor: "#ff007f"     # Neon Pink
+  background: "#0c1330"
+  header: "#13204a"
+  foreground: "#8ea2c8"
+  title: "#38bdf8"
+  label: "#7dd3fc"
+  value: "#e7f0ff"
+  cursor: "#2563eb"
   ansi_colors:
-    - "#15161e" # black
-    - "#f7768e" # red
-    - "#9ece6a" # green
-    - "#e0af68" # yellow
-    - "#7aa2f7" # blue
-    - "#bb9af7" # magenta
-    - "#7dcfff" # cyan
-    - "#a9b1d6" # white
+    - "#0a0f1e"
+    - "#f87171"
+    - "#4ade80"
+    - "#facc15"
+    - "#2563eb"
+    - "#a78bfa"
+    - "#22d3ee"
+    - "#e7f0ff"

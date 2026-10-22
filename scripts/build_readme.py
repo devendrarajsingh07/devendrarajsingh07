@@ -5,8 +5,13 @@ from jinja2 import Template
 
 # Import generators used by the current profile layout
 from generate_neofetch import generate_neofetch_svg
-from generate_typing_header import generate_typing_header_svg
-from generate_wave import generate_wave_svg
+from generate_showcase import (
+    generate_banner_svg,
+    generate_footer_svg,
+    generate_icons,
+    generate_project_card_svg,
+    generate_skills_svg,
+)
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -26,20 +31,15 @@ def main():
         
     print("--- 1. Generating SVG Assets ---")
     
-    # Paths for output SVGs
-    neofetch_svg_path = os.path.join(project_dir, "assets", "neofetch_panel.svg")
-    typing_svg_path = os.path.join(project_dir, "assets", "typing_header.svg")
-    wave_svg_path = os.path.join(project_dir, "assets", "wave_divider.svg")
-        
-    # Run Neofetch generator
-    generate_neofetch_svg(neofetch_svg_path, config)
-    
-    # Run Typing Header generator
-    generate_typing_header_svg(typing_svg_path, config)
-    
-    # Run Wave Divider generator
-    generate_wave_svg(wave_svg_path, config)
-    
+    assets = os.path.join(project_dir, "assets")
+    generate_banner_svg(os.path.join(assets, "banner.svg"), config, project_dir)
+    generate_neofetch_svg(os.path.join(assets, "neofetch_panel.svg"), config)
+    generate_skills_svg(os.path.join(assets, "skills_dark.svg"), config, mode="dark")
+    generate_skills_svg(os.path.join(assets, "skills_light.svg"), config, mode="light")
+    generate_project_card_svg(os.path.join(assets, "latest_project.svg"), config)
+    generate_icons(os.path.join(assets, "icons"), config)
+    generate_footer_svg(os.path.join(assets, "footer_wave.svg"), config)
+
     print("\n--- 2. Assembling README.md ---")
     
     # Load template

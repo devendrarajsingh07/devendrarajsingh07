@@ -6,7 +6,7 @@
       font-weight: 600;
     }
     .cursor {
-      fill: #ff007f;
+      fill: #2563eb;
       animation: blink 1s step-end infinite;
     }
     @keyframes blink {
@@ -18,34 +18,34 @@
     <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.3" />
   </filter>
   <g filter="url(#shadow)">
-    <rect width="475" height="300" rx="8" fill="#1a1b26" />
+    <rect width="475" height="300" rx="8" fill="#0c1330" />
   </g>
-  <path d="M 0,8 A 8,8 0 0 1 8,0 L 467,0 A 8,8 0 0 1 475,8 L 475,35 L 0,35 Z" fill="#24283b" />
+  <path d="M 0,8 A 8,8 0 0 1 8,0 L 467,0 A 8,8 0 0 1 475,8 L 475,35 L 0,35 Z" fill="#13204a" />
   <circle cx="20" cy="17" r="6" fill="#f7768e" />
   <circle cx="38" cy="17" r="6" fill="#e0af68" />
   <circle cx="56" cy="17" r="6" fill="#9ece6a" />
-  <text x="237" y="22" fill="#a9b1d6" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">neofetch</text>
+  <text x="237" y="22" fill="#8ea2c8" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">neofetch</text>
   <text x="20" y="60" class="terminal-text">
-    <tspan fill="#7aa2f7">devendrarajsingh07@github</tspan>
+    <tspan fill="#38bdf8">devendrarajsingh07@github</tspan>
   </text>
   <rect x="202.0" y="49" width="8" height="13" class="cursor" />
-  <text x="20" y="75" class="terminal-text" fill="#a9b1d6">----------------------------------------</text>
-  <text x="20" y="93" class="terminal-text"><tspan fill="#bb9af7">OS:</tspan><tspan x="99" fill="#c0caf5">B.Tech CSE (AI &amp; ML) @ KIIT</tspan></text>
-  <text x="20" y="113" class="terminal-text"><tspan fill="#bb9af7">Role:</tspan><tspan x="99" fill="#c0caf5">AI/ML &amp; Full-Stack Developer</tspan></text>
-  <text x="20" y="133" class="terminal-text"><tspan fill="#bb9af7">Runtime:</tspan><tspan x="99" fill="#c0caf5">Python 3.12 · TypeScript</tspan></text>
-  <text x="20" y="153" class="terminal-text"><tspan fill="#bb9af7">Editor:</tspan><tspan x="99" fill="#c0caf5">VS Code · Cursor · Jupyter</tspan></text>
-  <text x="20" y="173" class="terminal-text"><tspan fill="#bb9af7">Languages:</tspan><tspan x="99" fill="#c0caf5">Python · TypeScript · JavaScript · Java · C · SQL</tspan></text>
-  <text x="20" y="193" class="terminal-text"><tspan fill="#bb9af7">AI/ML:</tspan><tspan x="99" fill="#c0caf5">PyTorch · OpenCV · YOLOv8 · RAG · Transformers</tspan></text>
-  <text x="20" y="213" class="terminal-text"><tspan fill="#bb9af7">Web Dev:</tspan><tspan x="99" fill="#c0caf5">Next.js · React · Vite · FastAPI · Express</tspan></text>
-  <text x="20" y="233" class="terminal-text"><tspan fill="#bb9af7">Databases:</tspan><tspan x="99" fill="#c0caf5">PostgreSQL · SQLite · Redis · Qdrant</tspan></text>
-  <text x="20" y="253" class="terminal-text"><tspan fill="#bb9af7">Focus:</tspan><tspan x="99" fill="#c0caf5">Digital Twins · Computer Vision · Responsible AI</tspan></text>
+  <text x="20" y="75" class="terminal-text" fill="#8ea2c8">----------------------------------------</text>
+  <text x="20" y="93" class="terminal-text"><tspan fill="#7dd3fc">OS:</tspan><tspan x="99" fill="#e7f0ff">B.Tech CSE (AI &amp; ML) @ KIIT</tspan></text>
+  <text x="20" y="113" class="terminal-text"><tspan fill="#7dd3fc">Role:</tspan><tspan x="99" fill="#e7f0ff">AI/ML &amp; Full-Stack Developer</tspan></text>
+  <text x="20" y="133" class="terminal-text"><tspan fill="#7dd3fc">Runtime:</tspan><tspan x="99" fill="#e7f0ff">Python 3.12 · TypeScript</tspan></text>
+  <text x="20" y="153" class="terminal-text"><tspan fill="#7dd3fc">Editor:</tspan><tspan x="99" fill="#e7f0ff">VS Code · Cursor · Jupyter</tspan></text>
+  <text x="20" y="173" class="terminal-text"><tspan fill="#7dd3fc">Languages:</tspan><tspan x="99" fill="#e7f0ff">Python · TypeScript · JavaScript · Java · C · SQL</tspan></text>
+  <text x="20" y="193" class="terminal-text"><tspan fill="#7dd3fc">AI/ML:</tspan><tspan x="99" fill="#e7f0ff">PyTorch · OpenCV · YOLOv8 · RAG · Transformers</tspan></text>
+  <text x="20" y="213" class="terminal-text"><tspan fill="#7dd3fc">Web Dev:</tspan><tspan x="99" fill="#e7f0ff">Next.js · React · Vite · FastAPI · Express</tspan></text>
+  <text x="20" y="233" class="terminal-text"><tspan fill="#7dd3fc">Databases:</tspan><tspan x="99" fill="#e7f0ff">PostgreSQL · SQLite · Redis · Qdrant</tspan></text>
+  <text x="20" y="253" class="terminal-text"><tspan fill="#7dd3fc">Focus:</tspan><tspan x="99" fill="#e7f0ff">Digital Twins · Computer Vision · Responsible AI</tspan></text>
   <!-- ANSI Color Blocks -->
-  <rect x="20" y="283" width="22" height="12" rx="2" fill="#15161e" />
-  <rect x="48" y="283" width="22" height="12" rx="2" fill="#f7768e" />
-  <rect x="76" y="283" width="22" height="12" rx="2" fill="#9ece6a" />
-  <rect x="104" y="283" width="22" height="12" rx="2" fill="#e0af68" />
-  <rect x="132" y="283" width="22" height="12" rx="2" fill="#7aa2f7" />
-  <rect x="160" y="283" width="22" height="12" rx="2" fill="#bb9af7" />
-  <rect x="188" y="283" width="22" height="12" rx="2" fill="#7dcfff" />
-  <rect x="216" y="283" width="22" height="12" rx="2" fill="#a9b1d6" />
+  <rect x="20" y="283" width="22" height="12" rx="2" fill="#0a0f1e" />
+  <rect x="48" y="283" width="22" height="12" rx="2" fill="#f87171" />
+  <rect x="76" y="283" width="22" height="12" rx="2" fill="#4ade80" />
+  <rect x="104" y="283" width="22" height="12" rx="2" fill="#facc15" />
+  <rect x="132" y="283" width="22" height="12" rx="2" fill="#2563eb" />
+  <rect x="160" y="283" width="22" height="12" rx="2" fill="#a78bfa" />
+  <rect x="188" y="283" width="22" height="12" rx="2" fill="#22d3ee" />
+  <rect x="216" y="283" width="22" height="12" rx="2" fill="#e7f0ff" />
 </svg>
